@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Will Cartar&#39;s Blog</title>
+        <link>https://cartar.github.io./</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.72.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>william.cartar@gmail.com (Will Cartar)</managingEditor>
+        
+        
+            <webMaster>william.cartar@gmail.com (Will Cartar)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Tue, 23 Jun 2020 15:00:07 -0400</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://cartar.github.io./rss.xml" />
+        
+        
+            <item>
+                <title>The Silk Roads</title>
+                <link>https://cartar.github.io./books/silkroads/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/silkroads/</guid>
+                <pubDate>Sun, 14 Jun 2020 11:40:14 -0400</pubDate>
+                
+                    <author>william.cartar@gmail.com (Will Cartar)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Test entry.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./categories/books/">Books</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
