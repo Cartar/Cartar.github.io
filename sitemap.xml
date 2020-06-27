@@ -3,23 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cartar.github.io./snippets/</loc>
+    <lastmod>2020-06-27T14:52:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./</loc>
+    <lastmod>2020-06-27T14:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./snippets/wip/</loc>
+    <lastmod>2020-06-27T14:52:23-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cartar.github.io./tags/books/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
+    <lastmod>2020-06-27T14:53:43-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./categories/books/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
+    <lastmod>2020-06-27T14:53:43-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./books/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
+    <lastmod>2020-06-27T14:53:43-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./categories/</loc>
-    <lastmod>2020-06-23T18:38:31-04:00</lastmod>
+    <lastmod>2020-06-27T14:53:43-04:00</lastmod>
   </url>
   
   <url>
@@ -33,23 +48,13 @@
   </url>
   
   <url>
-    <loc>https://cartar.github.io./snippets/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cartar.github.io./tags/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
+    <lastmod>2020-06-27T14:53:43-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./books/silkroads/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cartar.github.io./</loc>
-    <lastmod>2020-06-23T18:38:31-04:00</lastmod>
+    <lastmod>2020-06-27T14:32:55-04:00</lastmod>
   </url>
   
   <url>
@@ -85,6 +90,21 @@
   <url>
     <loc>https://cartar.github.io./posts/emotion_in_policy/</loc>
     <lastmod>2020-06-23T18:38:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./books/alexadventurenumberland/</loc>
+    <lastmod>2020-06-27T14:39:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./books/talking2strangers/</loc>
+    <lastmod>2020-06-27T14:45:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./books/mypersonalmba/</loc>
+    <lastmod>2020-06-27T14:53:43-04:00</lastmod>
   </url>
   
 </urlset>
