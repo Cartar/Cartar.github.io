@@ -3,28 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cartar.github.io./posts/america/</loc>
-    <lastmod>2020-09-04T16:36:50-04:00</lastmod>
+    <loc>https://cartar.github.io./categories/</loc>
+    <lastmod>2020-11-15T12:36:07-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cartar.github.io./categories/</loc>
-    <lastmod>2020-09-04T16:36:50-04:00</lastmod>
+    <loc>https://cartar.github.io./posts/the_digital_world/</loc>
+    <lastmod>2020-11-15T12:36:01-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./categories/posts/</loc>
-    <lastmod>2020-09-04T16:36:50-04:00</lastmod>
+    <lastmod>2020-11-15T12:36:07-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./posts/</loc>
-    <lastmod>2020-09-04T16:36:50-04:00</lastmod>
+    <lastmod>2020-11-15T12:36:07-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./</loc>
-    <lastmod>2020-09-04T16:36:50-04:00</lastmod>
+    <lastmod>2020-11-15T12:36:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./posts/creativity/</loc>
+    <lastmod>2020-11-15T12:35:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./tags/books/</loc>
+    <lastmod>2020-10-01T21:56:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./categories/books/</loc>
+    <lastmod>2020-10-01T21:56:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./books/</loc>
+    <lastmod>2020-10-01T21:56:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./books/stampedfromthebeginning/</loc>
+    <lastmod>2020-10-01T21:56:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./tags/</loc>
+    <lastmod>2020-10-01T21:56:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./posts/america/</loc>
+    <lastmod>2020-09-19T15:31:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./posts/have_tough_convos/</loc>
+    <lastmod>2020-11-15T12:36:07-05:00</lastmod>
   </url>
   
   <url>
@@ -34,42 +74,27 @@
   
   <url>
     <loc>https://cartar.github.io./snippets/</loc>
-    <lastmod>2020-09-04T16:24:38-04:00</lastmod>
+    <lastmod>2020-11-02T20:33:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./snippets/wip/</loc>
-    <lastmod>2020-09-04T16:24:38-04:00</lastmod>
+    <lastmod>2020-09-19T16:06:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cartar.github.io./tags/books/</loc>
-    <lastmod>2020-08-02T13:12:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cartar.github.io./categories/books/</loc>
-    <lastmod>2020-08-02T13:12:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cartar.github.io./books/</loc>
-    <lastmod>2020-08-02T13:12:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cartar.github.io./categories/emoji/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
+    <loc>https://cartar.github.io./snippets/snippets/</loc>
+    <lastmod>2020-11-02T20:33:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://cartar.github.io./snippets/markdownemojis/</loc>
-    <lastmod>2020-06-23T14:48:31-04:00</lastmod>
+    <lastmod>2020-11-02T20:23:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cartar.github.io./tags/</loc>
-    <lastmod>2020-08-02T13:12:33-04:00</lastmod>
+    <loc>https://cartar.github.io./categories/snippets/</loc>
+    <lastmod>2020-11-02T20:33:59-05:00</lastmod>
   </url>
   
   <url>
@@ -110,6 +135,21 @@
   <url>
     <loc>https://cartar.github.io./books/mypersonalmba/</loc>
     <lastmod>2020-06-29T17:36:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./wip/back_to_the_future/</loc>
+    <lastmod>2020-11-15T12:34:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./wip/the_next_revolution/</loc>
+    <lastmod>2020-11-15T12:34:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cartar.github.io./wip/</loc>
+    <lastmod>2020-11-15T12:34:41-05:00</lastmod>
   </url>
   
 </urlset>
