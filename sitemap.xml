@@ -1,165 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://cartar.github.io./books/atomichabits/</loc>
-    <lastmod>2021-01-22T15:03:12-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-23T06:03:12+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./tags/books/</loc>
-    <lastmod>2021-01-22T15:03:12-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-23T06:03:12+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./categories/books/</loc>
-    <lastmod>2021-01-22T15:03:12-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-23T06:03:12+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./books/</loc>
-    <lastmod>2021-01-22T15:03:12-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-23T06:03:12+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./categories/</loc>
-    <lastmod>2021-01-22T15:03:12-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-23T06:03:12+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./tags/</loc>
-    <lastmod>2021-01-22T15:03:12-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-23T06:03:12+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./</loc>
-    <lastmod>2021-01-22T15:03:12-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-07-21T23:37:20+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./posts/the_digital_world/</loc>
-    <lastmod>2020-11-15T12:36:01-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-16T03:36:01+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./categories/posts/</loc>
-    <lastmod>2020-11-15T22:03:06-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-16T13:03:06+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./posts/</loc>
-    <lastmod>2021-01-07T16:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-16T13:03:06+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./posts/creativity/</loc>
-    <lastmod>2020-11-15T22:03:06-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-16T13:03:06+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./books/stampedfromthebeginning/</loc>
-    <lastmod>2020-10-01T21:56:21-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-10-02T11:56:21+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./posts/america/</loc>
-    <lastmod>2020-09-19T15:31:55-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-20T05:31:55+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./posts/have_tough_convos/</loc>
-    <lastmod>2020-11-15T12:36:07-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-16T03:36:07+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./snippets/ifmoneywasnoobject/</loc>
-    <lastmod>2020-08-02T22:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-08-03T12:09:57+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./snippets/</loc>
-    <lastmod>2020-11-02T20:33:59-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-03T11:33:59+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./snippets/wip/</loc>
-    <lastmod>2020-09-19T16:06:07-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-20T06:06:07+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./snippets/snippets/</loc>
-    <lastmod>2020-11-02T20:33:59-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-03T11:33:59+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./snippets/markdownemojis/</loc>
-    <lastmod>2020-11-02T20:23:24-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-03T11:23:24+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./categories/snippets/</loc>
-    <lastmod>2020-11-02T20:33:59-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-03T11:33:59+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./books/silkroads/</loc>
-    <lastmod>2020-08-02T13:12:33-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-08-03T03:12:33+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./about/</loc>
-    <lastmod>2020-09-04T16:26:04-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-05T06:26:04+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./code/</loc>
-    <lastmod>2020-07-01T10:36:02-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-07-02T00:36:02+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./code/test/</loc>
-    <lastmod>2020-07-01T10:36:02-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-07-02T00:36:02+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./posts/emotion_in_policy/</loc>
-    <lastmod>2020-06-23T18:38:31-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-24T08:38:31+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./books/alexadventurenumberland/</loc>
-    <lastmod>2020-06-29T17:36:37-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T07:36:37+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./books/talking2strangers/</loc>
-    <lastmod>2020-06-29T17:41:31-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T07:41:31+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./books/mypersonalmba/</loc>
-    <lastmod>2020-06-29T17:36:31-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cartar.github.io./posts/consumerism/</loc>
-    <lastmod>2021-01-07T16:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T07:36:31+10:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./wip/adding_value/</loc>
+    <lastmod>2021-07-21T23:37:20+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./wip/back_to_the_future/</loc>
-    <lastmod>2020-11-15T12:34:41-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-16T03:34:41+10:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./wip/consumerism/</loc>
+    <lastmod>2021-01-08T07:05:18+10:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./wip/frameworks/</loc>
+    <lastmod>2021-03-07T04:38:10+10:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./wip/happiness_in_your_20s/</loc>
+    <lastmod>2021-04-14T04:26:15+10:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./wip/selfstates/</loc>
+    <lastmod>2021-03-27T12:28:21+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./wip/the_next_revolution/</loc>
-    <lastmod>2020-11-15T12:34:35-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-16T03:34:35+10:00</lastmod>
+  </url><url>
     <loc>https://cartar.github.io./wip/</loc>
-    <lastmod>2020-11-15T12:34:41-05:00</lastmod>
+    <lastmod>2021-07-21T23:37:20+10:00</lastmod>
   </url>
-  
 </urlset>
