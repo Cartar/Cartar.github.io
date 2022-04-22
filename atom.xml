@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-04-22T11:31:46&#43;10:00</updated>
+    <updated>2022-04-22T11:38:44&#43;10:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -232,6 +232,56 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
 4/5.</summary>
             
                 <content type="html">&lt;p&gt;A brutally honest take on the challenges faced when trying to build a company. A fantastic story of the compromises a CEO might face, and why being an entrepreneur is so hard.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">The Alchemist</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
+            <id>https://cartar.github.io./books/202010thealchemist/</id>
+            <updated>2022-04-22T11:36:51&#43;10:00</updated>
+            <published>2020-10-26T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A bit dated, this book remains a captivating story of the human condition. Seeking an outcome for fulfillment:
+ &amp;ldquo;It&amp;rsquo;s the possibility of having a dream come true that makes life interesting, he thought, as he looked again at the position of the sun, and hurried his pace.</summary>
+            
+                <content type="html">&lt;p&gt;A bit dated, this book remains a captivating story of the human condition. Seeking an outcome for fulfillment:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s the possibility of having a dream come true that makes life interesting, he thought, as he looked again at the position of the sun, and hurried his pace.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;the story takes the reader through relatable ups-and-downs, occasional magic, and a satisfying ending.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
 </content>
             
@@ -560,56 +610,6 @@ My favourite takeaways Prototyping When developing a business, iteration and fee
 &lt;h3 id=&#34;selection-test&#34;&gt;Selection Test&lt;/h3&gt;
 &lt;p&gt;Environmental constraints that determine which systems can be self perpetuating and which ones die.
 Know the selection tests for a market and you can change the field; especially as markets change due to tech.&lt;/p&gt;
-&lt;p&gt;4/5.&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">The Alchemist</title>
-            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
-            <id>https://cartar.github.io./books/202010thealchemist/</id>
-            <updated>2022-04-22T11:24:07&#43;10:00</updated>
-            <published>0001-01-01T00:00:00&#43;00:00</published>
-            <author>
-                    <name>Will Cartar</name>
-                    <uri>https://cartar.github.io./</uri>
-                    <email>william.cartar@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A bit dated, this book remains a captivating story of the human condition. Seeking an outcome for fulfillment:
- &amp;ldquo;It&amp;rsquo;s the possibility of having a dream come true that makes life interesting, he thought, as he looked again at the position of the sun, and hurried his pace.</summary>
-            
-                <content type="html">&lt;p&gt;A bit dated, this book remains a captivating story of the human condition. Seeking an outcome for fulfillment:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;It&amp;rsquo;s the possibility of having a dream come true that makes life interesting, he thought, as he looked again at the position of the sun, and hurried his pace.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;the story takes the reader through relatable ups-and-downs, occasional magic, and a satisfying ending.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
 </content>
             
