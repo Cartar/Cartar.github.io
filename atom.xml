@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-04-22T11:38:44&#43;10:00</updated>
+    <updated>2022-05-02T08:59:51&#43;10:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -17,10 +17,278 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
         <entry>
+            <title type="text">Noise: A flaw in Human Judgment</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202110noise/" />
+            <id>https://cartar.github.io./books/202110noise/</id>
+            <updated>2022-05-02T08:58:05&#43;10:00</updated>
+            <published>2021-10-07T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book opened my eyes to the differences between bias and noise, and how they are equally proportional to disrupting our desired outcome. That is to say, imagine missing a target by some random &amp;ldquo;noisy&amp;rdquo; amount, which widens the bell curve of outcomes.</summary>
+            
+                <content type="html">&lt;p&gt;This book opened my eyes to the differences between bias and noise, and how they are equally proportional to disrupting our desired outcome. That is to say, imagine missing a target by some random &amp;ldquo;noisy&amp;rdquo; amount, which widens the bell curve of outcomes. The distance, on average, away from the target result would be just as bad as an equal error magnitude in bias. The only difference being that the bias is easier to see, because it is clustering away from the target. Thus, bias is often the focus in reducing error for our desired outcomes, when really, it should be considered equally with noise, if our goal is error reduction.&lt;/p&gt;
+&lt;p&gt;Simple techniques for reducing error through noise include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a noise audit,&lt;/li&gt;
+&lt;li&gt;collecting multiple opinions (even yourself multiple times), without priming the answer of individuals, and&lt;/li&gt;
+&lt;li&gt;regularly measuring noise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;three-principles-of-decision-hygiene&#34;&gt;Three Principles of Decision Hygiene&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&amp;ldquo;Resist premature intuitions.”&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Think like a statistician.”&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Accuracy, not individual expression.”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See a quick summary of these ideas &lt;a href=&#34;https://productcoalition.com/three-principles-for-making-better-decisions-cbcb3bbea956&#34;&gt;here&lt;/a&gt;, or review the book for greater detail!&lt;/p&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Braiding Sweetgrass</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202107braidingsweetgrass/" />
+            <id>https://cartar.github.io./books/202107braidingsweetgrass/</id>
+            <updated>2022-05-02T08:42:44&#43;10:00</updated>
+            <published>2021-07-22T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Note: I only read ~50% of this book. I wasn&amp;rsquo;t captivated by the content my first time through, which might be why I only rated this a 3/5. I should like to try again one day, as I know many people who say this is one of their favourite books.</summary>
+            
+                <content type="html">&lt;p&gt;Note: I only read ~50% of this book. I wasn&amp;rsquo;t captivated by the content my first time through, which might be why I only rated this a 3/5. I should like to try again one day, as I know many people who say this is one of their favourite books.&lt;/p&gt;
+&lt;p&gt;Stories of indigenous wisdom, woven with scientific thinking, told in a North American setting. Many beautiful lessons to be had here, like how our language shapes our relationship with the environment. For example, the personification of nature in indigenous tongues, and the naturefication of human actions is indicative of their relationship.&lt;/p&gt;
+&lt;p&gt;Other lessons include regenerative farming techniques, deep respect for the land and ecosystem you depend on, spending time in nature, and the mystery of pecan trees who drop all their nuts at the same time as if in contact with one another.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Physics of the Impossible</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202106physicsimpossible/" />
+            <id>https://cartar.github.io./books/202106physicsimpossible/</id>
+            <updated>2022-04-30T09:36:30&#43;10:00</updated>
+            <published>2021-05-19T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A physics book unlike any other I&amp;rsquo;ve read. Reality is distorted by the mind-bending possibilities of physics that are beyond our reach. Sometimes, the physics has been proven, but we&amp;rsquo;re missing technological advances necessary to bring it to life, other times, it&amp;rsquo;s physics that might truly be impossible.</summary>
+            
+                <content type="html">&lt;p&gt;A physics book unlike any other I&amp;rsquo;ve read. Reality is distorted by the mind-bending possibilities of physics that are beyond our reach. Sometimes, the physics has been proven, but we&amp;rsquo;re missing technological advances necessary to bring it to life, other times, it&amp;rsquo;s physics that might truly be impossible. In either case, the idea&amp;rsquo;s themselves are delightful to consume. Some minds are truly special.&lt;/p&gt;
+&lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;A tidal wave of commercial applications could be set off if we create room-temperature superconductors. Magnetic fields a million times stronger than that of the earth could become commonplace.
+&lt;ul&gt;
+&lt;li&gt;Levitation for zero friction movement.&lt;/li&gt;
+&lt;li&gt;Since water is a diamagnet, it too can levitate in the presence of a powerful magnetic field. Scientists have levitated small animals, like frogs, for example.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Negative energy is real! The Casimir effect - the pressure felt by two parallel (neutral) plates in a vacuum by &amp;ldquo;virtual particles&amp;rdquo;. When these plates are brought close together, you can extract energy out of the system&amp;rsquo;s mutual attraction. Predicted in 1933, and proven in 1948, the attractive force was precisely measured in 1996 to be miniscule, 1/30,000 the weight of an ant.&lt;/li&gt;
+&lt;li&gt;There are exotic solutions to relativity whereby stable wormholes can be created that transport you to other universes, or transversable wormholes where you can pass back and forth freely. The problem with these exotic solutions is that they require a fabulous amount of positive and negative matter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-founder-of-antimatter-tldr&#34;&gt;The founder of antimatter (TL;DR)&lt;/h2&gt;
+&lt;p&gt;A longer version of this can be found in the book.&lt;/p&gt;
+&lt;p&gt;Paul Dirac noticed that Schrödinger&amp;rsquo;s equations failed to work with the theory of relativity. In 1928, he proposed a radical reformulation (now called Dirac&amp;rsquo;s equation) that satisfied both, using a mathematical object called spinors. Additionally, these new equations showed that E = mc^2 no longer holds. Rather, it is E = +/- mc^2.&lt;/p&gt;
+&lt;p&gt;The implications of this mathematics is considered one of the greatest triumphs in theoretical physics. Not only did this new formulation predict anti-matter, which was then discovered a few years &lt;em&gt;later&lt;/em&gt;, it also provided a theoretical justification for the fundamental phenomenon of spin.&lt;/p&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Delivering Happiness</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202105deliveringhappiness/" />
+            <id>https://cartar.github.io./books/202105deliveringhappiness/</id>
+            <updated>2022-04-30T08:22:06&#43;10:00</updated>
+            <published>2021-05-03T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A dot-com winner, then loser, then back to the top story. Lots of building-a-business advice from a very unique person. A lot of his focus is on the customer, and internal culture. Sorta changed my perception of what a &amp;ldquo;head of culture&amp;rdquo; can even do at a company.</summary>
+            
+                <content type="html">&lt;p&gt;A dot-com winner, then loser, then back to the top story. Lots of building-a-business advice from a very unique person. A lot of his focus is on the customer, and internal culture. Sorta changed my perception of what a &amp;ldquo;head of culture&amp;rdquo; can even do at a company. Namely, they can facilitate an environment to help people connect, but that could be very different for each person, and at the end of the day, culture is what is &lt;em&gt;felt&lt;/em&gt; by each person. The collective average being that which is its core, but truly, it&amp;rsquo;s just a feeling.&lt;/p&gt;
+&lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Share what you&amp;rsquo;ve learned with others.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Look for opportunities beyond just the game you sat down to play. You never know who you&amp;rsquo;re going to meet, including new friends for life or new business contacts.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Have fun. The game is a lot more enjoyable when you&amp;rsquo;re trying to do more than just make money.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;[Creating a] culture book is not about the book&amp;hellip; it&amp;rsquo;s about the culture.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;What&amp;rsquo;s the best way to build a brand for the long term? In a word: culture. At Zappos, our belief is that if you get the culture right, most of the other stuff - customer service, long-term brand, etc. will happen naturally&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Shoe Dog</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202103shoedog/" />
+            <id>https://cartar.github.io./books/202103shoedog/</id>
+            <updated>2022-04-30T08:22:26&#43;10:00</updated>
+            <published>2021-03-16T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A novel that&amp;rsquo;ll transport you back to a decade quite unlike today. Not only was there no Nike, there wasn&amp;rsquo;t &amp;ldquo;athleisure&amp;rdquo; or jogging for fun. The story on it&amp;rsquo;s own is hard to put down, but the way it&amp;rsquo;s told makes this a truly joyful read.</summary>
+            
+                <content type="html">&lt;p&gt;A novel that&amp;rsquo;ll transport you back to a decade quite unlike today. Not only was there no Nike, there wasn&amp;rsquo;t &amp;ldquo;athleisure&amp;rdquo; or jogging for fun. The story on it&amp;rsquo;s own is hard to put down, but the way it&amp;rsquo;s told makes this a truly joyful read.&lt;/p&gt;
+&lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Don&amp;rsquo;t tell people how to do things, tell them what to do and let them surprise you with their results.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;[To help young entrepreneurs,] I&amp;rsquo;d tell them to hit pause, think long and hard about how they want to spend their time, and with whom they want to spend it for the next forty years. I&amp;rsquo;d tell men and women in their mid twenties not to settle for a job or a profession or even a career. Seek a calling. Even if you don&amp;rsquo;t know what that means, seek it. If you&amp;rsquo;re following your calling, the fatigue will be easier to bear, the disappointment will be fuel, the highs will be like nothing you&amp;rsquo;ve ever felt.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Atomic Habits</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202101atomichabits/" />
             <id>https://cartar.github.io./books/202101atomichabits/</id>
-            <updated>2022-04-22T10:16:06&#43;10:00</updated>
+            <updated>2022-04-30T07:49:53&#43;10:00</updated>
             <published>2021-01-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -58,7 +326,57 @@
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">How I Invest My Money</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012investmoney/" />
+            <id>https://cartar.github.io./books/202012investmoney/</id>
+            <updated>2022-04-30T08:22:43&#43;10:00</updated>
+            <published>2020-12-27T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A collection of financial industry darlings speak openly about how they invest their money. Often aligning with the products they&amp;rsquo;ve worked on, but not always. It&amp;rsquo;d be nice to have more books openly discuss this topic to showcase the complexities of investing.</summary>
+            
+                <content type="html">&lt;p&gt;A collection of financial industry darlings speak openly about how they invest their money. Often aligning with the products they&amp;rsquo;ve worked on, but not always. It&amp;rsquo;d be nice to have more books openly discuss this topic to showcase the complexities of investing.&lt;/p&gt;
+&lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;EquityZen is an interesting platform that allows for pre-IPO shares to be traded.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;your money is a wonderful servant and a terrible master&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
                             
                         
                     
@@ -80,8 +398,8 @@
             <title type="text">The Almanack of Naval Ravikant</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012almanack/" />
             <id>https://cartar.github.io./books/202012almanack/</id>
-            <updated>2022-04-22T11:27:26&#43;10:00</updated>
-            <published>2020-12-27T11:40:14-04:00</published>
+            <updated>2022-04-30T07:50:46&#43;10:00</updated>
+            <published>2020-12-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
@@ -199,7 +517,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
                             
                         
                     
@@ -221,8 +539,8 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Hard thing about Hard Things</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012hardthings/" />
             <id>https://cartar.github.io./books/202012hardthings/</id>
-            <updated>2022-04-22T11:26:33&#43;10:00</updated>
-            <published>2020-12-12T11:40:14-04:00</published>
+            <updated>2022-04-30T07:50:51&#43;10:00</updated>
+            <published>2020-11-12T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
@@ -245,7 +563,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
                             
                         
                     
@@ -267,7 +585,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Alchemist</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
             <id>https://cartar.github.io./books/202010thealchemist/</id>
-            <updated>2022-04-22T11:36:51&#43;10:00</updated>
+            <updated>2022-04-30T07:50:42&#43;10:00</updated>
             <published>2020-10-26T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -295,7 +613,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
                             
                         
                     
@@ -317,7 +635,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Stamped From The Beginning</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202009stampedfromthebeginning/" />
             <id>https://cartar.github.io./books/202009stampedfromthebeginning/</id>
-            <updated>2022-04-21T10:21:58&#43;10:00</updated>
+            <updated>2022-04-30T07:50:37&#43;10:00</updated>
             <published>2020-09-30T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -366,7 +684,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
                             
                         
                     
@@ -388,7 +706,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Silk Roads</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202006silkroads/" />
             <id>https://cartar.github.io./books/202006silkroads/</id>
-            <updated>2022-04-22T10:14:28&#43;10:00</updated>
+            <updated>2022-04-30T07:49:36&#43;10:00</updated>
             <published>2020-06-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -435,7 +753,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
                             
                         
                     
@@ -457,7 +775,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Alex’s Adventures in Numberland</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202004alexadventurenumberland/" />
             <id>https://cartar.github.io./books/202004alexadventurenumberland/</id>
-            <updated>2022-04-22T10:13:52&#43;10:00</updated>
+            <updated>2022-04-30T07:49:33&#43;10:00</updated>
             <published>2020-04-25T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -493,7 +811,7 @@ My favourite takeaways Regression to the mean Regression to the mean is the conc
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
                             
                         
                     
@@ -515,7 +833,7 @@ My favourite takeaways Regression to the mean Regression to the mean is the conc
             <title type="text">Talking to Strangers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202003talking2strangers/" />
             <id>https://cartar.github.io./books/202003talking2strangers/</id>
-            <updated>2022-04-22T10:12:39&#43;10:00</updated>
+            <updated>2022-04-30T07:49:25&#43;10:00</updated>
             <published>2020-03-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -549,7 +867,7 @@ My favourite takeaways  Defaulting to the truth is OK.</summary>
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
                             
                         
                     
@@ -571,7 +889,7 @@ My favourite takeaways  Defaulting to the truth is OK.</summary>
             <title type="text">The Personal MBA</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202002mypersonalmba/" />
             <id>https://cartar.github.io./books/202002mypersonalmba/</id>
-            <updated>2022-04-22T10:12:10&#43;10:00</updated>
+            <updated>2022-04-30T07:50:28&#43;10:00</updated>
             <published>2020-02-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -623,7 +941,7 @@ Know the selection tests for a market and you can change the field; especially a
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/books/" term="Books" label="Books" />
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
                             
                         
                     
