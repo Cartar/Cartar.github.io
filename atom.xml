@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-05-02T08:59:51&#43;10:00</updated>
+    <updated>2022-05-09T15:39:15&#43;12:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -17,10 +17,395 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
         <entry>
+            <title type="text">Six Easy Pieces</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205sixezpieces/" />
+            <id>https://cartar.github.io./books/202205sixezpieces/</id>
+            <updated>2022-05-09T15:36:37&#43;12:00</updated>
+            <published>2022-05-02T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.
+2/5.</summary>
+            
+                <content type="html">&lt;p&gt;Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.&lt;/p&gt;
+&lt;p&gt;2/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/poor-books/" term="Poor Books" label="Poor Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Dopamine Nation</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204dopaminenation/" />
+            <id>https://cartar.github.io./books/202204dopaminenation/</id>
+            <updated>2022-05-09T15:32:12&#43;12:00</updated>
+            <published>2022-04-28T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">An insightful perspective on our society today, the author weaves stories of addiction throughout to illustrate how we&amp;rsquo;re easily prone to it, and how we might pull ourselves out.
+The most insightful lesson (for me) was that pain is in fact a pleasurable time-sink, due to the pleasure-pain balance our bodies strive for.</summary>
+            
+                <content type="html">&lt;p&gt;An insightful perspective on our society today, the author weaves stories of addiction throughout to illustrate how we&amp;rsquo;re easily prone to it, and how we might pull ourselves out.&lt;/p&gt;
+&lt;p&gt;The most insightful lesson (for me) was that pain is in fact a pleasurable time-sink, due to the pleasure-pain balance our bodies strive for. Post pain, we are often flooded with euphoric hormones to compensate. Beware of becoming addicted to pain, but, when used correctly, it is a low risk powerful stimulant.&lt;/p&gt;
+&lt;p&gt;Examples can include: cold water sessions (I&amp;rsquo;d argue hot ones too), physical activity, caloric restriction (careful for adverse health effects), and learning something new.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll add that in our high-speed dopamine-saturated society, slow activities like yoga, meditation, and aimless mind wandering can feel painful if you&amp;rsquo;re addicted to delivering results (which itself is an addiction to pain mechanism). Over time, leaning into these activities will deliver healthier pleasure too.&lt;/p&gt;
+&lt;p&gt;Everything in moderation.&lt;/p&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Stolen Focus</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204stolenfocus/" />
+            <id>https://cartar.github.io./books/202204stolenfocus/</id>
+            <updated>2022-05-09T15:30:54&#43;12:00</updated>
+            <published>2022-04-20T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A must read for those itching to learn why they have a love hate relationship with technology. All ideas are presented alongside their empirical findings, including where the scientific community has a consensus, and where it does not.
+Many of these ideas are present in other self help books, like: sleep more, eat well, work less, and make time for slowness (yoga, meditation, nature walks without audio) and play.</summary>
+            
+                <content type="html">&lt;p&gt;A must read for those itching to learn why they have a love hate relationship with technology. All ideas are presented alongside their empirical findings, including where the scientific community has a consensus, and where it does not.&lt;/p&gt;
+&lt;p&gt;Many of these ideas are present in other self help books, like: sleep more, eat well, work less, and make time for slowness (yoga, meditation, nature walks without audio) and play. But the studies and storytelling in this book make it worthwhile nonetheless for those who are already familiar with this list.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">The Bomber Mafia</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204bombermafia/" />
+            <id>https://cartar.github.io./books/202204bombermafia/</id>
+            <updated>2022-05-09T15:31:16&#43;12:00</updated>
+            <published>2022-04-17T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A masterclass in storytelling. I found it hard to put this book down from start to finish. As the title says, this book follows the evolution of America&amp;rsquo;s bomber mafia, a group of pilots who helped create the Air Force. We learn about their military decisions, shortcomings, success, and the ending of WW2.</summary>
+            
+                <content type="html">&lt;p&gt;A masterclass in storytelling. I found it hard to put this book down from start to finish. As the title says, this book follows the evolution of America&amp;rsquo;s bomber mafia, a group of pilots who helped create the Air Force. We learn about their military decisions, shortcomings, success, and the ending of WW2. An interesting story told by one of the greatest storytellers of our time.&lt;/p&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">There There</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204therethere/" />
+            <id>https://cartar.github.io./books/202204therethere/</id>
+            <updated>2022-05-09T15:26:57&#43;12:00</updated>
+            <published>2022-04-14T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Some beautifully written passages that were thought provoking in the way good poetry often is; however the book overall wasn&amp;rsquo;t as captivating of a story as I&amp;rsquo;d hoped.
+Unique storytelling in how the chapters were constructed, but I found it hard to build up empathy for any one character, and found myself loosing steam in the middle.</summary>
+            
+                <content type="html">&lt;p&gt;Some beautifully written passages that were thought provoking in the way good poetry often is; however the book overall wasn&amp;rsquo;t as captivating of a story as I&amp;rsquo;d hoped.&lt;/p&gt;
+&lt;p&gt;Unique storytelling in how the chapters were constructed, but I found it hard to build up empathy for any one character, and found myself loosing steam in the middle.&lt;/p&gt;
+&lt;p&gt;The conclusion however was worthwhile.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">The Power of Now</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202203powerofnow/" />
+            <id>https://cartar.github.io./books/202203powerofnow/</id>
+            <updated>2022-05-09T15:25:35&#43;12:00</updated>
+            <published>2022-03-14T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A book about spirituality accessed by focusing your attention on the present. Written in the late 90&amp;rsquo;s, this book seems ahead of its time regarding the power of mindfulness. However, the author extends the benefits of mindfulness into the mystical realm of God, which might resonate with some folks, but harder for an atheist (like me) to digest.</summary>
+            
+                <content type="html">&lt;p&gt;A book about spirituality accessed by focusing your attention on the present. Written in the late 90&amp;rsquo;s, this book seems ahead of its time regarding the power of mindfulness. However, the author extends the benefits of mindfulness into the mystical realm of God, which might resonate with some folks, but harder for an atheist (like me) to digest.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Less Is More</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202lessismore/" />
+            <id>https://cartar.github.io./books/202202lessismore/</id>
+            <updated>2022-05-09T15:24:53&#43;12:00</updated>
+            <published>2022-02-24T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&amp;ldquo;How degrowth will save the world&amp;rdquo;. This book describes how we might move away from a constantly growing economy, to one that is decelerating, without harming the people who live in it, and in fact, improving their lives along the way.
+To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&amp;rsquo;t be able to consume at the current multiplier they enjoy.</summary>
+            
+                <content type="html">&lt;p&gt;&amp;ldquo;How degrowth will save the world&amp;rdquo;. This book describes how we might move away from a constantly growing economy, to one that is decelerating, without harming the people who live in it, and in fact, improving their lives along the way.&lt;/p&gt;
+&lt;p&gt;To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&amp;rsquo;t be able to consume at the current multiplier they enjoy. But they too will benefit from a healthier way of life, and a society that is more inclusive.&lt;/p&gt;
+&lt;p&gt;The main benefactor will be our planet, and our ancestors, who&amp;rsquo;ll inherit a world that narrowly escaped an ecological disaster.&lt;/p&gt;
+&lt;p&gt;A possible path forward would be the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;end planned obsolences (stop creating purposefully fragile objects),&lt;/li&gt;
+&lt;li&gt;cut advertising (stop nudging people to buy things they don&amp;rsquo;t need),&lt;/li&gt;
+&lt;li&gt;shift from ownership to usership,&lt;/li&gt;
+&lt;li&gt;end food waster, and&lt;/li&gt;
+&lt;li&gt;scale down ecologically destructive industries (and have the remaining industries scale down working hours to make room for the newly unemployed).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My gripe with this book is that the author calls on capitalism as the culprit. IMO, the culprit is poorly insulated governments who aren&amp;rsquo;t able to enact resilient policies that&amp;rsquo;d make this degrowth possible. We need better political infrastructure, not an end to capitalism.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Educated</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202educated/" />
+            <id>https://cartar.github.io./books/202202educated/</id>
+            <updated>2022-05-09T15:24:27&#43;12:00</updated>
+            <published>2022-02-04T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A gripping story of being raised without traditional education, and the impact that had on Tara as she discovers a world beyond her childhood.
+I found this book hard to put down. I highly recommend it to anyone looking for a non-fiction story that&amp;rsquo;ll transport you to another world.</summary>
+            
+                <content type="html">&lt;p&gt;A gripping story of being raised without traditional education, and the impact that had on Tara as she discovers a world beyond her childhood.&lt;/p&gt;
+&lt;p&gt;I found this book hard to put down. I highly recommend it to anyone looking for a non-fiction story that&amp;rsquo;ll transport you to another world.&lt;/p&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Noise: A flaw in Human Judgment</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202110noise/" />
             <id>https://cartar.github.io./books/202110noise/</id>
-            <updated>2022-05-02T08:58:05&#43;10:00</updated>
+            <updated>2022-05-02T10:58:05&#43;12:00</updated>
             <published>2021-10-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -78,7 +463,7 @@
             <title type="text">Braiding Sweetgrass</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202107braidingsweetgrass/" />
             <id>https://cartar.github.io./books/202107braidingsweetgrass/</id>
-            <updated>2022-05-02T08:42:44&#43;10:00</updated>
+            <updated>2022-05-02T10:42:44&#43;12:00</updated>
             <published>2021-07-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -125,7 +510,7 @@
             <title type="text">Physics of the Impossible</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202106physicsimpossible/" />
             <id>https://cartar.github.io./books/202106physicsimpossible/</id>
-            <updated>2022-04-30T09:36:30&#43;10:00</updated>
+            <updated>2022-04-30T11:36:30&#43;12:00</updated>
             <published>2021-05-19T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -185,7 +570,7 @@
             <title type="text">Delivering Happiness</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202105deliveringhappiness/" />
             <id>https://cartar.github.io./books/202105deliveringhappiness/</id>
-            <updated>2022-04-30T08:22:06&#43;10:00</updated>
+            <updated>2022-04-30T10:22:06&#43;12:00</updated>
             <published>2021-05-03T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -238,7 +623,7 @@
             <title type="text">Shoe Dog</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202103shoedog/" />
             <id>https://cartar.github.io./books/202103shoedog/</id>
-            <updated>2022-04-30T08:22:26&#43;10:00</updated>
+            <updated>2022-04-30T10:22:26&#43;12:00</updated>
             <published>2021-03-16T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -288,7 +673,7 @@
             <title type="text">Atomic Habits</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202101atomichabits/" />
             <id>https://cartar.github.io./books/202101atomichabits/</id>
-            <updated>2022-04-30T07:49:53&#43;10:00</updated>
+            <updated>2022-04-30T09:49:53&#43;12:00</updated>
             <published>2021-01-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -348,7 +733,7 @@
             <title type="text">How I Invest My Money</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012investmoney/" />
             <id>https://cartar.github.io./books/202012investmoney/</id>
-            <updated>2022-04-30T08:22:43&#43;10:00</updated>
+            <updated>2022-04-30T10:22:43&#43;12:00</updated>
             <published>2020-12-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -398,7 +783,7 @@
             <title type="text">The Almanack of Naval Ravikant</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012almanack/" />
             <id>https://cartar.github.io./books/202012almanack/</id>
-            <updated>2022-04-30T07:50:46&#43;10:00</updated>
+            <updated>2022-04-30T09:50:46&#43;12:00</updated>
             <published>2020-12-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -539,7 +924,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Hard thing about Hard Things</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012hardthings/" />
             <id>https://cartar.github.io./books/202012hardthings/</id>
-            <updated>2022-04-30T07:50:51&#43;10:00</updated>
+            <updated>2022-04-30T09:50:51&#43;12:00</updated>
             <published>2020-11-12T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -585,7 +970,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Alchemist</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
             <id>https://cartar.github.io./books/202010thealchemist/</id>
-            <updated>2022-04-30T07:50:42&#43;10:00</updated>
+            <updated>2022-04-30T09:50:42&#43;12:00</updated>
             <published>2020-10-26T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -635,7 +1020,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Stamped From The Beginning</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202009stampedfromthebeginning/" />
             <id>https://cartar.github.io./books/202009stampedfromthebeginning/</id>
-            <updated>2022-04-30T07:50:37&#43;10:00</updated>
+            <updated>2022-04-30T09:50:37&#43;12:00</updated>
             <published>2020-09-30T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -706,7 +1091,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Silk Roads</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202006silkroads/" />
             <id>https://cartar.github.io./books/202006silkroads/</id>
-            <updated>2022-04-30T07:49:36&#43;10:00</updated>
+            <updated>2022-04-30T09:49:36&#43;12:00</updated>
             <published>2020-06-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -775,7 +1160,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Alex’s Adventures in Numberland</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202004alexadventurenumberland/" />
             <id>https://cartar.github.io./books/202004alexadventurenumberland/</id>
-            <updated>2022-04-30T07:49:33&#43;10:00</updated>
+            <updated>2022-04-30T09:49:33&#43;12:00</updated>
             <published>2020-04-25T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -833,7 +1218,7 @@ My favourite takeaways Regression to the mean Regression to the mean is the conc
             <title type="text">Talking to Strangers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202003talking2strangers/" />
             <id>https://cartar.github.io./books/202003talking2strangers/</id>
-            <updated>2022-04-30T07:49:25&#43;10:00</updated>
+            <updated>2022-04-30T09:49:25&#43;12:00</updated>
             <published>2020-03-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -889,7 +1274,7 @@ My favourite takeaways  Defaulting to the truth is OK.</summary>
             <title type="text">The Personal MBA</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202002mypersonalmba/" />
             <id>https://cartar.github.io./books/202002mypersonalmba/</id>
-            <updated>2022-04-30T07:50:28&#43;10:00</updated>
+            <updated>2022-04-30T09:50:28&#43;12:00</updated>
             <published>2020-02-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
