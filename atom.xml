@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-05-09T15:39:15&#43;12:00</updated>
+    <updated>2022-05-28T14:49:39-07:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -17,21 +17,20 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
         <entry>
-            <title type="text">Six Easy Pieces</title>
-            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205sixezpieces/" />
-            <id>https://cartar.github.io./books/202205sixezpieces/</id>
-            <updated>2022-05-09T15:36:37&#43;12:00</updated>
-            <published>2022-05-02T11:40:14-04:00</published>
+            <title type="text">The Glass Castle</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205glasscastle/" />
+            <id>https://cartar.github.io./books/202205glasscastle/</id>
+            <updated>2022-05-28T14:48:53-07:00</updated>
+            <published>2022-05-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.
-2/5.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A memoir of an extraordinary childhood; one where quotes like &amp;ldquo;I&amp;rsquo;d gotten pretty good at shooting the revolver by the time I was 4&amp;rdquo; is but the tip of the iceberg. Parents who disliked &amp;ldquo;the system&amp;rdquo;, and thought their misfortunes were adventures to be had.</summary>
             
-                <content type="html">&lt;p&gt;Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.&lt;/p&gt;
-&lt;p&gt;2/5.&lt;/p&gt;
+                <content type="html">&lt;p&gt;A memoir of an extraordinary childhood; one where quotes like &amp;ldquo;I&amp;rsquo;d gotten pretty good at shooting the revolver by the time I was 4&amp;rdquo; is but the tip of the iceberg. Parents who disliked &amp;ldquo;the system&amp;rdquo;, and thought their misfortunes were adventures to be had. Hard times were simply hard lessons, but not worth fussing over. A true look behind the curtain at some of America&amp;rsquo;s forgotten people.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
 </content>
             
             
@@ -44,7 +43,98 @@
                             
                             
                             
-                                <category scheme="https://cartar.github.io./categories/poor-books/" term="Poor Books" label="Poor Books" />
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Papillon</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205papillon/" />
+            <id>https://cartar.github.io./books/202205papillon/</id>
+            <updated>2022-05-20T16:43:22-07:00</updated>
+            <published>2022-05-20T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A wild ride through the early-mid 20th century Euro-America prison systems. Our autobiographical story is piloted by a Frenchman, who&amp;rsquo;s candour is contagious, often to his benefit, but at crucial moments, to his demise. Super fun to read; it&amp;rsquo;s a fantastical life story to be sure.</summary>
+            
+                <content type="html">&lt;p&gt;A wild ride through the early-mid 20th century Euro-America prison systems. Our autobiographical story is piloted by a Frenchman, who&amp;rsquo;s candour is contagious, often to his benefit, but at crucial moments, to his demise. Super fun to read; it&amp;rsquo;s a fantastical life story to be sure.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Six Easy Pieces</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205sixezpieces/" />
+            <id>https://cartar.github.io./books/202205sixezpieces/</id>
+            <updated>2022-05-20T16:40:51-07:00</updated>
+            <published>2022-05-02T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.
+3/5.</summary>
+            
+                <content type="html">&lt;p&gt;Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
                             
                         
                     
@@ -66,7 +156,7 @@
             <title type="text">Dopamine Nation</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204dopaminenation/" />
             <id>https://cartar.github.io./books/202204dopaminenation/</id>
-            <updated>2022-05-09T15:32:12&#43;12:00</updated>
+            <updated>2022-05-08T20:32:12-07:00</updated>
             <published>2022-04-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -116,7 +206,7 @@ The most insightful lesson (for me) was that pain is in fact a pleasurable time-
             <title type="text">Stolen Focus</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204stolenfocus/" />
             <id>https://cartar.github.io./books/202204stolenfocus/</id>
-            <updated>2022-05-09T15:30:54&#43;12:00</updated>
+            <updated>2022-05-08T20:30:54-07:00</updated>
             <published>2022-04-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -163,7 +253,7 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">The Bomber Mafia</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204bombermafia/" />
             <id>https://cartar.github.io./books/202204bombermafia/</id>
-            <updated>2022-05-09T15:31:16&#43;12:00</updated>
+            <updated>2022-05-08T20:31:16-07:00</updated>
             <published>2022-04-17T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -208,7 +298,7 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">There There</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204therethere/" />
             <id>https://cartar.github.io./books/202204therethere/</id>
-            <updated>2022-05-09T15:26:57&#43;12:00</updated>
+            <updated>2022-05-08T20:26:57-07:00</updated>
             <published>2022-04-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -256,7 +346,7 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">The Power of Now</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202203powerofnow/" />
             <id>https://cartar.github.io./books/202203powerofnow/</id>
-            <updated>2022-05-09T15:25:35&#43;12:00</updated>
+            <updated>2022-05-08T20:25:35-07:00</updated>
             <published>2022-03-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -301,7 +391,7 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">Less Is More</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202lessismore/" />
             <id>https://cartar.github.io./books/202202lessismore/</id>
-            <updated>2022-05-09T15:24:53&#43;12:00</updated>
+            <updated>2022-05-08T20:24:53-07:00</updated>
             <published>2022-02-24T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -358,7 +448,7 @@ To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&
             <title type="text">Educated</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202educated/" />
             <id>https://cartar.github.io./books/202202educated/</id>
-            <updated>2022-05-09T15:24:27&#43;12:00</updated>
+            <updated>2022-05-08T20:24:27-07:00</updated>
             <published>2022-02-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -405,7 +495,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Noise: A flaw in Human Judgment</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202110noise/" />
             <id>https://cartar.github.io./books/202110noise/</id>
-            <updated>2022-05-02T10:58:05&#43;12:00</updated>
+            <updated>2022-05-01T15:58:05-07:00</updated>
             <published>2021-10-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -463,7 +553,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Braiding Sweetgrass</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202107braidingsweetgrass/" />
             <id>https://cartar.github.io./books/202107braidingsweetgrass/</id>
-            <updated>2022-05-02T10:42:44&#43;12:00</updated>
+            <updated>2022-05-01T15:42:44-07:00</updated>
             <published>2021-07-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -510,7 +600,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Physics of the Impossible</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202106physicsimpossible/" />
             <id>https://cartar.github.io./books/202106physicsimpossible/</id>
-            <updated>2022-04-30T11:36:30&#43;12:00</updated>
+            <updated>2022-04-29T16:36:30-07:00</updated>
             <published>2021-05-19T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -570,7 +660,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Delivering Happiness</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202105deliveringhappiness/" />
             <id>https://cartar.github.io./books/202105deliveringhappiness/</id>
-            <updated>2022-04-30T10:22:06&#43;12:00</updated>
+            <updated>2022-04-29T15:22:06-07:00</updated>
             <published>2021-05-03T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -623,7 +713,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Shoe Dog</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202103shoedog/" />
             <id>https://cartar.github.io./books/202103shoedog/</id>
-            <updated>2022-04-30T10:22:26&#43;12:00</updated>
+            <updated>2022-04-29T15:22:26-07:00</updated>
             <published>2021-03-16T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -673,7 +763,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Atomic Habits</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202101atomichabits/" />
             <id>https://cartar.github.io./books/202101atomichabits/</id>
-            <updated>2022-04-30T09:49:53&#43;12:00</updated>
+            <updated>2022-04-29T14:49:53-07:00</updated>
             <published>2021-01-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -733,7 +823,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">How I Invest My Money</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012investmoney/" />
             <id>https://cartar.github.io./books/202012investmoney/</id>
-            <updated>2022-04-30T10:22:43&#43;12:00</updated>
+            <updated>2022-04-29T15:22:43-07:00</updated>
             <published>2020-12-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -783,7 +873,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">The Almanack of Naval Ravikant</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012almanack/" />
             <id>https://cartar.github.io./books/202012almanack/</id>
-            <updated>2022-04-30T09:50:46&#43;12:00</updated>
+            <updated>2022-04-29T14:50:46-07:00</updated>
             <published>2020-12-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -924,7 +1014,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Hard thing about Hard Things</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012hardthings/" />
             <id>https://cartar.github.io./books/202012hardthings/</id>
-            <updated>2022-04-30T09:50:51&#43;12:00</updated>
+            <updated>2022-04-29T14:50:51-07:00</updated>
             <published>2020-11-12T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -970,7 +1060,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Alchemist</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
             <id>https://cartar.github.io./books/202010thealchemist/</id>
-            <updated>2022-04-30T09:50:42&#43;12:00</updated>
+            <updated>2022-04-29T14:50:42-07:00</updated>
             <published>2020-10-26T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1020,7 +1110,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Stamped From The Beginning</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202009stampedfromthebeginning/" />
             <id>https://cartar.github.io./books/202009stampedfromthebeginning/</id>
-            <updated>2022-04-30T09:50:37&#43;12:00</updated>
+            <updated>2022-04-29T14:50:37-07:00</updated>
             <published>2020-09-30T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1091,7 +1181,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Silk Roads</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202006silkroads/" />
             <id>https://cartar.github.io./books/202006silkroads/</id>
-            <updated>2022-04-30T09:49:36&#43;12:00</updated>
+            <updated>2022-04-29T14:49:36-07:00</updated>
             <published>2020-06-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1160,7 +1250,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Alex’s Adventures in Numberland</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202004alexadventurenumberland/" />
             <id>https://cartar.github.io./books/202004alexadventurenumberland/</id>
-            <updated>2022-04-30T09:49:33&#43;12:00</updated>
+            <updated>2022-04-29T14:49:33-07:00</updated>
             <published>2020-04-25T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1218,7 +1308,7 @@ My favourite takeaways Regression to the mean Regression to the mean is the conc
             <title type="text">Talking to Strangers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202003talking2strangers/" />
             <id>https://cartar.github.io./books/202003talking2strangers/</id>
-            <updated>2022-04-30T09:49:25&#43;12:00</updated>
+            <updated>2022-04-29T14:49:25-07:00</updated>
             <published>2020-03-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1274,7 +1364,7 @@ My favourite takeaways  Defaulting to the truth is OK.</summary>
             <title type="text">The Personal MBA</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202002mypersonalmba/" />
             <id>https://cartar.github.io./books/202002mypersonalmba/</id>
-            <updated>2022-04-30T09:50:28&#43;12:00</updated>
+            <updated>2022-04-29T14:50:28-07:00</updated>
             <published>2020-02-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
