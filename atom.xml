@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-06-18T17:33:14&#43;02:00</updated>
+    <updated>2022-06-27T22:29:49&#43;02:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -16,6 +16,103 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">The Great Depression</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206greatdepression/" />
+            <id>https://cartar.github.io./books/202206greatdepression/</id>
+            <updated>2022-06-27T22:26:39&#43;02:00</updated>
+            <published>2022-06-27T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Going through a recession will never be quite the same again after reading this diary. Strange to see how many similarities exist in stock markets in such a different setting in time.
+Humans love to speculate, and are quick to become greedy when the party is pumping.</summary>
+            
+                <content type="html">&lt;p&gt;Going through a recession will never be quite the same again after reading this diary. Strange to see how many similarities exist in stock markets in such a different setting in time.&lt;/p&gt;
+&lt;p&gt;Humans love to speculate, and are quick to become greedy when the party is pumping. Those who like to party a little too hardy, leveraging their gains as collateral to buy more stock on margin, are almost always wiped out sooner or later.&lt;/p&gt;
+&lt;p&gt;This diary has many such stories, and describes the news of the day as if it was yesterday. An interesting way to hear about life in the 1930&amp;rsquo;s and the start of WW2.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">The Quick Fix</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206quickfix/" />
+            <id>https://cartar.github.io./books/202206quickfix/</id>
+            <updated>2022-06-18T17:32:31&#43;02:00</updated>
+            <published>2022-06-18T11:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A well researched review of the necessary skepticism established Psychology fads need. Chapters focusing on the implicit bias test, grit, the power of self-esteem, power posing, prime world (everything we do is the result of previous priming sensory input), fears over &amp;ldquo;superpredators&amp;rdquo;, and the ability for war veteran&amp;rsquo;s to overcome PTSD with mental training.</summary>
+            
+                <content type="html">&lt;p&gt;A well researched review of the necessary skepticism established Psychology fads need. Chapters focusing on the implicit bias test, grit, the power of self-esteem, power posing, prime world (everything we do is the result of previous priming sensory input), fears over &amp;ldquo;superpredators&amp;rdquo;, and the ability for war veteran&amp;rsquo;s to overcome PTSD with mental training.&lt;/p&gt;
+&lt;p&gt;In all cases, simple solutions (i.e., quick fixes), would enter a cycle of over-claiming, oversimplifying, and on the back of growing momentum, minimal skepticism.&lt;/p&gt;
+&lt;p&gt;Only after large (sometimes massive) amounts of time and money had been spent was there enough review literature to cast doubts on the runaway fads. These fads caused more harm than good as money and time were redirected away from meaningful changes, such as better policy focused on tackling the root problems.&lt;/p&gt;
+&lt;p&gt;What was needed was rigorous science, pilot programs, and of course, a health dose of skepticism; which was all too easy to forget when the storytelling of these ideas fit so well into existing mental models.&lt;/p&gt;
+&lt;p&gt;The future is bright however, as the field of Psychology has begun to reconcile with its replication crises and implement more statistical rigor. Finally, nudging does look to have promising effects when implemented modestly; but be careful to not over subscribe nudges as a quick fix. Tackling root problems are never as simple as they seem.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Glass Castle</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205glasscastle/" />
