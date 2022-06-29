@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-06-27T22:29:49&#43;02:00</updated>
+    <updated>2022-06-29T17:10:23&#43;02:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -16,6 +16,65 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">Homo Deus</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206homodeus/" />
+            <id>https://cartar.github.io./books/202206homodeus/</id>
+            <updated>2022-06-29T17:09:26&#43;02:00</updated>
+            <published>2022-06-28T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Tid-bits of history sprinkled throughout a synopsis of where humanity is heading.
+Parts of the story were interesting, as history often is, but the general arc of the book took too long, and many of the ideas have been subject to too many recent podcasts that I tended to lose interest.</summary>
+            
+                <content type="html">&lt;p&gt;Tid-bits of history sprinkled throughout a synopsis of where humanity is heading.&lt;/p&gt;
+&lt;p&gt;Parts of the story were interesting, as history often is, but the general arc of the book took too long, and many of the ideas have been subject to too many recent podcasts that I tended to lose interest. On the flip side, for anyone who&amp;rsquo;s not come across these ideas before (i.e., do we have free will, what do humans value, the &amp;ldquo;story&amp;rdquo; that is currency, the internet of things, etc.), I&amp;rsquo;d suggest giving this book a read. For others, I&amp;rsquo;d recommend passing.&lt;/p&gt;
+&lt;h3 id=&#34;some-of-my-highlighted-points-include&#34;&gt;Some of my highlighted points include:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Some 2,300 years ago, Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;The paradox of historical knowledge is that if the information does not change behaviour, it is useless; but if it does change behaviour, it is quickly irrelevant.&lt;/li&gt;
+&lt;li&gt;Lawns were invented to display wealth as they are meaningless wastes of land that require many resources to remain pretty (thanks France!).&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Anyone who has ever dealt with the tax authorities, the educational system or any complex bureaucracy knows that the truth hardly matters. What&amp;rsquo;s written on your form is far more important.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Religion is a deal, whereas spirituality is a journey.&amp;rdquo; And a dangerous one at that for religious, political, and business leaders trying to keep their human resources in order.&lt;/li&gt;
+&lt;li&gt;Ending a painful experience with minor pain, or even pleasure distorts our remembered history of the event. Children&amp;rsquo;s dentists know this well.&lt;/li&gt;
+&lt;li&gt;Today, having power means knowing what to ignore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our future is increasingly one of &amp;ldquo;techo-humanism&amp;rdquo; whereby technology allows us to mediate our human desires, emotions and feelings. Humanism holds &amp;ldquo;free will&amp;rdquo; as the most important thing in the world, which complicates this newfound power. To rescue our dilemma of how to wield such power, we are moving away from a worldview that sanctifies desires/experiences, towards a new religion of &amp;ldquo;Dataism&amp;rdquo; - the worship of the creation, distribution, and utilization of data, to make the world a better place.&lt;/p&gt;
+&lt;p&gt;Through the lense of Dataism, democracy beat communism by being a distributed processing system, instead of centralized. As the 21&amp;rsquo;st century unfolds, the best systems for governing humans will be the one that best uses the immense amount of data our society can produce.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Great Depression</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206greatdepression/" />
@@ -68,7 +127,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">The Quick Fix</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206quickfix/" />
             <id>https://cartar.github.io./books/202206quickfix/</id>
-            <updated>2022-06-18T17:32:31&#43;02:00</updated>
+            <updated>2022-06-29T17:06:08&#43;02:00</updated>
             <published>2022-06-18T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
