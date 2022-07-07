@@ -23,10 +23,61 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 29 Jun 2022 17:10:23 &#43;0200</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 18:07:08 &#43;0200</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://cartar.github.io./rss.xml" />
         
+        
+            <item>
+                <title>The Bond King</title>
+                <link>https://cartar.github.io./books/202207bondking/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/202207bondking/</guid>
+                <pubDate>Thu, 07 Jul 2022 11:40:14 -0400</pubDate>
+                
+                    <author>william.cartar@gmail.com (Will Cartar)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;An interesting book for financial buffs. It reviews the origin story of active bond trading and goes through some of the details Pimco used to &amp;ldquo;generate alpha&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Some of the nifty tricks include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;buying future contracts to meet risk requirements and then investing $ in short term bonds before the contract requires,&lt;/li&gt;
+&lt;li&gt;betting on future volatility of the markets (upper and lower bounds),&lt;/li&gt;
+&lt;li&gt;trading securities with itself (in differing accounts) to minimize fees,&lt;/li&gt;
+&lt;li&gt;pricing bonds more aggressively than the market to front-load performance within a fund,&lt;/li&gt;
+&lt;li&gt;and most generally, taking bets that future interest rates would be different from what &amp;ldquo;the market&amp;rdquo; was expecting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall it was an interesting read, but some parts were a little slow, and of course, you have to have an interest in bonds.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./categories/okay-books/">Okay Books</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Homo Deus</title>
