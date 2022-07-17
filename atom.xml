@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-07-07T18:07:08&#43;02:00</updated>
+    <updated>2022-07-17T12:54:14&#43;02:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -16,6 +16,55 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">The Sovereign Individual</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sovereignindividual/" />
+            <id>https://cartar.github.io./books/202207sovereignindividual/</id>
+            <updated>2022-07-17T12:52:58&#43;02:00</updated>
+            <published>2022-07-17T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I only skimmed this book, read about 1/3 of the content, but felt I got the gist. The authors outline what they think a future without government power will look like, as power shifts to individuals in the information age.
+Individuals will be able to insulate themselves from governments in ways previously impossible.</summary>
+            
+                <content type="html">&lt;p&gt;I only skimmed this book, read about 1/3 of the content, but felt I got the gist. The authors outline what they think a future without government power will look like, as power shifts to individuals in the information age.&lt;/p&gt;
+&lt;p&gt;Individuals will be able to insulate themselves from governments in ways previously impossible. Work, communications, assets, and banking systems will be fully digital, allowing life to move wherever the individual desires.&lt;/p&gt;
+&lt;p&gt;With this newfound autonomy, people will be free to choose their nationality, as it is the author&amp;rsquo;s belief that nations will offer nationality as a service to attract sovereign individuals. Essentially, the book describes a world where governments have fallen out of power, due to tax evasion and social uprisings.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;hellip;new information technology - the fact that it transcends the tyranny of place. The new technology creates for the first time an infinite, nonterrestrial realm for economic activity. It opens an option to explore the new frontiers of the cybereconomy, to &amp;lsquo;think globally and act globally&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Overall, 1/5 - I would not recommend this book.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/worst-books/" term="Worst Books" label="Worst Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Bond King</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207bondking/" />
