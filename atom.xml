@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-07-24T18:02:00&#43;02:00</updated>
+    <updated>2022-07-28T12:02:00&#43;02:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -16,6 +16,111 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">Six Not-So-Easy Pieces</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sixnoteasypieces/" />
+            <id>https://cartar.github.io./books/202207sixnoteasypieces/</id>
+            <updated>2022-07-28T12:00:38&#43;02:00</updated>
+            <published>2022-07-27T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book introduces the reader to relativity, symmetry and space-time through Feynman&amp;rsquo;s eyes. He discusses features of our universe with engaging analogies, like how to distinguish right from left (which is a tricky business). Or why we have time dilation from gravity. However, I&amp;rsquo;d argue that there are better books introducing audiences to these topics nowadays, like black holes and time warps by Kip S.</summary>
+            
+                <content type="html">&lt;p&gt;This book introduces the reader to relativity, symmetry and space-time through Feynman&amp;rsquo;s eyes. He discusses features of our universe with engaging analogies, like how to distinguish right from left (which is a tricky business). Or why we have time dilation from gravity. However, I&amp;rsquo;d argue that there are better books introducing audiences to these topics nowadays, like black holes and time warps by Kip S. Thorne.&lt;/p&gt;
+&lt;h2 id=&#34;symmetry-and-conservation-laws&#34;&gt;Symmetry and conservation laws&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;For each of the rules of symmetry there is a corresponding conservation law&amp;rdquo;&lt;/strong&gt;, in quantum mechanics. For example, that laws are symmetrical for&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;translation in space = momentum is conserved&lt;/li&gt;
+&lt;li&gt;translation in time = energy is conserved&lt;/li&gt;
+&lt;li&gt;invariance under rotation = angular momentum is conserved&lt;/li&gt;
+&lt;li&gt;phase shift of the wave function = electrical charge is conserved&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And some are bizarre, like reflection symmetry which leads to the conservation of parity (no classical analog). However, this conservation is not conserved in matter alone. There are ways in which reflection symmetry is broken, like beta (or weak) decay. It is only with the introduction of anti-matter that the reflection symmetry is restored - and so, we say that parity is conserved under reflection and matter/antimatter symmetry. That is, &amp;ldquo;matter to the right is symmetrical with anti-matter to the left&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;If we have a particle of rest mass zero, it cannot stop. It always goes the speed c, as in the case of light. Photons have energy, without mass, by perpetually going the speed of light. [This is similar to how any object with rest mass non-zero cannot go the speed of light, without having an infinite amount of energy. Light has finite energy, with zero mass, yet always travels at the speed of light.]&lt;/li&gt;
+&lt;li&gt;One way to think of gravitational time dilation is to picture an accelerating rocket ship with a clock at the front, and back. The clock at the front will appear to run faster than the clock at the tail due to the doppler shift of light travelling between the two clocks. And since an accelerating spaceship is the same thing as earth&amp;rsquo;s gravity (equivalence principle), we can say that blocks separated by some height H will run at different speeds! The further one runs faster than the one closer to the gravitational source. Hence, gravitational time dilation.&lt;/li&gt;
+&lt;li&gt;Light gains energy as it falls towards earth, and loses some as it leaves. This is true due to the conservation of energy!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">The Lifecycle of Software Objects</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207softwarelifecycle/" />
+            <id>https://cartar.github.io./books/202207softwarelifecycle/</id>
+            <updated>2022-07-25T08:30:36&#43;02:00</updated>
+            <published>2022-07-24T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A short story about what our digital future might hold. We follow an ex-zoo keeper turned digital pet trainer after the zoo she worked at closed down. The world her digi-pet grew up in becomes threatened, and we see the great lengths she&amp;rsquo;ll go, along with a small community of like-minded fanatics, to give these digital humanoids a better future.</summary>
+            
+                <content type="html">&lt;p&gt;A short story about what our digital future might hold. We follow an ex-zoo keeper turned digital pet trainer after the zoo she worked at closed down. The world her digi-pet grew up in becomes threatened, and we see the great lengths she&amp;rsquo;ll go, along with a small community of like-minded fanatics, to give these digital humanoids a better future.&lt;/p&gt;
+&lt;p&gt;2/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/poor-books/" term="Poor Books" label="Poor Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Sovereign Individual</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sovereignindividual/" />
