@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-07-30T15:38:30&#43;02:00</updated>
+    <updated>2022-08-05T09:38:42&#43;01:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -17,10 +17,75 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
         <entry>
+            <title type="text">The Ride of a Lifetime</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202208rideofalifetime/" />
+            <id>https://cartar.github.io./books/202208rideofalifetime/</id>
+            <updated>2022-08-05T09:37:41&#43;01:00</updated>
+            <published>2022-08-03T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A captivating recount of how Disney transformed over the past 20+ years. Bob reviews many acquisitions, and some near-misses (Disney almost bought Twitter before Disney +). A good read for anyone curious how big companies grow larger. Lots of lessons learned.
+Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombone oil.</summary>
+            
+                <content type="html">&lt;p&gt;A captivating recount of how Disney transformed over the past 20+ years. Bob reviews many acquisitions, and some near-misses (Disney almost bought Twitter before Disney +). A good read for anyone curious how big companies grow larger. Lots of lessons learned.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Avoid getting into the business of manufacturing trombone oil. You may become the greatest trombone-oil manufacturer in the world, but in the end, the world only consumes a few quarts of trombone oil a year!&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;It&amp;rsquo;s a hard thing to do, especially in the moment, but those instances in which you find yourself hoping that something will work without being able to convincingly explain to yourself how it will work - that&amp;rsquo;s when a little bell should go off, and you should walk yourself through some clarifying questions. What&amp;rsquo;s the problem I need to solve? Does this solution make sense? If I&amp;rsquo;m feeling some doubt, why? Am I doing this for sound reasons or am I motivated by something personal?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;A company&amp;rsquo;s culture is shaped by a lot of things, but this is one of the most important - you have to convey your priorities clearly and repeatedly. In my experience, it&amp;rsquo;s what separates great managers from the rest.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;You can do a lot for the morale of the people around you (and therefore the people around them) just by taking the guesswork out of their day-to-day life&amp;hellip; This is where we want to be. This is how we&amp;rsquo;re going to get there.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;My job was to set our company on a new path, and the first step was to defuse this unnecessary struggle. The easiest and most productive way to do that was to recognize that what Roy needed, ultimately, was to feel respected. That was precious to him, and it cost me and the company so little.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;This is you making a decision about them - not them as a person but the way they have performed in their job - and they need and deserve to know that it&amp;rsquo;s coming from you. You can&amp;rsquo;t make small talk once you bring someone in for that conversation. I normally say something along the lines of: &amp;lsquo;I&amp;rsquo;ve asked you to come in here for a difficult reason.&amp;rsquo; And then I try to be as direct about the issue as possible, explaining clearly and concisely what wasn&amp;rsquo;t working and why I didn&amp;rsquo;t think it was going to change. I emphasize that it was a tough decision to make, and that I understand that it&amp;rsquo;s much harder on them.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;If you respect the person, then you owe them a clear explanation for the decision you&amp;rsquo;re making. There&amp;rsquo;s no way for the conversation not to be painful, but at least it can be honest.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;the hardest but also the most necessary lesson to keep in mind, that wherever you are along the path, you&amp;rsquo;re the same person you&amp;rsquo;ve always been.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Pessimism leads to paranoia, which leads to defensiveness, which leads to risk aversion.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;If something doesn&amp;rsquo;t feel right to you, it won&amp;rsquo;t be right for you.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;4/5&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Six Not-So-Easy Pieces</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sixnoteasypieces/" />
             <id>https://cartar.github.io./books/202207sixnoteasypieces/</id>
-            <updated>2022-07-28T12:00:38&#43;02:00</updated>
+            <updated>2022-07-28T11:00:38&#43;01:00</updated>
             <published>2022-07-27T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -80,7 +145,7 @@
             <title type="text">The Lifecycle of Software Objects</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207softwarelifecycle/" />
             <id>https://cartar.github.io./books/202207softwarelifecycle/</id>
-            <updated>2022-07-25T08:30:36&#43;02:00</updated>
+            <updated>2022-07-25T07:30:36&#43;01:00</updated>
             <published>2022-07-24T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -125,7 +190,7 @@
             <title type="text">The Sovereign Individual</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sovereignindividual/" />
             <id>https://cartar.github.io./books/202207sovereignindividual/</id>
-            <updated>2022-07-17T12:52:58&#43;02:00</updated>
+            <updated>2022-07-17T11:52:58&#43;01:00</updated>
             <published>2022-07-17T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -174,7 +239,7 @@ Individuals will be able to insulate themselves from governments in ways previou
             <title type="text">The Bond King</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207bondking/" />
             <id>https://cartar.github.io./books/202207bondking/</id>
-            <updated>2022-07-07T18:05:12&#43;02:00</updated>
+            <updated>2022-07-07T17:05:12&#43;01:00</updated>
             <published>2022-07-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -230,7 +295,7 @@ Some of the nifty tricks include:
             <title type="text">Homo Deus</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206homodeus/" />
             <id>https://cartar.github.io./books/202206homodeus/</id>
-            <updated>2022-07-22T12:58:30&#43;02:00</updated>
+            <updated>2022-07-22T11:58:30&#43;01:00</updated>
             <published>2022-06-28T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -289,7 +354,7 @@ Parts of the story were interesting, as history often is, but the general arc of
             <title type="text">The Great Depression</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206greatdepression/" />
             <id>https://cartar.github.io./books/202206greatdepression/</id>
-            <updated>2022-06-27T22:26:39&#43;02:00</updated>
+            <updated>2022-06-27T21:26:39&#43;01:00</updated>
             <published>2022-06-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -337,7 +402,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">The Quick Fix</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206quickfix/" />
             <id>https://cartar.github.io./books/202206quickfix/</id>
-            <updated>2022-06-29T17:06:08&#43;02:00</updated>
+            <updated>2022-06-29T16:06:08&#43;01:00</updated>
             <published>2022-06-18T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -386,7 +451,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">The Glass Castle</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205glasscastle/" />
             <id>https://cartar.github.io./books/202205glasscastle/</id>
-            <updated>2022-05-28T23:48:53&#43;02:00</updated>
+            <updated>2022-05-28T22:48:53&#43;01:00</updated>
             <published>2022-05-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -431,7 +496,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">Papillon</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205papillon/" />
             <id>https://cartar.github.io./books/202205papillon/</id>
-            <updated>2022-05-21T01:43:22&#43;02:00</updated>
+            <updated>2022-05-21T00:43:22&#43;01:00</updated>
             <published>2022-05-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -476,7 +541,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">Six Easy Pieces</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205sixezpieces/" />
             <id>https://cartar.github.io./books/202205sixezpieces/</id>
-            <updated>2022-07-22T12:26:02&#43;02:00</updated>
+            <updated>2022-07-22T11:26:02&#43;01:00</updated>
             <published>2022-05-02T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -531,7 +596,7 @@ Bookmarked ideas  As molecules evaporate, they are leaving with more energy than
             <title type="text">Dopamine Nation</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204dopaminenation/" />
             <id>https://cartar.github.io./books/202204dopaminenation/</id>
-            <updated>2022-07-21T22:06:45&#43;02:00</updated>
+            <updated>2022-07-21T21:06:45&#43;01:00</updated>
             <published>2022-04-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -600,7 +665,7 @@ The most insightful lesson (for me) was that pain is in fact a pleasurable time-
             <title type="text">Stolen Focus</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204stolenfocus/" />
             <id>https://cartar.github.io./books/202204stolenfocus/</id>
-            <updated>2022-07-22T14:45:06&#43;02:00</updated>
+            <updated>2022-07-22T13:45:06&#43;01:00</updated>
             <published>2022-04-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -682,7 +747,7 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">The Bomber Mafia</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204bombermafia/" />
             <id>https://cartar.github.io./books/202204bombermafia/</id>
-            <updated>2022-05-09T05:31:16&#43;02:00</updated>
+            <updated>2022-05-09T04:31:16&#43;01:00</updated>
             <published>2022-04-17T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -727,7 +792,7 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">There There</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204therethere/" />
             <id>https://cartar.github.io./books/202204therethere/</id>
-            <updated>2022-05-09T05:26:57&#43;02:00</updated>
+            <updated>2022-05-09T04:26:57&#43;01:00</updated>
             <published>2022-04-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -775,7 +840,7 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">The Power of Now</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202203powerofnow/" />
             <id>https://cartar.github.io./books/202203powerofnow/</id>
-            <updated>2022-05-09T05:25:35&#43;02:00</updated>
+            <updated>2022-05-09T04:25:35&#43;01:00</updated>
             <published>2022-03-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -820,7 +885,7 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">Less Is More</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202lessismore/" />
             <id>https://cartar.github.io./books/202202lessismore/</id>
-            <updated>2022-05-09T05:24:53&#43;02:00</updated>
+            <updated>2022-05-09T04:24:53&#43;01:00</updated>
             <published>2022-02-24T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -877,7 +942,7 @@ To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&
             <title type="text">Educated</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202educated/" />
             <id>https://cartar.github.io./books/202202educated/</id>
-            <updated>2022-05-09T05:24:27&#43;02:00</updated>
+            <updated>2022-05-09T04:24:27&#43;01:00</updated>
             <published>2022-02-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -924,7 +989,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Noise: A flaw in Human Judgment</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202110noise/" />
             <id>https://cartar.github.io./books/202110noise/</id>
-            <updated>2022-05-02T00:58:05&#43;02:00</updated>
+            <updated>2022-05-01T23:58:05&#43;01:00</updated>
             <published>2021-10-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -982,7 +1047,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Braiding Sweetgrass</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202107braidingsweetgrass/" />
             <id>https://cartar.github.io./books/202107braidingsweetgrass/</id>
-            <updated>2022-05-02T00:42:44&#43;02:00</updated>
+            <updated>2022-05-01T23:42:44&#43;01:00</updated>
             <published>2021-07-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1029,7 +1094,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Physics of the Impossible</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202106physicsimpossible/" />
             <id>https://cartar.github.io./books/202106physicsimpossible/</id>
-            <updated>2022-04-30T01:36:30&#43;02:00</updated>
+            <updated>2022-04-30T00:36:30&#43;01:00</updated>
             <published>2021-05-19T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1089,7 +1154,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Delivering Happiness</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202105deliveringhappiness/" />
             <id>https://cartar.github.io./books/202105deliveringhappiness/</id>
-            <updated>2022-04-30T00:22:06&#43;02:00</updated>
+            <updated>2022-04-29T23:22:06&#43;01:00</updated>
             <published>2021-05-03T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1142,7 +1207,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Shoe Dog</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202103shoedog/" />
             <id>https://cartar.github.io./books/202103shoedog/</id>
-            <updated>2022-04-30T00:22:26&#43;02:00</updated>
+            <updated>2022-04-29T23:22:26&#43;01:00</updated>
             <published>2021-03-16T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1192,7 +1257,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Atomic Habits</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202101atomichabits/" />
             <id>https://cartar.github.io./books/202101atomichabits/</id>
-            <updated>2022-04-29T23:49:53&#43;02:00</updated>
+            <updated>2022-04-29T22:49:53&#43;01:00</updated>
             <published>2021-01-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1252,7 +1317,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">How I Invest My Money</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012investmoney/" />
             <id>https://cartar.github.io./books/202012investmoney/</id>
-            <updated>2022-04-30T00:22:43&#43;02:00</updated>
+            <updated>2022-04-29T23:22:43&#43;01:00</updated>
             <published>2020-12-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1302,7 +1367,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">The Almanack of Naval Ravikant</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012almanack/" />
             <id>https://cartar.github.io./books/202012almanack/</id>
-            <updated>2022-04-29T23:50:46&#43;02:00</updated>
+            <updated>2022-04-29T22:50:46&#43;01:00</updated>
             <published>2020-12-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1443,7 +1508,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Hard thing about Hard Things</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012hardthings/" />
             <id>https://cartar.github.io./books/202012hardthings/</id>
-            <updated>2022-04-29T23:50:51&#43;02:00</updated>
+            <updated>2022-04-29T22:50:51&#43;01:00</updated>
             <published>2020-11-12T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1489,7 +1554,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Alchemist</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
             <id>https://cartar.github.io./books/202010thealchemist/</id>
-            <updated>2022-04-29T23:50:42&#43;02:00</updated>
+            <updated>2022-04-29T22:50:42&#43;01:00</updated>
             <published>2020-10-26T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1539,7 +1604,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Stamped From The Beginning</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202009stampedfromthebeginning/" />
             <id>https://cartar.github.io./books/202009stampedfromthebeginning/</id>
-            <updated>2022-04-29T23:50:37&#43;02:00</updated>
+            <updated>2022-04-29T22:50:37&#43;01:00</updated>
             <published>2020-09-30T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1610,7 +1675,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Silk Roads</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202006silkroads/" />
             <id>https://cartar.github.io./books/202006silkroads/</id>
-            <updated>2022-04-29T23:49:36&#43;02:00</updated>
+            <updated>2022-04-29T22:49:36&#43;01:00</updated>
             <published>2020-06-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1679,7 +1744,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Alex’s Adventures in Numberland</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202004alexadventurenumberland/" />
             <id>https://cartar.github.io./books/202004alexadventurenumberland/</id>
-            <updated>2022-04-29T23:49:33&#43;02:00</updated>
+            <updated>2022-04-29T22:49:33&#43;01:00</updated>
             <published>2020-04-25T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1737,7 +1802,7 @@ My favourite takeaways Regression to the mean Regression to the mean is the conc
             <title type="text">Talking to Strangers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202003talking2strangers/" />
             <id>https://cartar.github.io./books/202003talking2strangers/</id>
-            <updated>2022-04-29T23:49:25&#43;02:00</updated>
+            <updated>2022-04-29T22:49:25&#43;01:00</updated>
             <published>2020-03-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1793,7 +1858,7 @@ My favourite takeaways  Defaulting to the truth is OK.</summary>
             <title type="text">The Personal MBA</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202002mypersonalmba/" />
             <id>https://cartar.github.io./books/202002mypersonalmba/</id>
-            <updated>2022-04-29T23:50:28&#43;02:00</updated>
+            <updated>2022-04-29T22:50:28&#43;01:00</updated>
             <published>2020-02-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
