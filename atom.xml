@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-08-16T20:52:55&#43;01:00</updated>
+    <updated>2022-09-15T10:03:13-04:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -17,10 +17,189 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
         <entry>
+            <title type="text">The Psychology of Money</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202209psychologyofmoney/" />
+            <id>https://cartar.github.io./books/202209psychologyofmoney/</id>
+            <updated>2022-09-15T10:02:20-04:00</updated>
+            <published>2022-09-13T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A collection of stories demonstrating that people aren&amp;rsquo;t crazy, but they do sometimes fail to make reasonable decisions with their money. Being rational with money can sometimes be the unreasonable thing to do after you&amp;rsquo;ve factored in human psychology. This book is a fantastic starting point for anyone wanting to improve their relationship with money.</summary>
+            
+                <content type="html">&lt;p&gt;A collection of stories demonstrating that people aren&amp;rsquo;t crazy, but they do sometimes fail to make reasonable decisions with their money. Being rational with money can sometimes be the unreasonable thing to do after you&amp;rsquo;ve factored in human psychology. This book is a fantastic starting point for anyone wanting to improve their relationship with money.&lt;/p&gt;
+&lt;h3 id=&#34;favourite-quotes&#34;&gt;Favourite quotes:&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;There is no reason to risk what you have and need for what you don&amp;rsquo;t have and don&amp;rsquo;t need.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Happiness, as it&amp;rsquo;s said, is just results minus expectations.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;More than I want big returns, I want to be financially unbreakable. And if I&amp;rsquo;m unbreakable, I actually think I&amp;rsquo;ll get the biggest returns, because I&amp;rsquo;ll be able to stick around long enough for compounding to work wonders.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The majority of what&amp;rsquo;s happening at any given moment in the global economy can be tied back to a handful of past events that were nearly impossible to predict.&amp;rdquo; For example&amp;hellip; &amp;ldquo;9/11 prompted the fed reserve to cut interest rates, which helped drive the housing bubble, which led to the financial crisis, which led to a poor jobs market, which led tens of millions to seek a college education, leading to $1.6 trillion in student loans with a 10.8% default rate.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Sunk costs - anchoring decisions to past efforts that can&amp;rsquo;t be refunded - are a devil in a world where people change over time. They make our future selves prisoners to our past, different, selves. It&amp;rsquo;s the equivalent of a stranger making major life decisions for you.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;everything else worthwhile, successful investing demands a price. But its currency is not dollars and  cents. It&amp;rsquo;s volatility, fear, doubt, uncertainty, and regret - all of which are easy to overlook until you&amp;rsquo;re dealing with them in real time.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Like most products, the bigger the returns, the higher the price. Netflix stock returned more than 35,000% from 2002 to 2018, but traded below its previous all-time high 94% of days.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Why do so many people who are willing to pay the price of cars, houses, food, and vacations try so hard to avoid pay the price of good investment returns? The answer is simple: The price of investing success is not immediately obvious. It&amp;rsquo;s not a price tag you can see, so when the bill comes due it doesn&amp;rsquo;t feel like a fee for getting something good. It feels like a fine for doing something wrong. And while people are generally fine with paying fees, fines are supposed to be avoided.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It sounds trivial, but thinking of market volatility as a fee rather than a fine is an important part of developing the kind of mindset that lets you stick around long enough for investing gains to work in your favor.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;What do you expect people to do when momentum creates a big short-term return potential? Sit and watch patiently? Never. That&amp;rsquo;s not how the world works. Profits will always be chased. And short-term traders operate in an area where the rules governing long-term investing - particularly around valuation - are ignored, because they&amp;rsquo;re irrelevant to the game being played.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Bubbles do their damage when long-term investors playing one game start taking their cues from those short-term traders playing another.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;You should like risk because it pays off over time. But you should be paranoid of ruinous risk because it prevents you from taking future risks that will pay off over time. Define the game you&amp;rsquo;re playing, and make sure your actions are not being influenced by people playing a different game.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;If you can meet all your goals without having to take the added risk that comes from trying to outperform the market, then what&amp;rsquo;s the point of even trying? I can afford to not be the greatest investor in the world, but I can&amp;rsquo;t afford to be a bad one. When I think of it that way, the choice to buy the index and hold on is a no-brainer for us.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Quantum: Einstein, Bohr, and the Great Debate about the Nature of Reality</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202209quantumgreatdebate/" />
+            <id>https://cartar.github.io./books/202209quantumgreatdebate/</id>
+            <updated>2022-09-07T15:05:23-04:00</updated>
+            <published>2022-09-03T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">For anyone who loves physics, this is a must read. The magnitude of breakthroughs in theoretical physics between the late 1800&amp;rsquo;s and early 1900&amp;rsquo;s is staggering. Kumar takes you through those breakthroughs one at a time, carefully including personal anecdotes of the great scientists as their leaps of understanding changed the world.</summary>
+            
+                <content type="html">&lt;p&gt;For anyone who loves physics, this is a must read. The magnitude of breakthroughs in theoretical physics between the late 1800&amp;rsquo;s and early 1900&amp;rsquo;s is staggering. Kumar takes you through those breakthroughs one at a time, carefully including personal anecdotes of the great scientists as their leaps of understanding changed the world.&lt;/p&gt;
+&lt;p&gt;Here is a collection of my favourite moments:&lt;/p&gt;
+&lt;h3 id=&#34;the-birth-of-quantum-1900&#34;&gt;The birth of quantum (1900):&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Applying Boltzmann&amp;rsquo;s techniques, Planck discovered that he could derive his formula for the distribution of blackbody radiation only if the oscillators absorbed and emitted packets of energy that were proportional to their frequency of oscillation.&amp;rdquo;
+&amp;ldquo;The problem for Planck was that Boltzmann&amp;rsquo;s procedure for slicing energy required that at the end the slices be made ever thinner until mathematically their thickness was zero and they vanished, with the whole being restored. To reunite a slice-up quantity in such a fashion was a mathematical technique at the very heart of calculus. Unfortunately forPlanck, if he did the same his formula vanished too. He was stuck with quanta, but was unconcerned. He had his formula; the rest could be sorted out later.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ref:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://hsm.stackexchange.com/questions/11725/how-to-get-to-planck-s-radiation-law-as-planck-did-it-warts-and-all&#34;&gt;https://hsm.stackexchange.com/questions/11725/how-to-get-to-planck-s-radiation-law-as-planck-did-it-warts-and-all&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://strangepaths.com/files/planck1901.pdf&#34;&gt;http://strangepaths.com/files/planck1901.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Planck%20(1900),%20Distribution%20Law.pdf&#34;&gt;http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Planck%20(1900),%20Distribution%20Law.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;the-birth-of-photons-1905&#34;&gt;The birth of photons (1905):&lt;/h3&gt;
+&lt;p&gt;The photoelectric effect was a measure of the energy of electrons emitted when light was shown at them.  &amp;ldquo;It was expected that increasing the intensity of a light beam, by making it brighter, would yield the same number of electrons, but with each having more energy. However, the opposite was found: a greater number of electrons were emitted with no change in their individual energy.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Whereas Planck had only quantised the emission and absorption of electromagnetic radiation so that his imaginary oscillators would produce the correct spectral distribution of blackbody radiation, Einstein had quantised light itself. The energy of a quantum of yellow light was just Planck&amp;rsquo;s constant multiplied by the frequency of yellow light.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;evidence-for-atoms-1905&#34;&gt;Evidence for atoms (1905):&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Einstein realised that Brownian motion was due to water molecules regularly deviating from their &amp;lsquo;normal&amp;rsquo; behaviour as some of them got bunched up and struck the pollen together, sending it in a particular direction.&lt;/p&gt;
+&lt;p&gt;Using this insight, Einstein succeeded in calculating the average horizontal distance a particle would travel as it zigzagged along in a given time. He predicted that in water at 17 degrees C, suspended particles with a diameter of one-thousandth of a millimetre would move on average just six-thousandths of a millimetre in one minute. Einstein had come up with a formula that offered the possibility of working out the size of atoms.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;3 years later, in 1908, his predictions were confirmed, for which he received the Nobel Prize in 1926.&lt;/p&gt;
+&lt;h3 id=&#34;more-timelines&#34;&gt;More timelines:&lt;/h3&gt;
+&lt;p&gt;1911: Rutherford announces the discovery of the atomic nucleus at a meeting in Manchester, England.&lt;/p&gt;
+&lt;p&gt;1913: Bohr hears about Balmer&amp;rsquo;s formula for the spectral lines of hydrogen for the first time (Feb). He presents his new theory of the quantum atom at the British Association for the Advancement of Science (Sept).&lt;/p&gt;
+&lt;p&gt;1914: The Franck-Hertz experiment confirms Bohr&amp;rsquo;s concept of quantum jumps and atomic energy levels.&lt;/p&gt;
+&lt;p&gt;1916: Sommerfeld proposes a theory for the fine structure of hydrogen, and introduces a second quantum number to replace Bohr&amp;rsquo;s circular orbits with ellipticals. Einstein discovers the phenomena of spontaneous and induced emission of a photon from an atom. Sommefeld adds the magnetic quantum number to Bohr&amp;rsquo;s original atomic model.&lt;/p&gt;
+&lt;p&gt;1919: Experimental evidence for general relativity is found (light deflected by gravitational fields). Einstein becomes a global celebrity overnight.&lt;/p&gt;
+&lt;p&gt;1923: Scattering of X-ray photons by atomic electrons is found (the &amp;lsquo;Compton effect&amp;rsquo;), bringing irrefutable evidence in support of photons. De Broglie links waves with electrons extending wave-particle duality to incorporate matter.&lt;/p&gt;
+&lt;p&gt;1925: Pauli discoveres the exclusion principle. Heisenberg develops the beginning of matrix mechanics, the first theory of quantum. Goudsmit and Uhlenbeck propose the concept of quantum spin. Pauli applies matrix mechanics to the hydrogen atom.&lt;/p&gt;
+&lt;p&gt;1926: Heisenberg, Born, and Jordan publish their paper on matrix mechanics. Schrodinger&amp;rsquo;s first paper on wave mechanics is published. Shrodinger and others prove that wave mechanics and matrix mechanics are mathematically equivalent. They are two forms of the same theory - &lt;strong&gt;quantum mechanics&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;1927: Evidence for wave-particle duality applied to matter is found via diffracting electrons. Heisenberg discovered the uncertainty principle. Bohr presents his principle of complementarity and the central elements of what would become known as the Copenhagen interpretation of QM.&lt;/p&gt;
+&lt;h3 id=&#34;quantum-mechanics&#34;&gt;Quantum Mechanics:&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The Bohr-Sommerfeld quantum atom could account for the frequency of hydrogen&amp;rsquo;s spectral lines, but not how bright or dim they were. Heisenberg&amp;rsquo;s idea was to separate what was observable and what was not. The orbit of an electron around the nucleus of a hydrogen atom was not observable. So Heisenberg decided to abandon the idea of electrons orbiting the nucleus of an atom.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Neils Bohr would soon argue that until an observation or measurement is made, a microphysical object like an electron does not exist anywhere. Between one measurement and the next it has no existence outside the abstract possibilities of the wave function. It is only when an observation or measurement is made that the &amp;lsquo;wave function collapses&amp;rsquo; as one of the &amp;lsquo;possible&amp;rsquo; states of the electron becomes the &amp;lsquo;actual&amp;rsquo; state of the probability of all the other possibilities become zero.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Bell was able to calculate the limits on the degree of spin correlation between pairs of entangled electrons in a Bohm-modified EPR experiment. He found that in the ethereal realm of quantum there is a greater level of correlation if QM reigns supreme than in any world that depends on hidden variables and locality. Bell&amp;rsquo;s theorem said that no local hidden variables theory could reproduce the same set of correlations as QM. Any local hidden variable theory would lead to spin correlations that generated numbers called the correlation coefficient between -2 and +2. However, for certain orientations of the spin detectors, QM predicted correlation coefficients that lay outside the range known as &lt;a href=&#34;http://www.scholarpedia.org/article/Bell%27s_theorem#:~:text=Bell&#39;s%20theorem%20asserts%20that%20if,at%20the%20speed%20of%20light&#34;&gt;&amp;lsquo;Bell&amp;rsquo;s inequality&amp;rsquo;&lt;/a&gt; that ran from -2 to +2. (1964).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The testing of Bell&amp;rsquo;s inequality directly or indirectly helped spawn new areas of research including quantum cryptography, quantum information theory, and quantum computing. Among the most remarkable of these new fields is quantum teleportation.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;the-electron-microscope-1931&#34;&gt;The electron microscope (1931):&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;No particle smaller than approximately half the wavelength of white light can absorb or reflect light waves so as to make the particle visible through an ordinary microscope. However, with wavelengths more than 100,000 times smaller than that of light, electron waves could. The construction of the first commercial electron microscope began in England in 1935.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Outliers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202208outliers/" />
             <id>https://cartar.github.io./books/202208outliers/</id>
-            <updated>2022-08-16T20:52:09&#43;01:00</updated>
+            <updated>2022-08-16T15:52:09-04:00</updated>
             <published>2022-08-10T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -65,7 +244,7 @@
             <title type="text">The Ride of a Lifetime</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202208rideofalifetime/" />
             <id>https://cartar.github.io./books/202208rideofalifetime/</id>
-            <updated>2022-08-05T09:37:41&#43;01:00</updated>
+            <updated>2022-08-05T04:37:41-04:00</updated>
             <published>2022-08-03T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -130,7 +309,7 @@ Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombon
             <title type="text">Six Not-So-Easy Pieces</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sixnoteasypieces/" />
             <id>https://cartar.github.io./books/202207sixnoteasypieces/</id>
-            <updated>2022-07-28T11:00:38&#43;01:00</updated>
+            <updated>2022-07-28T06:00:38-04:00</updated>
             <published>2022-07-27T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -190,7 +369,7 @@ Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombon
             <title type="text">The Lifecycle of Software Objects</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207softwarelifecycle/" />
             <id>https://cartar.github.io./books/202207softwarelifecycle/</id>
-            <updated>2022-07-25T07:30:36&#43;01:00</updated>
+            <updated>2022-07-25T02:30:36-04:00</updated>
             <published>2022-07-24T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -235,7 +414,7 @@ Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombon
             <title type="text">The Sovereign Individual</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sovereignindividual/" />
             <id>https://cartar.github.io./books/202207sovereignindividual/</id>
-            <updated>2022-07-17T11:52:58&#43;01:00</updated>
+            <updated>2022-07-17T06:52:58-04:00</updated>
             <published>2022-07-17T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -284,7 +463,7 @@ Individuals will be able to insulate themselves from governments in ways previou
             <title type="text">The Bond King</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207bondking/" />
             <id>https://cartar.github.io./books/202207bondking/</id>
-            <updated>2022-07-07T17:05:12&#43;01:00</updated>
+            <updated>2022-07-07T12:05:12-04:00</updated>
             <published>2022-07-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -340,7 +519,7 @@ Some of the nifty tricks include:
             <title type="text">Homo Deus</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206homodeus/" />
             <id>https://cartar.github.io./books/202206homodeus/</id>
-            <updated>2022-07-22T11:58:30&#43;01:00</updated>
+            <updated>2022-07-22T06:58:30-04:00</updated>
             <published>2022-06-28T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -399,7 +578,7 @@ Parts of the story were interesting, as history often is, but the general arc of
             <title type="text">The Great Depression</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206greatdepression/" />
             <id>https://cartar.github.io./books/202206greatdepression/</id>
-            <updated>2022-06-27T21:26:39&#43;01:00</updated>
+            <updated>2022-06-27T16:26:39-04:00</updated>
             <published>2022-06-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -447,7 +626,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">The Quick Fix</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206quickfix/" />
             <id>https://cartar.github.io./books/202206quickfix/</id>
-            <updated>2022-06-29T16:06:08&#43;01:00</updated>
+            <updated>2022-06-29T11:06:08-04:00</updated>
             <published>2022-06-18T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -496,7 +675,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">The Glass Castle</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205glasscastle/" />
             <id>https://cartar.github.io./books/202205glasscastle/</id>
-            <updated>2022-05-28T22:48:53&#43;01:00</updated>
+            <updated>2022-05-28T17:48:53-04:00</updated>
             <published>2022-05-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -541,7 +720,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">Papillon</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205papillon/" />
             <id>https://cartar.github.io./books/202205papillon/</id>
-            <updated>2022-05-21T00:43:22&#43;01:00</updated>
+            <updated>2022-05-20T19:43:22-04:00</updated>
             <published>2022-05-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -586,7 +765,7 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">Six Easy Pieces</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205sixezpieces/" />
             <id>https://cartar.github.io./books/202205sixezpieces/</id>
-            <updated>2022-07-22T11:26:02&#43;01:00</updated>
+            <updated>2022-07-22T06:26:02-04:00</updated>
             <published>2022-05-02T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -641,7 +820,7 @@ Bookmarked ideas  As molecules evaporate, they are leaving with more energy than
             <title type="text">Dopamine Nation</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204dopaminenation/" />
             <id>https://cartar.github.io./books/202204dopaminenation/</id>
-            <updated>2022-07-21T21:06:45&#43;01:00</updated>
+            <updated>2022-07-21T16:06:45-04:00</updated>
             <published>2022-04-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -710,7 +889,7 @@ The most insightful lesson (for me) was that pain is in fact a pleasurable time-
             <title type="text">Stolen Focus</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204stolenfocus/" />
             <id>https://cartar.github.io./books/202204stolenfocus/</id>
-            <updated>2022-07-22T13:45:06&#43;01:00</updated>
+            <updated>2022-07-22T08:45:06-04:00</updated>
             <published>2022-04-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -792,7 +971,7 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">The Bomber Mafia</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204bombermafia/" />
             <id>https://cartar.github.io./books/202204bombermafia/</id>
-            <updated>2022-05-09T04:31:16&#43;01:00</updated>
+            <updated>2022-05-08T23:31:16-04:00</updated>
             <published>2022-04-17T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -837,7 +1016,7 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">There There</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204therethere/" />
             <id>https://cartar.github.io./books/202204therethere/</id>
-            <updated>2022-05-09T04:26:57&#43;01:00</updated>
+            <updated>2022-05-08T23:26:57-04:00</updated>
             <published>2022-04-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -885,7 +1064,7 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">The Power of Now</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202203powerofnow/" />
             <id>https://cartar.github.io./books/202203powerofnow/</id>
-            <updated>2022-05-09T04:25:35&#43;01:00</updated>
+            <updated>2022-05-08T23:25:35-04:00</updated>
             <published>2022-03-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -930,7 +1109,7 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">Less Is More</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202lessismore/" />
             <id>https://cartar.github.io./books/202202lessismore/</id>
-            <updated>2022-05-09T04:24:53&#43;01:00</updated>
+            <updated>2022-05-08T23:24:53-04:00</updated>
             <published>2022-02-24T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -987,7 +1166,7 @@ To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&
             <title type="text">Educated</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202educated/" />
             <id>https://cartar.github.io./books/202202educated/</id>
-            <updated>2022-05-09T04:24:27&#43;01:00</updated>
+            <updated>2022-05-08T23:24:27-04:00</updated>
             <published>2022-02-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1034,7 +1213,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Noise: A flaw in Human Judgment</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202110noise/" />
             <id>https://cartar.github.io./books/202110noise/</id>
-            <updated>2022-05-01T23:58:05&#43;01:00</updated>
+            <updated>2022-05-01T18:58:05-04:00</updated>
             <published>2021-10-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1092,7 +1271,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Braiding Sweetgrass</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202107braidingsweetgrass/" />
             <id>https://cartar.github.io./books/202107braidingsweetgrass/</id>
-            <updated>2022-05-01T23:42:44&#43;01:00</updated>
+            <updated>2022-05-01T18:42:44-04:00</updated>
             <published>2021-07-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1139,7 +1318,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Physics of the Impossible</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202106physicsimpossible/" />
             <id>https://cartar.github.io./books/202106physicsimpossible/</id>
-            <updated>2022-04-30T00:36:30&#43;01:00</updated>
+            <updated>2022-04-29T19:36:30-04:00</updated>
             <published>2021-05-19T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1199,7 +1378,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Delivering Happiness</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202105deliveringhappiness/" />
             <id>https://cartar.github.io./books/202105deliveringhappiness/</id>
-            <updated>2022-04-29T23:22:06&#43;01:00</updated>
+            <updated>2022-04-29T18:22:06-04:00</updated>
             <published>2021-05-03T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1252,7 +1431,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Shoe Dog</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202103shoedog/" />
             <id>https://cartar.github.io./books/202103shoedog/</id>
-            <updated>2022-04-29T23:22:26&#43;01:00</updated>
+            <updated>2022-04-29T18:22:26-04:00</updated>
             <published>2021-03-16T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1302,7 +1481,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Atomic Habits</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202101atomichabits/" />
             <id>https://cartar.github.io./books/202101atomichabits/</id>
-            <updated>2022-04-29T22:49:53&#43;01:00</updated>
+            <updated>2022-04-29T17:49:53-04:00</updated>
             <published>2021-01-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1362,7 +1541,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">How I Invest My Money</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012investmoney/" />
             <id>https://cartar.github.io./books/202012investmoney/</id>
-            <updated>2022-04-29T23:22:43&#43;01:00</updated>
+            <updated>2022-04-29T18:22:43-04:00</updated>
             <published>2020-12-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1412,7 +1591,7 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">The Almanack of Naval Ravikant</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012almanack/" />
             <id>https://cartar.github.io./books/202012almanack/</id>
-            <updated>2022-04-29T22:50:46&#43;01:00</updated>
+            <updated>2022-04-29T17:50:46-04:00</updated>
             <published>2020-12-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1553,7 +1732,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Hard thing about Hard Things</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012hardthings/" />
             <id>https://cartar.github.io./books/202012hardthings/</id>
-            <updated>2022-04-29T22:50:51&#43;01:00</updated>
+            <updated>2022-04-29T17:50:51-04:00</updated>
             <published>2020-11-12T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1599,7 +1778,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Alchemist</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
             <id>https://cartar.github.io./books/202010thealchemist/</id>
-            <updated>2022-04-29T22:50:42&#43;01:00</updated>
+            <updated>2022-04-29T17:50:42-04:00</updated>
             <published>2020-10-26T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1649,7 +1828,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Stamped From The Beginning</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202009stampedfromthebeginning/" />
             <id>https://cartar.github.io./books/202009stampedfromthebeginning/</id>
-            <updated>2022-04-29T22:50:37&#43;01:00</updated>
+            <updated>2022-04-29T17:50:37-04:00</updated>
             <published>2020-09-30T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1720,7 +1899,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Silk Roads</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202006silkroads/" />
             <id>https://cartar.github.io./books/202006silkroads/</id>
-            <updated>2022-04-29T22:49:36&#43;01:00</updated>
+            <updated>2022-04-29T17:49:36-04:00</updated>
             <published>2020-06-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1789,7 +1968,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Alex’s Adventures in Numberland</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202004alexadventurenumberland/" />
             <id>https://cartar.github.io./books/202004alexadventurenumberland/</id>
-            <updated>2022-04-29T22:49:33&#43;01:00</updated>
+            <updated>2022-04-29T17:49:33-04:00</updated>
             <published>2020-04-25T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1847,7 +2026,7 @@ My favourite takeaways Regression to the mean Regression to the mean is the conc
             <title type="text">Talking to Strangers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202003talking2strangers/" />
             <id>https://cartar.github.io./books/202003talking2strangers/</id>
-            <updated>2022-04-29T22:49:25&#43;01:00</updated>
+            <updated>2022-04-29T17:49:25-04:00</updated>
             <published>2020-03-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
@@ -1903,7 +2082,7 @@ My favourite takeaways  Defaulting to the truth is OK.</summary>
             <title type="text">The Personal MBA</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202002mypersonalmba/" />
             <id>https://cartar.github.io./books/202002mypersonalmba/</id>
-            <updated>2022-04-29T22:50:28&#43;01:00</updated>
+            <updated>2022-04-29T17:50:28-04:00</updated>
             <published>2020-02-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
