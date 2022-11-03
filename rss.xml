@@ -23,10 +23,107 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 15 Sep 2022 10:03:13 -0400</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 08:17:20 -0400</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://cartar.github.io./rss.xml" />
         
+        
+            <item>
+                <title>Thinking in Bets</title>
+                <link>https://cartar.github.io./books/202210thinkinginbets/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/202210thinkinginbets/</guid>
+                <pubDate>Thu, 20 Oct 2022 01:40:14 -0400</pubDate>
+                
+                    <author>william.cartar@gmail.com (Will Cartar)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;The first half of this book is very interesting, and includes many fun anecdotes from the life of a professional poker player. The second half is classic psychology material that is found in many other similar books: diversity helps consensus, allowing for dissent within teams helps them move towards the truth, our remembered experience is different from our experience, and learning when you&amp;rsquo;re on &amp;ldquo;tilt&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The novel takeaway from this book is that everyone becomes less biased when they&amp;rsquo;re placing bets. Putting money where our mouth is really does improve our sense of truth seeking. Makes you wonder why this trick isn&amp;rsquo;t used more frequently in the world of business? From the sounds of it, the change is just beginning (with betting markets inside businesses).&lt;/p&gt;
+&lt;h3 id=&#34;favourite-quotes&#34;&gt;Favourite quotes:&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Chess is not a game. Chess is a well-defined form of computation. You may not be able to work out the answers, but in theory there must be a solution, a right procedure in any position. Now, real games, he said, are not like that at all. Real life is not like that. Real life consists of bluffing, of little tactics of deception, of asking yourself what the other person is thinking.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Kahan&amp;rsquo;s findings&amp;hellip; discovered that the more numerate people made more mistakes interpreting the data on emotionally charged topics than the less numerate subjects.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Experts engaging in traditional peer review, providing their opinion on whether an experimental result would replicate, were right 58% of the time. A betting market in which the traders were the exact same experts and those experts had money on the line predicted correctly 71% of the time.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./categories/okay-books/">Okay Books</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Slicing Pie</title>
+                <link>https://cartar.github.io./books/202209slicingpie/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/202209slicingpie/</guid>
+                <pubDate>Wed, 21 Sep 2022 01:40:14 -0400</pubDate>
+                
+                    <author>william.cartar@gmail.com (Will Cartar)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;A very quick read. Lots of &amp;ldquo;supporting&amp;rdquo; stories up front. The pain points of issuing equity too early in a project, or too late. So what is the solution? dynamic equity. Everyone tracks their work, either per hour, or per day, depending on what is more appropriate. Everyone is given a hypothetical hourly rate. The pie is then split up based on the amount of hypothetical cash they are owed relative to the entire amount of cash owed to all participants.&lt;/p&gt;
+&lt;p&gt;This is a fantastic way to grow a project from zero to company, without having to worry too much about over/under-compensating participants who are being compensated in equity. Of course, the story is different if there is a blend of cash &amp;amp; equity conversation.&lt;/p&gt;
+&lt;p&gt;The book has some nice heuristics to keep in mind. Like what is a fair hypothetical hourly rate. How much equity should an angel investor&amp;rsquo;s cash be given? And what to do if someone leaves.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./categories/okay-books/">Okay Books</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>The Psychology of Money</title>
