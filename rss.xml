@@ -23,10 +23,88 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 03 Nov 2022 08:17:20 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 11:05:32 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://cartar.github.io./rss.xml" />
         
+        
+            <item>
+                <title>naked statistics</title>
+                <link>https://cartar.github.io./books/202211nakedstatistics/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/202211nakedstatistics/</guid>
+                <pubDate>Mon, 14 Nov 2022 01:40:14 -0400</pubDate>
+                
+                    <author>william.cartar@gmail.com (Will Cartar)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;A masterpiece in fun-reading education; this book is accessible to everyone who&amp;rsquo;s goal is to learn statistics. And for those with a strong handle on the subject, it is a good reminder of the pitfalls of being too brash with the toolkit.&lt;/p&gt;
+&lt;p&gt;My key takeaways:&lt;/p&gt;
+&lt;h3 id=&#34;always-check-both-mean-and-median&#34;&gt;Always check both mean and median&lt;/h3&gt;
+&lt;p&gt;Using one without knowing the other can be dangerous, as both are good at hiding data. Mean can easily hide the distribution, while median hides outliers. Better yet, use both AND include a distribution graph.&lt;/p&gt;
+&lt;h3 id=&#34;common-biases&#34;&gt;Common biases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Selection bias: poorly sampled data skewing results&lt;/li&gt;
+&lt;li&gt;Publication bias: omitting negative results via preference for positive news&lt;/li&gt;
+&lt;li&gt;Recall bias: our memories suck - or at least they are different than lived experience&lt;/li&gt;
+&lt;li&gt;Survivorship bias: what hedge funds do&lt;/li&gt;
+&lt;li&gt;healthy user bias: does pills make you healthier or do healthy ppl take pills?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;central-limit-theorem-clt&#34;&gt;Central limit theorem (CLT)&lt;/h3&gt;
+&lt;p&gt;The mean of sampled populations will create its own normal distribution, regardless if the population being sampled is normally distributed. The mean of this normal distribution will overlap with the true mean of the population.&lt;/p&gt;
+&lt;p&gt;The Standard Error (SE) of the sampled means will be proportional to the standard deviation of the underlying population, and the sample number (N).&lt;/p&gt;
+&lt;p&gt;Review chapter 9 for an elegant example using CLT to infer brain size difference between kids with / without autism. Reviews p-values, SE between 2 means, and one vs two tail hypothesis testing.&lt;/p&gt;
+&lt;h3 id=&#34;polling&#34;&gt;Polling&lt;/h3&gt;
+&lt;p&gt;Polling is an interesting application of statistics in that we can sample a small subset of the entire population, and if done correctly, have a pretty good understanding of the outcome. That is, one must be careful not to accidently introduce a selection bias, and the way in which questions are asked can make a big difference as well.&lt;/p&gt;
+&lt;p&gt;An aside: SE of polling uses a different formula, which has a maximum variance when the results are 50 / 50.&lt;/p&gt;
+&lt;h3 id=&#34;regression-analysis&#34;&gt;Regression analysis&lt;/h3&gt;
+&lt;p&gt;The &lt;strong&gt;regression coefficient&lt;/strong&gt; is simply the slope of the line; the residual is the &amp;ldquo;error&amp;rdquo; or deviation away from the straight line slope for every dependent variable; independent variables are often called &amp;ldquo;explanatory&amp;rdquo;, or &amp;ldquo;control&amp;rdquo; variables.&lt;/p&gt;
+&lt;p&gt;The R^2 measures the total amount of variation explained by the regression equation.&lt;/p&gt;
+&lt;p&gt;Multiple regression analysis is simply a multi-dimensional slope that allows a comparison between explanatory variables to determine how much each variable contributes to the dependent variable.&lt;/p&gt;
+&lt;h3 id=&#34;common-regression-mistakes&#34;&gt;Common regression mistakes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using regression for a non-linear relationship&lt;/li&gt;
+&lt;li&gt;Correlation does not equal causation&lt;/li&gt;
+&lt;li&gt;Reverse causality (B actually causes A, rather than A -&amp;gt; B)&lt;/li&gt;
+&lt;li&gt;Omitted variable bias (i.e., missing age when it is in fact the strongest predictor)&lt;/li&gt;
+&lt;li&gt;Highly correlated explanatory variables (multicollinearity)&lt;/li&gt;
+&lt;li&gt;Extrapolating beyond the data&lt;/li&gt;
+&lt;li&gt;Data mining (too many variables)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gotchas&#34;&gt;Gotchas:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Assuming events are independent when they&amp;rsquo;re not: i.e., plane engine failures. You&amp;rsquo;d expect each engine to have an independant probability of failure, but when one fails, it is more likely the second one fails too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./categories/best-books/">Best Books</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Thinking in Bets</title>
