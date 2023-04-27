@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-18T11:41:33-05:00</updated>
+    <updated>2023-04-27T10:09:33-04:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -16,6 +16,105 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">The Dark Forest</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202303thedarkforest/" />
+            <id>https://cartar.github.io./books/202303thedarkforest/</id>
+            <updated>2023-04-27T10:08:08-04:00</updated>
+            <published>2023-03-15T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">With the story well underway, this second book is a masterpiece. Without giving too much away, we are transported to a future where Luo Ji is awake and well. Technology has progressed far enough to give humanity a sense of security, and that leads to some interesting plot development.</summary>
+            
+                <content type="html">&lt;p&gt;With the story well underway, this second book is a masterpiece. Without giving too much away, we are transported to a future where Luo Ji is awake and well. Technology has progressed far enough to give humanity a sense of security, and that leads to some interesting plot development. We finally learn why Luo Ji had so many assassination attempts against him, and yet again, the story unfolds with unanticipated twists that make it hard to put down.&lt;/p&gt;
+&lt;p&gt;After finishing this book, I understand all the hype. It took me a bit to get into it, but it truly is an incredibly creative story that inspires the reader to see the beauty in our world.&lt;/p&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">The Five Most Important Questions</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/2023025questions/" />
+            <id>https://cartar.github.io./books/2023025questions/</id>
+            <updated>2023-04-27T10:07:20-04:00</updated>
+            <published>2023-02-15T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A dated book that feels a little ahead of it&amp;rsquo;s time. Certainly still relevant today, it is full of anecdotes about why the 5 questions outlined below are so crucial to success for any organization (private, public, non-profit, etc.). But really, if you agree that the five questions are valuable, you don&amp;rsquo;t need to read the book so much as do the exercise.</summary>
+            
+                <content type="html">&lt;p&gt;A dated book that feels a little ahead of it&amp;rsquo;s time. Certainly still relevant today, it is full of anecdotes about why the 5 questions outlined below are so crucial to success for any organization (private, public, non-profit, etc.). But really, if you agree that the five questions are valuable, you don&amp;rsquo;t need to read the book so much as do the exercise. However, the book is a quick 2 hour read (or less), so you don&amp;rsquo;t lose much giving it a spin!&lt;/p&gt;
+&lt;h2 id=&#34;peter-druckers-five-questions-are&#34;&gt;Peter Drucker&amp;rsquo;s five questions are:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;What is our Mission?&lt;/li&gt;
+&lt;li&gt;Who is our Customer?&lt;/li&gt;
+&lt;li&gt;What does the Customer Value?&lt;/li&gt;
+&lt;li&gt;What are our Results?&lt;/li&gt;
+&lt;li&gt;What is our Plan?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Three-Body Problem</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202301threebodyproblem/" />
