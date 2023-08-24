@@ -2,35 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cartar.github.io./categories/best-books/</loc>
-    <lastmod>2023-04-27T10:08:08-04:00</lastmod>
-  </url><url>
     <loc>https://cartar.github.io./tags/books/</loc>
-    <lastmod>2023-04-27T10:08:08-04:00</lastmod>
+    <lastmod>2023-08-24T12:53:10-04:00</lastmod>
   </url><url>
     <loc>https://cartar.github.io./books/</loc>
-    <lastmod>2023-04-27T10:08:08-04:00</lastmod>
+    <lastmod>2023-08-24T12:53:10-04:00</lastmod>
   </url><url>
     <loc>https://cartar.github.io./categories/</loc>
-    <lastmod>2023-04-27T10:08:08-04:00</lastmod>
+    <lastmod>2023-08-24T12:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./categories/okay-books/</loc>
+    <lastmod>2023-08-24T12:51:47-04:00</lastmod>
   </url><url>
     <loc>https://cartar.github.io./tags/</loc>
-    <lastmod>2023-04-27T10:08:08-04:00</lastmod>
+    <lastmod>2023-08-24T12:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./books/202308infinitegame/</loc>
+    <lastmod>2023-08-24T12:51:47-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./</loc>
+    <lastmod>2023-08-24T12:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./categories/best-books/</loc>
+    <lastmod>2023-08-24T12:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./books/202308mendeleyevsdream/</loc>
+    <lastmod>2023-08-24T12:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./books/202307futureofai/</loc>
+    <lastmod>2023-08-24T12:51:35-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./categories/worst-books/</loc>
+    <lastmod>2023-08-24T12:51:35-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./books/202305deathsend/</loc>
+    <lastmod>2023-08-24T12:51:23-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./categories/good-books/</loc>
+    <lastmod>2023-08-24T12:51:00-04:00</lastmod>
+  </url><url>
+    <loc>https://cartar.github.io./books/202304surelyyourejoking/</loc>
+    <lastmod>2023-08-24T12:51:00-04:00</lastmod>
   </url><url>
     <loc>https://cartar.github.io./books/202303thedarkforest/</loc>
     <lastmod>2023-04-27T10:08:08-04:00</lastmod>
   </url><url>
-    <loc>https://cartar.github.io./</loc>
-    <lastmod>2023-04-27T10:08:08-04:00</lastmod>
-  </url><url>
-    <loc>https://cartar.github.io./categories/okay-books/</loc>
+    <loc>https://cartar.github.io./books/202302questions/</loc>
     <lastmod>2023-04-27T10:07:20-04:00</lastmod>
-  </url><url>
-    <loc>https://cartar.github.io./books/2023025questions/</loc>
-    <lastmod>2023-04-27T10:07:20-04:00</lastmod>
-  </url><url>
-    <loc>https://cartar.github.io./categories/good-books/</loc>
-    <lastmod>2023-01-18T11:41:09-05:00</lastmod>
   </url><url>
     <loc>https://cartar.github.io./books/202301threebodyproblem/</loc>
     <lastmod>2023-01-18T11:41:09-05:00</lastmod>
@@ -84,9 +102,6 @@
     <lastmod>2022-07-22T09:47:02-04:00</lastmod>
   </url><url>
     <loc>https://cartar.github.io./books/202207sovereignindividual/</loc>
-    <lastmod>2022-07-17T06:52:58-04:00</lastmod>
-  </url><url>
-    <loc>https://cartar.github.io./categories/worst-books/</loc>
     <lastmod>2022-07-17T06:52:58-04:00</lastmod>
   </url><url>
     <loc>https://cartar.github.io./books/202207bondking/</loc>

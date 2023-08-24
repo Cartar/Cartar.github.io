@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-04-27T10:09:33-04:00</updated>
+    <updated>2023-08-24T12:54:40-04:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -16,6 +16,253 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">The Infinite Game</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202308infinitegame/" />
+            <id>https://cartar.github.io./books/202308infinitegame/</id>
+            <updated>2023-08-24T12:51:47-04:00</updated>
+            <published>2023-08-24T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book is great for anyone leading a company, and good for those wanting to know if they&amp;rsquo;re a part of an organization that is in it for the long haul. The basic premise is that companies without a proper Just Cause, and various other attributes, will at one point or another, succumb to their short sightedness, and fail.</summary>
+            
+                <content type="html">&lt;p&gt;This book is great for anyone leading a company, and good for those wanting to know if they&amp;rsquo;re a part of an organization that is in it for the long haul. The basic premise is that companies without a proper &lt;em&gt;Just Cause&lt;/em&gt;, and various other attributes, will at one point or another, succumb to their short sightedness, and fail. There are many examples to draw on, where companies prioritize profit over their purpose, and end up losing out to the inevitable innovation of competition.&lt;/p&gt;
+&lt;p&gt;Leading by purpose is not easy, and it is almost never rewarded by Wall Street. Therefore, Simon argues that leaders must have courage to do the right thing, in the face of short term incentives. To find that courage, he suggests the following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Find a Just Cause that inspires us; surround ourselves with others with whom we share common cause, people we trust and who trust us; identify a Rival worthy of comparison that will push us to constantly improve; and remind ourselves that we are more committed to the Cause than to any particular path or strategy we happen to be following right now.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This excerpt was taken from the final chapter, and is a good summary of all the preceding chapters, which do a better job of highlighting why each of these ideas is important, and examples of what to-do, and what not-to-do.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/okay-books/" term="Okay Books" label="Okay Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Mendeleyev’s dream</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202308mendeleyevsdream/" />
+            <id>https://cartar.github.io./books/202308mendeleyevsdream/</id>
+            <updated>2023-08-24T12:53:10-04:00</updated>
+            <published>2023-08-11T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book was the first time I came into contact with a history of chemistry, and it was absolutely fascinating. Histories of physics have been my default, due to their ongoing contributions to the origins of life, the universe and everything; but much of that history is the back and forth of military funded experiments, and intellectual genius.</summary>
+            
+                <content type="html">&lt;p&gt;This book was the first time I came into contact with a history of chemistry, and it was absolutely fascinating. Histories of physics have been my default, due to their ongoing contributions to the origins of life, the universe and everything; but much of that history is the back and forth of military funded experiments, and intellectual genius. Chemistry, on the other hand, was funded by the wealthy in an attempt to create more wealth through transmutation (i.e., alchemy), as well as the mishaps of mad scientists tinkering with &amp;ldquo;the elements&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;This book covers over two thousand years of history, which includes the origin story of many words (some are included below), and the intellectual struggle of determining what exactly is an element? The following are ideas, and excerpts from the book to hopefully give you an idea of why it was such an engaging read.&lt;/p&gt;
+&lt;p&gt;Aristotle was responsible for creating a worldview that would last almost 2 thousand years. His scientific brilliance was built on the lens of object qualities, rather than object properties. In this way, he failed to see a world composed of atoms, which had been proposed by Democritus decades before Aristotle. Instead, he saw the world through four &amp;ldquo;basic elements&amp;rdquo;: Earth ws the center, next came water, above that was air, and above the air fire.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;All motion in the world was the attempt of the elements to find their rightful place. Thus stones fell to the bottom of water, bubbles rose up out of it, fire rose upwards through the air and so forth. But the sun, the moon and the stars clearly did not move in such a way, so Aristotle proposed a fifth element. This rarefied element he called aether. Remnants of this element persist in our words ethereal (celestial, airy), and quintessence (literally &amp;lsquo;fifth essence&amp;rsquo;)&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;[The middle ages were] not so much an anti-scientific age as an a-scientific one. There was simply no need for science in an age without progress, an age which believed that timeless spiritual values were superior to the vagaries of reality&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Once discovered, sulphuric acid transformed the development of many materials, so much so that until the mid-twentieth century, a country&amp;rsquo;s development was measured by the volume of sulphuric acid it&amp;rsquo;s industry used each year!&lt;/p&gt;
+&lt;p&gt;Nicolas Flamel was a real person who set out on an alchemical pilgrimage through France and Spain in search of the philosopher&amp;rsquo;s stone - his published memoirs mention: &amp;ldquo;Finally, in the yeere of the restoring of mankind, 1382, I made a projection of the Red stone upon the like quantity of Mercury the five and twentieth day of April, about five a clock in the Evening; which I transmuted truly into almost as much pure Gold, better assuredly than common Gold, more soft, and more pliable.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Theophrastus Bombast von Hohenheim, better known as Paracelsus, was another well known character in the history of Alchemy - which I suppose was a nod from Full Metal Alchemist.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The Arabic name for the substance with which Jezebel painted her eyes was kohl. By a series of misapprehensions this word came to be used to describe distilled liquids, and eventually the distilled liquid al-kohl (the kohl) - which became alcohol&amp;rdquo; Many other words with the &amp;ldquo;al&amp;rdquo; prefix come from Arabic - like Algebra, Algorithm, Alkali, and even Alchemy etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Hydrogen&amp;rdquo; comes from the Greek hydro &amp;ldquo;water&amp;rdquo; and -gen, &amp;ldquo;generator, getter, maker&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">The Future of AI</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202307futureofai/" />
+            <id>https://cartar.github.io./books/202307futureofai/</id>
+            <updated>2023-08-24T12:51:35-04:00</updated>
+            <published>2023-07-15T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book has maybe two interesting parts to it. The description of how a new antibiotic was discovered by AI, and the modelling of protein folding by AI. Other than that, the book doesn&amp;rsquo;t go into much detail about AI, and instead focuses on ideas like the cyber threat of AI, and how it is that that cyber threat is different from say nuclear threat.</summary>
+            
+                <content type="html">&lt;p&gt;This book has maybe two interesting parts to it. The description of how a new antibiotic was discovered by AI, and the modelling of protein folding by AI. Other than that, the book doesn&amp;rsquo;t go into much detail about AI, and instead focuses on ideas like the cyber threat of AI, and how it is that that cyber threat is different from say nuclear threat. I suppose those would be interesting topics to folks more politically inclined than me. I just wanted to explore cutting edge AI and its novel impacts, which I didn&amp;rsquo;t get from this book.&lt;/p&gt;
+&lt;p&gt;1/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/worst-books/" term="Worst Books" label="Worst Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Death’s End</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202305deathsend/" />
+            <id>https://cartar.github.io./books/202305deathsend/</id>
+            <updated>2023-08-24T12:51:23-04:00</updated>
+            <published>2023-05-15T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">The cover of this book says: &amp;ldquo;wildly imaginative&amp;rdquo;, which is a perfect synopsys. I&amp;rsquo;ve not had my mind blow so many times over by a series, and I doubt I ever will again. It isn&amp;rsquo;t just the exotic physics of higher dimensions utilized by hyper advanced civilizations.</summary>
+            
+                <content type="html">&lt;p&gt;The cover of this book says: &amp;ldquo;wildly imaginative&amp;rdquo;, which is a perfect synopsys. I&amp;rsquo;ve not had my mind blow so many times over by a series, and I doubt I ever will again. It isn&amp;rsquo;t just the exotic physics of higher dimensions utilized by hyper advanced civilizations. It is the political interactions of those civilizations with one another, and a story arc that is truly captivating. I felt the full range of emotions in this book - from excitedly anticipating reunions, to battles outcomes, mind games, and love stories. This book had it all. I cannot recommend this book, or this series enough. The only downside is that the books are a little long, and take ~50-100 pages to really get into. But once you&amp;rsquo;re there, the length of the story becomes a blessing, as you&amp;rsquo;ll not want the ride to end.&lt;/p&gt;
+&lt;p&gt;5/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/best-books/" term="Best Books" label="Best Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Surely You’re Joking Mr. Feynman</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202304surelyyourejoking/" />
+            <id>https://cartar.github.io./books/202304surelyyourejoking/</id>
+            <updated>2023-08-24T12:51:00-04:00</updated>
+            <published>2023-04-15T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This collection of stories from Richard Feynman&amp;rsquo;s life is a fascinating time capsule into life in the mid 1900&amp;rsquo;s. From his work on the Manhattan Project, to his inquisitive mind and child-like love of life, he truly is a magnificent character whose voice and adventures shine bright in this book.</summary>
+            
+                <content type="html">&lt;p&gt;This collection of stories from Richard Feynman&amp;rsquo;s life is a fascinating time capsule into life in the mid 1900&amp;rsquo;s. From his work on the Manhattan Project, to his inquisitive mind and child-like love of life, he truly is a magnificent character whose voice and adventures shine bright in this book.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Dark Forest</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202303thedarkforest/" />
@@ -64,8 +311,8 @@
     
         <entry>
             <title type="text">The Five Most Important Questions</title>
-            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/2023025questions/" />
-            <id>https://cartar.github.io./books/2023025questions/</id>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202302questions/" />
+            <id>https://cartar.github.io./books/202302questions/</id>
             <updated>2023-04-27T10:07:20-04:00</updated>
             <published>2023-02-15T01:40:14-04:00</published>
             <author>
