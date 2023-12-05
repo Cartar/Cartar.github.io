@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 04 Dec 2023 23:20:59 -0500</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 23:28:35 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://cartar.github.io./rss.xml" />
         
@@ -91,9 +91,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Among nondrug treatments [for improved aging], cognitive stimulation therapy (CST) has the highest record of efficacy.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Other treatments: studies that are only preliminary, and wouldn&amp;rsquo;t yet be called &lt;em&gt;medicine&lt;/em&gt; because evidence is still being gathered:&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Vitamin B_12, found in meat, poultry, eggs, milk and fish, is necessary for the production of myelin in the brain and is involved in the metabolism of every cell in the body&amp;hellip; We believe that [homocysteine] increases oxidative stress and increases damage to DNA and that its neurotoxicity leads to cell death. B_12 (along with B_6 and folate) is responsible for recycling homocysteine, thereby keeping its levels in check; insufficient amounts of B_12 are therefore believed responsible for a toxic buildup of homocysteine.&lt;/li&gt;
 &lt;li&gt;Neuroshroom - which includes Hericium erinaceus polysaccharides (HEP), cordyceps militaris, and ganoderma lucidum, that increase acetylcholine for memory / neuroprotective / neuroregenerative qualities, boost energy levels, and boost memory function / reduce stress / have anti-inflammatory properties respectively.&lt;/li&gt;
@@ -101,42 +99,58 @@
 &lt;li&gt;Meditation - helps with our ability to maintain attention, reducing activity within the default mode network and increases connectivity between regions of the brain that are implicated in cognitive control.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging2.jpg&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;Well-being-score&lt;/h4&gt;
+            &lt;h4&gt;Well Being Score&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&amp;ldquo;Daniel Pink has to say this about the middle-aged dip: &amp;lsquo;One possibility is the disappointment of unrealized expectations. In our naive twenties and thirties, our hopes are high, our scenarios rosy. Then reality trickled in like a slow leak in the room. Only one person gets to be CEO - and it&amp;rsquo;s not going to be you. Some marriages crumble - and yours, sadly, is one of them&amp;hellip; Yet we don&amp;rsquo;t remain in the emotional basement for long, because over time we adjust our aspirations and later realize that life is pretty good. In short, we dip in the middle because we&amp;rsquo;re lousy forecasters. In youth, our expectations are too high.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;Three questions: who&amp;rsquo;ll change my light bulbs? [i.e., who&amp;rsquo;ll do the mundane shit when you&amp;rsquo;re unable to]; What if I want an ice cream cone [i.e., are you setup to live the life you want as your systems begin to fail - do you have to drive to that ice cream, or can you walk]? and Who will I have lunch with?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;Decreasing the risk of dying from one disease has increased our risk of dying from other, arguably more horrible ones. [i.e., alzheimer&amp;rsquo;s instead of a heart attack]&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;The single most important factor in determining successful aging is the personality trait of Conscientiousness.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;Three additional factors that determine how well we age are more important than the rest. The first is childhood experiences, in particular of parental attachment and of head injury. The second is exercise in varied, natural environments. And the third is social interaction.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;Nearly every part of our brains is activated by interacting with others, live, face-to-face, in real time.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;One major block to social engagement is anger&amp;hellip;. As former US senator Alan Simpson says, &amp;lsquo;Hatred corrodes the container in which it is carried&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;Remember that the world is changing, and those changes are at odds with your accumulated experience. Force yourself to update, to keep current with changes in the world.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;Remember also that pain is physical and informed by our senses, yet it is also influenced by emotional and cultural factors. A negative emotional state can lead to increased pain, and an otherwise painful sensation can be interpreted as positive, such as soreness after exercise.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;ldquo;Practice gratitude for what you have.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Three questions: who&amp;rsquo;ll change my light bulbs? [i.e., who&amp;rsquo;ll do the mundane shit when you&amp;rsquo;re unable to]; What if I want an ice cream cone [i.e., are you setup to live the life you want as your systems begin to fail - do you have to drive to that ice cream, or can you walk]? and Who will I have lunch with?&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Decreasing the risk of dying from one disease has increased our risk of dying from other, arguably more horrible ones. [i.e., alzheimer&amp;rsquo;s instead of a heart attack]&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;The single most important factor in determining successful aging is the personality trait of Conscientiousness.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Three additional factors that determine how well we age are more important than the rest. The first is childhood experiences, in particular of parental attachment and of head injury. The second is exercise in varied, natural environments. And the third is social interaction.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Nearly every part of our brains is activated by interacting with others, live, face-to-face, in real time.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;One major block to social engagement is anger&amp;hellip;. As former US senator Alan Simpson says, &amp;lsquo;Hatred corrodes the container in which it is carried&amp;rsquo;.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Remember that the world is changing, and those changes are at odds with your accumulated experience. Force yourself to update, to keep current with changes in the world.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Remember also that pain is physical and informed by our senses, yet it is also influenced by emotional and cultural factors. A negative emotional state can lead to increased pain, and an otherwise painful sensation can be interpreted as positive, such as soreness after exercise.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Practice gratitude for what you have.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging1.jpg&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;Well-being-score&lt;/h4&gt;
+            &lt;h4&gt;Risk / Protective Factors&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
