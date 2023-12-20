@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-12-04T23:28:35-05:00</updated>
+    <updated>2023-12-20T08:47:51-05:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -16,6 +16,56 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">Piranesi</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202312piranesi/" />
+            <id>https://cartar.github.io./books/202312piranesi/</id>
+            <updated>2023-12-20T08:47:09-05:00</updated>
+            <published>2023-12-19T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book had a lot of hype, both online and from my friend who recommended it. I&amp;rsquo;ll say, it took a bit to get into but then I was hooked. The non-spoiler description from Good Reads reads:
+&amp;ldquo;Piranesi’s house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others.</summary>
+            
+                <content type="html">&lt;p&gt;This book had a lot of hype, both online and from my friend who recommended it. I&amp;rsquo;ll say, it took a bit to get into but then I was hooked. The non-spoiler description from Good Reads reads:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Piranesi’s house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others. Within the labyrinth of halls an ocean is imprisoned; waves thunder up staircases, rooms are flooded in an instant. But Piranesi is not afraid; he understands the tides as he understands the pattern of the labyrinth itself. He lives to explore the house.&lt;/p&gt;
+&lt;p&gt;There is one other person in the house—a man called The Other, who visits Piranesi twice a week and asks for help with research into A Great and Secret Knowledge. But as Piranesi explores, evidence emerges of another person, and a terrible truth begins to unravel, revealing a world beyond the one Piranesi has always known.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Spoilers!&lt;/p&gt;
+&lt;p&gt;My initial impression was that the labyrinth was a metaphor for one&amp;rsquo;s career. Starting off in awe of all that it can provide, and excitement for exploration. There is a fair amount of calibration required to thrive (measuring the tides) and at least for me, a scientific approach necessary to do my work. Then there is the office politics (his relationship with The Other), and a desire to see the rest of the world once it becomes clear that what you&amp;rsquo;re doing is not the entire picture.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Successful Aging</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202311successfulaging/" />
