@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Will Cartar&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-02-17T16:31:59-05:00</updated>
+    <updated>2024-09-03T15:25:18-04:00</updated>
     <id>https://cartar.github.io./</id>
     <link rel="alternate" type="text/html" href="https://cartar.github.io./" />
     <link rel="self" type="application/atom&#43;xml" href="https://cartar.github.io./atom.xml" />
@@ -15,24 +15,79 @@
                 <email>william.cartar@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.134.0">Hugo</generator>
         <entry>
-            <title type="text">Ultra-Processed People</title>
-            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202402ultraprocessedpeople/" />
-            <id>https://cartar.github.io./books/202402ultraprocessedpeople/</id>
-            <updated>2024-02-17T16:30:47-05:00</updated>
-            <published>2024-02-10T01:40:14-04:00</published>
+            <title type="text">Outlive</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202407outlived/" />
+            <id>https://cartar.github.io./books/202407outlived/</id>
+            <updated>2024-08-05T14:25:46-04:00</updated>
+            <published>2024-07-12T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Oh boy, this book wasn&amp;rsquo;t so much anything new, as it was a compelling reminder to eat whole foods, or at the very least, purchase food who&amp;rsquo;s full list of ingredients you&amp;rsquo;d have at home. There is a slow, but steady, understanding of these so-called Ultra-Processed Foods (UPFs), and their negative health implications.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Like successful aging, this book is a fascinating read that compiles the latest understandings about our bodies into a compendium of knowledge with many recommendations. Much of this book is summarizing studies about which molecules - proteins, hormones, types of cholesterol, and cellular processes are benefited by eating well, not too much (or too little), exercise, and sleep. However, unlike successful aging, the recommendations can be too specialized at times, and require too many resources (time and money) to execute properly. For example, the discussion about exercise requires a personal trainer, and many hours a week to carry out. Or, to hit the recommended protein levels, one needs to be having a good amount of meat twice per day, every day, on top of a protein shake, and high protein snack. This just doesn&amp;rsquo;t seem wise for the average person, or doable for the average household income. Having said all of this, the overall book was interesting nonetheless, and stacking this book with successful aging was enjoyable.&lt;/p&gt;</summary>
             
-                <content type="html">&lt;p&gt;Oh boy, this book wasn&amp;rsquo;t so much anything new, as it was a compelling reminder to eat whole foods, or at the very least, purchase food who&amp;rsquo;s full list of ingredients you&amp;rsquo;d have at home. There is a slow, but steady, understanding of these so-called Ultra-Processed Foods (UPFs), and their negative health implications.&lt;/p&gt;
-&lt;p&gt;I had an inkling about it beforehand, but I had thought the problem stemmed from a low fiber, high in fats, sugar, and salt diet that often goes hand-in-hand with UPFs. However, that isn&amp;rsquo;t it. When controlling for these variables, recent studies have still found negative health outcomes of ~25% increase risks for a whole host of diseases and cancers - including alzheimers! Clearly, there is something unnatural about these ingredients that interact negatively with our bodies.&lt;/p&gt;
-&lt;p&gt;The catch is, these UPFs are cheap, and pervasive. They&amp;rsquo;ve done well to deflect blame to poor eating habits, and align themselves with present day nutritional guidelines published by various governments. So although the packaging of these prepared snacks or meals might look healthy on the outside (think of cereal labels claiming high fiber, low salt / fat, high vitamins, etc.), they&amp;rsquo;re actually made with the help of UPFs. So eating a diet free of UPFs is quite challenging, and expensive.&lt;/p&gt;
-&lt;p&gt;Everything in moderation is probably true, but best to try and avoid these foods.&lt;/p&gt;
+                <content type="html">&lt;p&gt;Like successful aging, this book is a fascinating read that compiles the latest understandings about our bodies into a compendium of knowledge with many recommendations. Much of this book is summarizing studies about which molecules - proteins, hormones, types of cholesterol, and cellular processes are benefited by eating well, not too much (or too little), exercise, and sleep. However, unlike successful aging, the recommendations can be too specialized at times, and require too many resources (time and money) to execute properly. For example, the discussion about exercise requires a personal trainer, and many hours a week to carry out. Or, to hit the recommended protein levels, one needs to be having a good amount of meat twice per day, every day, on top of a protein shake, and high protein snack. This just doesn&amp;rsquo;t seem wise for the average person, or doable for the average household income. Having said all of this, the overall book was interesting nonetheless, and stacking this book with successful aging was enjoyable.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll start at the end, with my favourite quote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;&amp;lsquo;I think people get old when they stop thinking about the future,&amp;rsquo; Ric told me. &amp;lsquo;If you want to find someone&amp;rsquo;s true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they&amp;rsquo;ve gotten old. If they think about their dreams, their aspiration, what they&amp;rsquo;re still looking forward to - they&amp;rsquo;re young.&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hoping into other points from the book:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I liked the part about rucking, as a great way to improve the benefit of simply going for a walk in your neighbourhood or in the forest -&amp;gt; a good goal is to be able to carry a quarter to a third of your body weight, once you develop enough strength and stamina.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stability training is all about the &amp;ldquo;safe and powerful transmission of force through muscles and bones, and not joints or spinal hinge points&amp;rdquo;. A great way to determine if you&amp;rsquo;re doing a particular exercise well is to film yourself doing it!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;odds are overwhelming that you will die as a result of one of the chronic diseases of aging that I call the Four Horsemen: heart disease, cancer neurodegenerative disease, or type 2 diabetes and related metabolic dysfunction.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;when we are slightly deprived of nutrients, or when we are exercising, FOXO3 (a gene) tends to be more activated, which is what we want (it is correlated with longevity)&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Why do we care about mTOR? Because this mechanism turns out to be one of the most important mediators of longevity at the cellular level. Not only that, but it is highly &amp;lsquo;conserved&amp;rsquo; meaning it is found in virtually all forms of life, ranging from yeast to flies, to worms and right up to us humans&amp;hellip; this exotic molecule, found only on an isolated scrap of land in the middle of the ocean, acts almost like a switch that inhibits a very specific cellular mechanism that exists in nearly everything that lives. It was a perfect fit, and this fact still blows my mind every time I think about it. The job of mTOR is basically to balance an organism&amp;rsquo;s need to grow and reproduce against the availability of nutrients. When food is plentiful, mTOR is activated and the cell (or organism) goes into growth mode&amp;hellip;when nutrients are scarce, mTOR is suppressed and cells go into a kind of &amp;lsquo;recycling&amp;rsquo; mode, breaking down cellular components and generally cleaning house.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Reducing the amount of nutrients available to a cell seems to trigger a group of innate pathways that enhance the cell&amp;rsquo;s stress resistance and metabolic efficiency - all of them related, in some to mTOR.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;While AMPK (an AMP-activated protein kinase) is activated when it low levels of nutrients are detected it is also activated when we exercise.&amp;rdquo; -&amp;gt; Its activation leads to a cascade of helpful cellular responses. -&amp;gt; like, &amp;ldquo;instead of creating new proteins and undergoing cell division, the cell goes into a more fuel-efficient and stress-resistance mode, activating an important cellular recycling process called autophagy, which is basically self-eating&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Impaired autophagy is thought to be an important driver of numerous aging-related phenotypes and ailments, such as neurodegeneration and osteoarthritis.&amp;rdquo; I thus find it fascinating that this very important cellular mechanism can be triggered by certain interventions (exercising and caloric restriction) - and the drug rapamycin. Rapamycin seems to reduce systemic inflammation, perhaps by tamping down the activity of so-called senescent cells, which are &amp;lsquo;older&amp;rsquo; cells that have stopped dividing but have not died&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The various treatment guidelines specify target ranges for LDL-C, typically 100 mg / dL for patients at normal risk, or 70 mg / dL for high-risk individuals. In my view, this is still far too high&amp;hellip; [which is] 10 - 20 mg / dL.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Some scientists believe there may be something about menopause, and the abrupt decline in hormonal signaling, that sharply increases the risk of neurodegeneration in older women. In particular, it appears that a rapid drop in estradiol in women with an e4 allele is a driver of risk; that, in turn, suggests a possible role for perimenopausal hormone replacement therapy in these women. Menopause is not the only issue here. Other reproductive history factors, such as the number of children the women has had, age of first menstruation, and exposure to oral contraceptives, may also have a significant impact on Alzheimer&amp;rsquo;s risk and later life cognition. And new research suggests that women are more prone to accumulate tau, the neurotoxic protein.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Brain cells metabolize glucose in a different way from the rest of the body; they do not depend on insulin, instead absorbing circulating glucose directly&amp;hellip; enabling the brain to take priority when blood glucose levels are low. If we lack new sources of glucose, the brain&amp;rsquo;s preferred fuel, the liver converts our fat into ketone bodies, as an alternative energy source that can sustain us for a very long time, depending on the extent of our fat stores (Unlike muscle or liver, the brain itself does not store energy). When our fat runs out, we begin to consume our own muscle tissue, then our other organs, and even bone, all in order to keep the brain running at all costs. The brain is the last thing to shut off.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s easy to overlook, but alcohol should be considered as its own category of macronutrients because it is so widely consumed, it has such potent effects on our metabolism, and it is so calorically dense at 7 kcal / g (closer to the 9 kcal / g of fat than the 4 kcal / g of both protein and carbohydrate)&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FOR GLUCOSE MONITORING&lt;/strong&gt; - &amp;ldquo;I like to keep average glucose at or below 100 mg / dL, with a STD of less than 15 mg / dL. These are aggressive goals: 100 mg / dL corresponds to an HbA1c of 5.1%, which is quite low.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FOR PROTEIN&lt;/strong&gt; - &amp;ldquo;the first thing you should know about protein is that the standard recommendations for daily consumption are a joke. The US recommended dietary allowance (RDA) for protein is 0.8 g/kg of body weight. This may reflect how much protein we need to stay alive, but a far cry from what we need to thrive. There is ample evidence showing that we require more than this - and that consuming less leads to worse outcomes. More than one study has found that elderly people consuming that RDA of protein end up losing muscle mass, even in as short a period as two weeks&amp;hellip;. I typically set 1.6 g/kg/day as the minimum, and 2.2 as a good place to start for active people&amp;rdquo;. -&amp;gt; split up over 4 heavy-protein intakes: 2 protein rich meals, and 2 protein rich snacks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Trauma generally falls into five categories: abuse, neglect, abandonment, enmeshment (the blurring of boundaries between adults and children) and witnessing tragic events. Most things that wound children fit into these five categories&amp;hellip; dysfunction is represented by the four branches of the trauma tree: addition (not only vices such as drugs, alcohol and gambling, but also socially acceptable things such as work, exercise and perfectionism); codependency, or excessive psychological reliance on another person; habituated survival strategies, such as a propensity to anger and rage; attachment disorders, difficulty forming and maintaining connections or meaningful relationships with others.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;children don&amp;rsquo;t respond to a parent&amp;rsquo;s anger in a logical way. If they see me screaming at a driver who just cut me off, they internalize that rage as though it were directed to them.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;changing the behaviour can change the mood. You don&amp;rsquo;t need to wait for your mood to improve to make a behavioural change. This is why cognitive therapies alone sometimes come up short; simply thinking about problems might not help if our thinking itself is disordered.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
 </content>
             
@@ -65,19 +120,61 @@
         </entry>
     
         <entry>
-            <title type="text">Spark</title>
-            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202401spark/" />
-            <id>https://cartar.github.io./books/202401spark/</id>
-            <updated>2024-02-17T16:31:00-05:00</updated>
-            <published>2024-01-19T01:40:14-04:00</published>
+            <title type="text">Ultra-Processed People</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202403ultraprocessedpeople/" />
+            <id>https://cartar.github.io./books/202403ultraprocessedpeople/</id>
+            <updated>2024-03-31T12:52:35-04:00</updated>
+            <published>2024-03-30T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">As someone who knew very little Chinese history, this was a fascinating book. We follow various underground historians, or dissidents as the Chinese government would call them, set across the ages. Some, hundreds of years ago, but mainly, it is the story of people keeping the past 100 years of history alive, despite the best efforts of the Chinese government to forget.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Oh boy, this book wasn&amp;rsquo;t so much anything new, as it was a compelling reminder to eat whole foods, or at the very least, purchase food who&amp;rsquo;s full list of ingredients you&amp;rsquo;d have at home. There is a slow, but steady, understanding of these so-called Ultra-Processed Foods (UPFs), and their negative health implications.&lt;/p&gt;</summary>
             
-                <content type="html">&lt;p&gt;As someone who knew very little Chinese history, this was a fascinating book. We follow various underground historians, or dissidents as the Chinese government would call them, set across the ages. Some, hundreds of years ago, but mainly, it is the story of people keeping the past 100 years of history alive, despite the best efforts of the Chinese government to forget. The mass starvation during the great famine of the late 50&amp;rsquo;s under Mao&amp;rsquo;s mismanagement, mass burials of the cultural revolution, and the many executions or lifelong detention of &amp;ldquo;dissidents&amp;rdquo; for simply speaking with an open mind. As the party has changed hands from Mao, to Deng Xiaoping, and now Xi Jinping, the country has seen massive change. Much of it for the better, but the need to control history has resulted in lost truths which are harrowingly kept alive by a select few.&lt;/p&gt;
+                <content type="html">&lt;p&gt;Oh boy, this book wasn&amp;rsquo;t so much anything new, as it was a compelling reminder to eat whole foods, or at the very least, purchase food who&amp;rsquo;s full list of ingredients you&amp;rsquo;d have at home. There is a slow, but steady, understanding of these so-called Ultra-Processed Foods (UPFs), and their negative health implications.&lt;/p&gt;
+&lt;p&gt;I had an inkling about it beforehand, but I had thought the problem stemmed from a low fiber, high in fats, sugar, and salt diet that often goes hand-in-hand with UPFs. However, that isn&amp;rsquo;t it. When controlling for these variables, recent studies have still found negative health outcomes of ~25% increase risks for a whole host of diseases and cancers - including alzheimers! Clearly, there is something unnatural about these ingredients that interact negatively with our bodies.&lt;/p&gt;
+&lt;p&gt;The catch is, these UPFs are cheap, and pervasive. They&amp;rsquo;ve done well to deflect blame to poor eating habits, and align themselves with present day nutritional guidelines published by various governments. So although the packaging of these prepared snacks or meals might look healthy on the outside (think of cereal labels claiming high fiber, low salt / fat, high vitamins, etc.), they&amp;rsquo;re actually made with the help of UPFs. So eating a diet free of UPFs is quite challenging, and expensive.&lt;/p&gt;
+&lt;p&gt;Everything in moderation is probably true, but best to try and avoid these foods. Here are a collection of my favourite quotes and moments from this book:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;You might recognize the names of some of these: guar gum, locust bean gum, alginate, carrageenan, and the near ubiquitous xanthan gum. The last of these is, revoltingly, a bacterial exudate: slime that bacteria produce to allow them to cling to surfaces. Think of xanthan gum when you next scrape the accumulated gunk from the filter on your dishwasher.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The classification system is now called the NOVA system, and it divides food into four groups. The first is &amp;lsquo;unprocessed or minimally processed foods&amp;rsquo; - foods found in nature like meat, fruit and vegetables, but also things like flour and pasta. Group 2 is &amp;lsquo;processed culinary ingredients&amp;rsquo; including oils, lard, butter, sugar, salt, vinegar, honey, starches - traditional foods that might well be prepared using industrial technologies. They&amp;rsquo;re not things we can survive on, because they tend to be nutrient-poor and energy-dense. But mix them with stuff from the first group and you&amp;rsquo;ve got the basis of some delicious food. Group 3 is &amp;lsquo;processed food&amp;rsquo;, ready-made mixtures of groups 1 and 2, processed mainly for preservation: tins of beans, salted nuts, smoked meat, canned fish, chunks of fruit in syrup and proper freshly made bread. And then we come to group 4, &amp;lsquo;ultra-processed foods&amp;rsquo; (UPF). It&amp;rsquo;s long, perhaps the longest definition I&amp;rsquo;d ever read of a scientific category: &amp;lsquo;Formulations of ingredients, mostly of exclusive industrial use, made by a series of industrial processes, many requiring sophisticated equipment and technology.&amp;rsquo; That&amp;rsquo;s just the first bit. It continues: &amp;lsquo;Processes used to make UPF include the fractionation of whole foods into substances, chemical modifications of these substances&amp;hellip;&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Processes and ingredients used to manufacture ultra-processed foods are designed to create highly profitable (low-cost ingredients, long shelf life, emphatic branding) convenient (ready-to-consume) hyperpalatable products liable to displace freshly prepared dishes and meals made from all other NOVA food groups.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It is the ultra-processing, not the nutritional content, that&amp;rsquo;s the problem&amp;hellip; there is evidence that increased UPF intake is strongly associated with an increased risk of: all-cause mortality (i.e., death), cardiovascular disease, cancers, type 2 diabetes, high blood pressure, fatty liver disease, inflammatory bowel disease, depression, worse blood fat profile, frailty (measured by grip strength), irritable bowel syndrome, dyspepsia (indigestion), and dementia&amp;rdquo; [references in the book]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In 2022, a study published in the journal Neurology looked at data from over 72,000 people. Increasing intake of UPF by 10% was associated with a 25% increase in the risk of dementia and a 14% increase in the risk of Alzheimer&amp;rsquo;s disease.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;the majority of visits to paediatricians during the 1920&amp;rsquo;s were about fussy eating. The profession responded sensibly&amp;hellip;by advising parents to let children go hungry and to treat them &amp;lsquo;firmly&amp;rsquo;. Alan Brown&amp;rsquo;s 1926 book, &lt;em&gt;The Normal Child, Its Care and Feeding&lt;/em&gt;, provides a good example: &amp;lsquo;Force is necessary for children who spit out their food or those who vomit at will. Give such a child a small amount of the food, if he vomits give him more; continue until he keeps the food down.&amp;rsquo;&amp;rdquo; -&amp;gt; this led one doctor to test children&amp;rsquo;s abilities to self govern their food intake, as young as 1 years old. The moment the children were done breastfeeding, they were fed all their meals by nurses who put 12 bowls of ingredients in front of the kids. Whatever the child pointed to, or tried to eat, was given to them. Amazingly, and somewhat expectedly, they&amp;rsquo;d identify the foods they were nutrient deficient in, to the point where one kid consumed straight fish-oil until they had their vitamine D back in check.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Nearly a century later, in 1959, an English physiologist called G. R. Hervey began a series of experiments using the parabiotic pair technique to understand weight control. The study is tough reading. Ninety-three pairs of rats were sewn together, only thirty-two of which survived long enough to be used in the experiment. These rats then had a small electric probe inserted into their skulls, which was used to specifically damage a part of the brain called the hypothalamus, which maintains homeostasis in the body, controlling temperature, water intake, how much you sweat and so on. Hervey found that the rats with a damaged hypothalamus lost control of their eating and often developed obesity. So, he started damaging the hypothalamus of just one rat in each parabiotic pair, and if anything , the results got even more horrifying. The rats with the damaged hypothalamus ate so much so quickly that they sometimes died by choking on their food: they were no longer able to detect the &amp;lsquo;stop eating&amp;rsquo; signals coming from their bodies. Meanwhile the other rat - entirely normal apart from being attached to the rat with the hypothalamus lesion - started wasting away. It was getting a signal through the shared circulatory system telling it to stop eating.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;If, like me, you&amp;rsquo;re surprised by the idea that doing more won&amp;rsquo;t allow you to eat more calories, it may be because the opposite idea, that you can burn off excess calories, has been promoted by companies like Coke all the way from the scientific papers through to policy initiatives like Exercise is Medicine. It took me some time to accept that, despite having a medical degree, part of the way that I have understood my body and its energy requirements has come from the Coca-Cola Company.&amp;rdquo; -&amp;gt; Interesting take on a few studies showing that energy use is roughly constant regardless how physically active we are. When we do more, we simply use less energy for other things later on, i.e., rest more thereafter.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Apple juice, which is typically around 15% sugar, behaves much like any soft drink. But so does the apple purée, even though it contains all the constituents of the apple, including the fibre, and was made moments before consumption. Fiber is important, but the matrix, the structure of the apple, is key.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Schatzger&amp;rsquo;s proposal is that just like Doc Holliday&amp;rsquo;s cows, we may be eating more food to compensate for becoming increasingly deficient in micronutrients. Ultra-processing reduces micronutrients to the point that modern diets lead to malnutrition even as they cause obesity.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;These four tastes - sweet, salt, sour, and umami - are probably handled by basically four receptors. But bitterness is a different story. Bitter signals &amp;lsquo;potentially toxic&amp;rsquo;, and a huge number of different chemical structures taste bitterness. We need twenty-five different genes to detect bitterness, which gives us a great ability to detect toxins. But we can learn to love bitterness too. Bitter coffee will make a child gag and retch, but you can learn to associate the bitter taste with the exhilaration of the caffeine such that it becomes essential for making adult life bearable.&amp;rdquo; -&amp;gt; Some other interesting things here were that although we don&amp;rsquo;t smell as well dogs, for example, our taste receptors are more complex.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;When Cola was invented, the aim was to make a drink to perk people up, and the original formula contained extract of coca leaves and caffeine. Cocaine and caffeine are both extremely bitter, so the company added lots of sugar to mask this. But that initial bitterness was actually an advantage. It was the extreme bitterness that allowed the addition of more sugar to the drink than would otherwise have been possible&amp;hellip; But why does Coca-Cola want us to drink all this sugar? Remember those rat studies who learned to like flavours paired with calories? Well the same is true in humans&amp;hellip; This may explain a bizarre pricing phenomenon first noticed in Central America but common in low-income countries around the world. Sweet fizzy beverages are nearly as cheap or cheaper than bottled water. Obviously, it&amp;rsquo;s more expensive to make cola, but once people buy one, they will buy more. Water is cheaper to produce, but it&amp;rsquo;s hard to get people to drink lots of it.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;So, by using additives that affect taste and combining sensory experiences, UPF sneaks more rewards (such as sugar) past our tongues than we would otherwise tolerate. It makes us crave UPF more than we could ever crave home cooking. And, by creating mismatches between the sensations in the mouth and the nutrition in the gut, the companies have (if only accidentally) arrived at a method for driving increased consumption.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
 </content>
             
@@ -113,14 +210,14 @@
             <title type="text">Age of the City</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202402ageofthecity/" />
             <id>https://cartar.github.io./books/202402ageofthecity/</id>
-            <updated>2024-02-17T16:22:54-05:00</updated>
-            <published>2023-12-19T01:40:14-04:00</published>
+            <updated>2024-09-03T15:11:44-04:00</updated>
+            <published>2024-02-19T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Even as someone who isn&amp;rsquo;t a city planner, I found many of the chapters somewhat obvious. The challenge of climate change in cities, or increased risk of novel viruses for example. However, I did enjoy the book; not dissimilar to a good economist article, the ideas were well written, and the story easy to follow.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Even as someone who isn&amp;rsquo;t a city planner, I found many of the chapters somewhat obvious. The challenge of climate change in cities, or increased risk of novel viruses for example. However, I did enjoy the book; not dissimilar to a good economist article, the ideas were well written, and the story easy to follow. Just not enough &amp;ldquo;Aha&amp;rdquo; moments I suppose.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Even as someone who isn&amp;rsquo;t a city planner, I found many of the chapters somewhat obvious. The challenge of climate change in cities, or increased risk of novel viruses for example. However, I did enjoy the book; not dissimilar to a good economist article, the ideas were well written, and the story easy to follow. Just not enough &amp;ldquo;Aha&amp;rdquo; moments I suppose.&lt;/p&gt;
 &lt;p&gt;3/5.&lt;/p&gt;
@@ -155,18 +252,63 @@
         </entry>
     
         <entry>
+            <title type="text">Spark</title>
+            <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202401spark/" />
+            <id>https://cartar.github.io./books/202401spark/</id>
+            <updated>2024-03-30T11:03:20-04:00</updated>
+            <published>2024-01-19T01:40:14-04:00</published>
+            <author>
+                    <name>Will Cartar</name>
+                    <uri>https://cartar.github.io./</uri>
+                    <email>william.cartar@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;As someone who knew very little Chinese history, this was a fascinating book. We follow various underground historians, or dissidents as the Chinese government would call them, set across the ages. Some, hundreds of years ago, but mainly, it is the story of people keeping the past 100 years of history alive, despite the best efforts of the Chinese government to forget. The mass starvation during the great famine of the late 50&amp;rsquo;s under Mao&amp;rsquo;s mismanagement, mass burials of the cultural revolution, and the many executions or lifelong detention of &amp;ldquo;dissidents&amp;rdquo; for simply speaking with an open mind. As the party has changed hands from Mao, to Deng Xiaoping, and now Xi Jinping, the country has seen massive change. Much of it for the better, but the need to control history has resulted in lost truths which are harrowingly kept alive by a select few.&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;As someone who knew very little Chinese history, this was a fascinating book. We follow various underground historians, or dissidents as the Chinese government would call them, set across the ages. Some, hundreds of years ago, but mainly, it is the story of people keeping the past 100 years of history alive, despite the best efforts of the Chinese government to forget. The mass starvation during the great famine of the late 50&amp;rsquo;s under Mao&amp;rsquo;s mismanagement, mass burials of the cultural revolution, and the many executions or lifelong detention of &amp;ldquo;dissidents&amp;rdquo; for simply speaking with an open mind. As the party has changed hands from Mao, to Deng Xiaoping, and now Xi Jinping, the country has seen massive change. Much of it for the better, but the need to control history has resulted in lost truths which are harrowingly kept alive by a select few.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./categories/good-books/" term="Good Books" label="Good Books" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cartar.github.io./tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Piranesi</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202312piranesi/" />
             <id>https://cartar.github.io./books/202312piranesi/</id>
-            <updated>2023-12-20T08:47:09-05:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-12-19T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book had a lot of hype, both online and from my friend who recommended it. I&amp;rsquo;ll say, it took a bit to get into but then I was hooked. The non-spoiler description from Good Reads reads:
-&amp;ldquo;Piranesi’s house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book had a lot of hype, both online and from my friend who recommended it. I&amp;rsquo;ll say, it took a bit to get into but then I was hooked. The non-spoiler description from Good Reads reads:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Piranesi’s house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others. Within the labyrinth of halls an ocean is imprisoned; waves thunder up staircases, rooms are flooded in an instant. But Piranesi is not afraid; he understands the tides as he understands the pattern of the labyrinth itself. He lives to explore the house.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;This book had a lot of hype, both online and from my friend who recommended it. I&amp;rsquo;ll say, it took a bit to get into but then I was hooked. The non-spoiler description from Good Reads reads:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Piranesi’s house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others. Within the labyrinth of halls an ocean is imprisoned; waves thunder up staircases, rooms are flooded in an instant. But Piranesi is not afraid; he understands the tides as he understands the pattern of the labyrinth itself. He lives to explore the house.&lt;/p&gt;
@@ -208,14 +350,14 @@
             <title type="text">Successful Aging</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202311successfulaging/" />
             <id>https://cartar.github.io./books/202311successfulaging/</id>
-            <updated>2023-12-04T23:27:50-05:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-11-30T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Before I had even finished it, I&amp;rsquo;d bought 2 copies of this book: one for my parents, and the other for my partner&amp;rsquo;s. I admit, some chapters review much of what I already knew; exercise is very good for our brains and body (and you don&amp;rsquo;t need to be a gym rat - just get your heart rate up!</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Before I had even finished it, I&amp;rsquo;d bought 2 copies of this book: one for my parents, and the other for my partner&amp;rsquo;s. I admit, some chapters review much of what I already knew; exercise is very good for our brains and body (and you don&amp;rsquo;t need to be a gym rat - just get your heart rate up!); healthy eating isn&amp;rsquo;t prescribable, but it&amp;rsquo;ll include eating a range of unprocessed food (processed food is bad), eating in moderation, less sweets, and finding a diet that works best for you (without going to the extremes). But the many reviews of the latest neuroscience and how they apply to us as we age was fascinating. For example, a reason we &amp;ldquo;always have room for dessert&amp;rdquo; is the novel flavours (sweet after salty) pique your interest even though enough was several mouthfuls ago.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Before I had even finished it, I&amp;rsquo;d bought 2 copies of this book: one for my parents, and the other for my partner&amp;rsquo;s. I admit, some chapters review much of what I already knew; exercise is very good for our brains and body (and you don&amp;rsquo;t need to be a gym rat - just get your heart rate up!); healthy eating isn&amp;rsquo;t prescribable, but it&amp;rsquo;ll include eating a range of unprocessed food (processed food is bad), eating in moderation, less sweets, and finding a diet that works best for you (without going to the extremes). But the many reviews of the latest neuroscience and how they apply to us as we age was fascinating. For example, a reason we &amp;ldquo;always have room for dessert&amp;rdquo; is the novel flavours (sweet after salty) pique your interest even though enough was several mouthfuls ago.&lt;/p&gt;
 &lt;p&gt;I made far too many bookmarks throughout, so I&amp;rsquo;ll jump right in. Here are a collection of my favourite quotes and moments from this book:&lt;/p&gt;
@@ -277,9 +419,9 @@
 &lt;li&gt;Bacopa - water hyssop, might improve higher-order cognitive processes.&lt;/li&gt;
 &lt;li&gt;Meditation - helps with our ability to maintain attention, reducing activity within the default mode network and increases connectivity between regions of the brain that are implicated in cognitive control.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging2.jpg&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;Well Being Score&lt;/h4&gt;
-        &lt;/figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging2.jpg&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Well Being Score&lt;/h4&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&amp;ldquo;Daniel Pink has to say this about the middle-aged dip: &amp;lsquo;One possibility is the disappointment of unrealized expectations. In our naive twenties and thirties, our hopes are high, our scenarios rosy. Then reality trickled in like a slow leak in the room. Only one person gets to be CEO - and it&amp;rsquo;s not going to be you. Some marriages crumble - and yours, sadly, is one of them&amp;hellip; Yet we don&amp;rsquo;t remain in the emotional basement for long, because over time we adjust our aspirations and later realize that life is pretty good. In short, we dip in the middle because we&amp;rsquo;re lousy forecasters. In youth, our expectations are too high.&amp;rdquo;&lt;/p&gt;
@@ -328,9 +470,9 @@
 &lt;li&gt;&amp;ldquo;Practice gratitude for what you have.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging1.jpg&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;Risk / Protective Factors&lt;/h4&gt;
-        &lt;/figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging1.jpg&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Risk / Protective Factors&lt;/h4&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;appendix-rejuvenating-your-brain&#34;&gt;Appendix: Rejuvenating your brain:&lt;/h3&gt;
@@ -381,14 +523,14 @@
             <title type="text">Brief Answers to the Big Questions</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202310briefanswerstobigquestions/" />
             <id>https://cartar.github.io./books/202310briefanswerstobigquestions/</id>
-            <updated>2023-12-03T19:34:40-05:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-10-28T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A fun reminder of the wonders of our universe, guided by one of the most astonishing minds of the last century. My favourite parts were the forward, introduction, and prelude &amp;ldquo;why we must ask the big questions&amp;rdquo;, but that is because the reminder of the book reviewed ideas that I&amp;rsquo;m familiar with.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A fun reminder of the wonders of our universe, guided by one of the most astonishing minds of the last century. My favourite parts were the forward, introduction, and prelude &amp;ldquo;why we must ask the big questions&amp;rdquo;, but that is because the reminder of the book reviewed ideas that I&amp;rsquo;m familiar with. It is remarkable that Stephen could write this book in his last year of life, given his limited ability to express himself (just some facial muscles by that point). That, mixed with his discussions about black holes, the beginning of the universe, and various other areas where our knowledge is incomplete were what made this book worthwhile.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A fun reminder of the wonders of our universe, guided by one of the most astonishing minds of the last century. My favourite parts were the forward, introduction, and prelude &amp;ldquo;why we must ask the big questions&amp;rdquo;, but that is because the reminder of the book reviewed ideas that I&amp;rsquo;m familiar with. It is remarkable that Stephen could write this book in his last year of life, given his limited ability to express himself (just some facial muscles by that point). That, mixed with his discussions about black holes, the beginning of the universe, and various other areas where our knowledge is incomplete were what made this book worthwhile.&lt;/p&gt;
 &lt;p&gt;3/5.&lt;/p&gt;
@@ -426,14 +568,14 @@
             <title type="text">Team of Rivals</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202309teamofrivals/" />
             <id>https://cartar.github.io./books/202309teamofrivals/</id>
-            <updated>2023-09-23T04:28:16-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-09-23T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">As someone with little knowledge of the American Civil War, or President Lincoln, this book was equally fascinating and well written. Lincoln&amp;rsquo;s name hasn&amp;rsquo;t gone down in history because of his superior military knowhow, or skilful &amp;ldquo;statesmanship&amp;rdquo;, but because of his superior &amp;ldquo;peculiar moral power and greatness of character&amp;rdquo;.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;As someone with little knowledge of the American Civil War, or President Lincoln, this book was equally fascinating and well written. Lincoln&amp;rsquo;s name hasn&amp;rsquo;t gone down in history because of his superior military knowhow, or skilful &amp;ldquo;statesmanship&amp;rdquo;, but because of his superior &amp;ldquo;peculiar moral power and greatness of character&amp;rdquo;. It is truly a shame that politicians are not like Lincoln - who was so keenly aware of making the morally correct choice, at the opportune time, that he was able to craft a cabinet of rivals that balanced themselves on the whole. As is often touted today of top tier leadership, you want to foster trust, respect, and open disagreement that allows for the best ideas to flourish. Creating a leadership team of &amp;ldquo;yes-people&amp;rdquo; is never good in the long run. Lincoln was ahead of his time here, as that is exactly the atmosphere he was able to create and maintain through arguably the most trying times in all of America&amp;rsquo;s history. Comparing Lincoln (the first elected President of the Republican Party), to Donald Trump shows the alarming distance politicians have travelled into a world of short term exuberance. It is no wonder that democracy should suffer with America so divided.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;As someone with little knowledge of the American Civil War, or President Lincoln, this book was equally fascinating and well written. Lincoln&amp;rsquo;s name hasn&amp;rsquo;t gone down in history because of his superior military knowhow, or skilful &amp;ldquo;statesmanship&amp;rdquo;, but because of his superior &amp;ldquo;peculiar moral power and greatness of character&amp;rdquo;. It is truly a shame that politicians are not like Lincoln - who was so keenly aware of making the morally correct choice, at the opportune time, that he was able to craft a cabinet of rivals that balanced themselves on the whole. As is often touted today of top tier leadership, you want to foster trust, respect, and open disagreement that allows for the best ideas to flourish. Creating a leadership team of &amp;ldquo;yes-people&amp;rdquo; is never good in the long run. Lincoln was ahead of his time here, as that is exactly the atmosphere he was able to create and maintain through arguably the most trying times in all of America&amp;rsquo;s history. Comparing Lincoln (the first elected President of the Republican Party), to Donald Trump shows the alarming distance politicians have travelled into a world of short term exuberance. It is no wonder that democracy should suffer with America so divided.&lt;/p&gt;
 &lt;p&gt;Two of my favourite moments from this book are when Lincoln appears on the battlefield - at the distress of everyone else around him. At the start of the war, he journeys to the front line, and in the dark, takes a boat over to the enemy camp to scout out an adequate landing for his forces. This was completely unheard of, as Lincoln was no general - however, he had become fed up with the slow progress of his commander at this particular post, and took it upon himself to get the troops moving. At another battlefront, late in the war, he was within range of the enemy, to the point that the surgeon by his side was actually shot by opposing fire. Can you imagine anything so wild as the sitting president being on the front line of what was the chaos of a 19th century war?&lt;/p&gt;
@@ -448,7 +590,7 @@
 &lt;p&gt;&amp;ldquo;&amp;lsquo;Having hope&amp;rsquo;, writes Daniel Goleman in his study of emotional intelligence, &amp;lsquo;means that one will not give in to overwhelming anxiety, a defeatist attitude, or depression in the face of difficult challenges or setbacks.&amp;rsquo; Hope is &amp;lsquo;more than the sunny view that everything will turn out all right&amp;rsquo;; it is &amp;lsquo;believing you have the will and the way to accomplish your goals.&amp;rsquo; More clearly than his colleagues, Lincoln understood that numerous setbacks were inevitable before the war could be brought to a close.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Washing was a typical American. Napoleon was a typical Frenchman, but Lincoln was a humanitarian as broad as the world. He was bigger than his country - bigger than all the Presidents together.&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Washing was a typical American. Napoleon was a typical Frenchman, but Lincoln was a humanitarian as broad as the world. He was bigger than his country - bigger than all the Presidents together.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
 </content>
@@ -485,14 +627,14 @@
             <title type="text">The Infinite Game</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202308infinitegame/" />
             <id>https://cartar.github.io./books/202308infinitegame/</id>
-            <updated>2023-08-24T12:51:47-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-08-24T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book is great for anyone leading a company, and good for those wanting to know if they&amp;rsquo;re a part of an organization that is in it for the long haul. The basic premise is that companies without a proper Just Cause, and various other attributes, will at one point or another, succumb to their short sightedness, and fail.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book is great for anyone leading a company, and good for those wanting to know if they&amp;rsquo;re a part of an organization that is in it for the long haul. The basic premise is that companies without a proper &lt;em&gt;Just Cause&lt;/em&gt;, and various other attributes, will at one point or another, succumb to their short sightedness, and fail. There are many examples to draw on, where companies prioritize profit over their purpose, and end up losing out to the inevitable innovation of competition.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;This book is great for anyone leading a company, and good for those wanting to know if they&amp;rsquo;re a part of an organization that is in it for the long haul. The basic premise is that companies without a proper &lt;em&gt;Just Cause&lt;/em&gt;, and various other attributes, will at one point or another, succumb to their short sightedness, and fail. There are many examples to draw on, where companies prioritize profit over their purpose, and end up losing out to the inevitable innovation of competition.&lt;/p&gt;
 &lt;p&gt;Leading by purpose is not easy, and it is almost never rewarded by Wall Street. Therefore, Simon argues that leaders must have courage to do the right thing, in the face of short term incentives. To find that courage, he suggests the following:&lt;/p&gt;
@@ -535,14 +677,14 @@
             <title type="text">Mendeleyev’s dream</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202308mendeleyevsdream/" />
             <id>https://cartar.github.io./books/202308mendeleyevsdream/</id>
-            <updated>2023-08-24T12:53:10-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-08-11T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book was the first time I came into contact with a history of chemistry, and it was absolutely fascinating. Histories of physics have been my default, due to their ongoing contributions to the origins of life, the universe and everything; but much of that history is the back and forth of military funded experiments, and intellectual genius.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book was the first time I came into contact with a history of chemistry, and it was absolutely fascinating. Histories of physics have been my default, due to their ongoing contributions to the origins of life, the universe and everything; but much of that history is the back and forth of military funded experiments, and intellectual genius. Chemistry, on the other hand, was funded by the wealthy in an attempt to create more wealth through transmutation (i.e., alchemy), as well as the mishaps of mad scientists tinkering with &amp;ldquo;the elements&amp;rdquo;.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;This book was the first time I came into contact with a history of chemistry, and it was absolutely fascinating. Histories of physics have been my default, due to their ongoing contributions to the origins of life, the universe and everything; but much of that history is the back and forth of military funded experiments, and intellectual genius. Chemistry, on the other hand, was funded by the wealthy in an attempt to create more wealth through transmutation (i.e., alchemy), as well as the mishaps of mad scientists tinkering with &amp;ldquo;the elements&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;This book covers over two thousand years of history, which includes the origin story of many words (some are included below), and the intellectual struggle of determining what exactly is an element? The following are ideas, and excerpts from the book to hopefully give you an idea of why it was such an engaging read.&lt;/p&gt;
@@ -597,14 +739,14 @@
             <title type="text">The Future of AI</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202307futureofai/" />
             <id>https://cartar.github.io./books/202307futureofai/</id>
-            <updated>2023-08-24T12:51:35-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-07-15T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book has maybe two interesting parts to it. The description of how a new antibiotic was discovered by AI, and the modelling of protein folding by AI. Other than that, the book doesn&amp;rsquo;t go into much detail about AI, and instead focuses on ideas like the cyber threat of AI, and how it is that that cyber threat is different from say nuclear threat.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book has maybe two interesting parts to it. The description of how a new antibiotic was discovered by AI, and the modelling of protein folding by AI. Other than that, the book doesn&amp;rsquo;t go into much detail about AI, and instead focuses on ideas like the cyber threat of AI, and how it is that that cyber threat is different from say nuclear threat. I suppose those would be interesting topics to folks more politically inclined than me. I just wanted to explore cutting edge AI and its novel impacts, which I didn&amp;rsquo;t get from this book.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;This book has maybe two interesting parts to it. The description of how a new antibiotic was discovered by AI, and the modelling of protein folding by AI. Other than that, the book doesn&amp;rsquo;t go into much detail about AI, and instead focuses on ideas like the cyber threat of AI, and how it is that that cyber threat is different from say nuclear threat. I suppose those would be interesting topics to folks more politically inclined than me. I just wanted to explore cutting edge AI and its novel impacts, which I didn&amp;rsquo;t get from this book.&lt;/p&gt;
 &lt;p&gt;1/5.&lt;/p&gt;
@@ -642,14 +784,14 @@
             <title type="text">Death’s End</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202305deathsend/" />
             <id>https://cartar.github.io./books/202305deathsend/</id>
-            <updated>2023-08-24T12:51:23-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-05-15T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">The cover of this book says: &amp;ldquo;wildly imaginative&amp;rdquo;, which is a perfect synopsys. I&amp;rsquo;ve not had my mind blow so many times over by a series, and I doubt I ever will again. It isn&amp;rsquo;t just the exotic physics of higher dimensions utilized by hyper advanced civilizations.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;The cover of this book says: &amp;ldquo;wildly imaginative&amp;rdquo;, which is a perfect synopsys. I&amp;rsquo;ve not had my mind blow so many times over by a series, and I doubt I ever will again. It isn&amp;rsquo;t just the exotic physics of higher dimensions utilized by hyper advanced civilizations. It is the political interactions of those civilizations with one another, and a story arc that is truly captivating. I felt the full range of emotions in this book - from excitedly anticipating reunions, to battles outcomes, mind games, and love stories. This book had it all. I cannot recommend this book, or this series enough. The only downside is that the books are a little long, and take ~50-100 pages to really get into. But once you&amp;rsquo;re there, the length of the story becomes a blessing, as you&amp;rsquo;ll not want the ride to end.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;The cover of this book says: &amp;ldquo;wildly imaginative&amp;rdquo;, which is a perfect synopsys. I&amp;rsquo;ve not had my mind blow so many times over by a series, and I doubt I ever will again. It isn&amp;rsquo;t just the exotic physics of higher dimensions utilized by hyper advanced civilizations. It is the political interactions of those civilizations with one another, and a story arc that is truly captivating. I felt the full range of emotions in this book - from excitedly anticipating reunions, to battles outcomes, mind games, and love stories. This book had it all. I cannot recommend this book, or this series enough. The only downside is that the books are a little long, and take ~50-100 pages to really get into. But once you&amp;rsquo;re there, the length of the story becomes a blessing, as you&amp;rsquo;ll not want the ride to end.&lt;/p&gt;
 &lt;p&gt;5/5.&lt;/p&gt;
@@ -687,14 +829,14 @@
             <title type="text">Surely You’re Joking Mr. Feynman</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202304surelyyourejoking/" />
             <id>https://cartar.github.io./books/202304surelyyourejoking/</id>
-            <updated>2023-08-24T12:51:00-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-04-15T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This collection of stories from Richard Feynman&amp;rsquo;s life is a fascinating time capsule into life in the mid 1900&amp;rsquo;s. From his work on the Manhattan Project, to his inquisitive mind and child-like love of life, he truly is a magnificent character whose voice and adventures shine bright in this book.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This collection of stories from Richard Feynman&amp;rsquo;s life is a fascinating time capsule into life in the mid 1900&amp;rsquo;s. From his work on the Manhattan Project, to his inquisitive mind and child-like love of life, he truly is a magnificent character whose voice and adventures shine bright in this book.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;This collection of stories from Richard Feynman&amp;rsquo;s life is a fascinating time capsule into life in the mid 1900&amp;rsquo;s. From his work on the Manhattan Project, to his inquisitive mind and child-like love of life, he truly is a magnificent character whose voice and adventures shine bright in this book.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -732,14 +874,14 @@
             <title type="text">The Dark Forest</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202303thedarkforest/" />
             <id>https://cartar.github.io./books/202303thedarkforest/</id>
-            <updated>2023-04-27T10:08:08-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-03-15T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">With the story well underway, this second book is a masterpiece. Without giving too much away, we are transported to a future where Luo Ji is awake and well. Technology has progressed far enough to give humanity a sense of security, and that leads to some interesting plot development.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;With the story well underway, this second book is a masterpiece. Without giving too much away, we are transported to a future where Luo Ji is awake and well. Technology has progressed far enough to give humanity a sense of security, and that leads to some interesting plot development. We finally learn why Luo Ji had so many assassination attempts against him, and yet again, the story unfolds with unanticipated twists that make it hard to put down.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;With the story well underway, this second book is a masterpiece. Without giving too much away, we are transported to a future where Luo Ji is awake and well. Technology has progressed far enough to give humanity a sense of security, and that leads to some interesting plot development. We finally learn why Luo Ji had so many assassination attempts against him, and yet again, the story unfolds with unanticipated twists that make it hard to put down.&lt;/p&gt;
 &lt;p&gt;After finishing this book, I understand all the hype. It took me a bit to get into it, but it truly is an incredibly creative story that inspires the reader to see the beauty in our world.&lt;/p&gt;
@@ -778,14 +920,14 @@
             <title type="text">The Five Most Important Questions</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202302questions/" />
             <id>https://cartar.github.io./books/202302questions/</id>
-            <updated>2023-04-27T10:07:20-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-02-15T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A dated book that feels a little ahead of it&amp;rsquo;s time. Certainly still relevant today, it is full of anecdotes about why the 5 questions outlined below are so crucial to success for any organization (private, public, non-profit, etc.). But really, if you agree that the five questions are valuable, you don&amp;rsquo;t need to read the book so much as do the exercise.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A dated book that feels a little ahead of it&amp;rsquo;s time. Certainly still relevant today, it is full of anecdotes about why the 5 questions outlined below are so crucial to success for any organization (private, public, non-profit, etc.). But really, if you agree that the five questions are valuable, you don&amp;rsquo;t need to read the book so much as do the exercise. However, the book is a quick 2 hour read (or less), so you don&amp;rsquo;t lose much giving it a spin!&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A dated book that feels a little ahead of it&amp;rsquo;s time. Certainly still relevant today, it is full of anecdotes about why the 5 questions outlined below are so crucial to success for any organization (private, public, non-profit, etc.). But really, if you agree that the five questions are valuable, you don&amp;rsquo;t need to read the book so much as do the exercise. However, the book is a quick 2 hour read (or less), so you don&amp;rsquo;t lose much giving it a spin!&lt;/p&gt;
 &lt;h2 id=&#34;peter-druckers-five-questions-are&#34;&gt;Peter Drucker&amp;rsquo;s five questions are:&lt;/h2&gt;
@@ -831,14 +973,14 @@
             <title type="text">The Three-Body Problem</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202301threebodyproblem/" />
             <id>https://cartar.github.io./books/202301threebodyproblem/</id>
-            <updated>2023-01-18T11:41:09-05:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2023-01-15T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I found the narrative a little hard to follow at first, but by the end, I was hooked. This sci-fi adventure is inventive in the creation of the antagonist, and keeps you wanting to learn more about their story. Having not read any literature from China before, I found there to a weight behind the backstory that was new to me.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;I found the narrative a little hard to follow at first, but by the end, I was hooked. This sci-fi adventure is inventive in the creation of the antagonist, and keeps you wanting to learn more about their story. Having not read any literature from China before, I found there to a weight behind the backstory that was new to me. The author spoke of cultural revolution in China in a way that was unexpected, and captivating. I&amp;rsquo;m excited to read the next 2 parts of the adventure!&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;I found the narrative a little hard to follow at first, but by the end, I was hooked. This sci-fi adventure is inventive in the creation of the antagonist, and keeps you wanting to learn more about their story. Having not read any literature from China before, I found there to a weight behind the backstory that was new to me. The author spoke of cultural revolution in China in a way that was unexpected, and captivating. I&amp;rsquo;m excited to read the next 2 parts of the adventure!&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -876,16 +1018,65 @@
             <title type="text">Flush</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202212flush/" />
             <id>https://cartar.github.io./books/202212flush/</id>
-            <updated>2023-01-18T11:25:33-05:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-12-02T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">An interesting review of how useful our poop is, the current science of capturing that information, and what is going on on the inside to cause our stool to look the way it does.
-The main takeaways are:
- If you&amp;rsquo;re constipated - you&amp;rsquo;re absorbing too much water, drink more.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;An interesting review of how useful our poop is, the current science of capturing that information, and what is going on on the inside to cause our stool to look the way it does.&lt;/p&gt;
+&lt;p&gt;The main takeaways are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you&amp;rsquo;re constipated - you&amp;rsquo;re absorbing too much water, drink more.&lt;/li&gt;
+&lt;li&gt;If you have diarrhea - you&amp;rsquo;re losing a lot of water, drink more.&lt;/li&gt;
+&lt;li&gt;If your poop experience is poor, try&amp;hellip;
+&lt;ul&gt;
+&lt;li&gt;eating more fiber, but ramp up slowly as you might not have the right mix of microbes at the start.&lt;/li&gt;
+&lt;li&gt;boosting the diversity of your microbiome by eating plain yogurt (daily), and fermented foods like kimchi or kombucha.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When you travel, expect to have a bad time - best to prepare your microbiome beforehand with the above tips.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;some-other-notes-i-took&#34;&gt;Some other notes I took:&lt;/h2&gt;
+&lt;h3 id=&#34;useful&#34;&gt;Useful&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Overuse of laxatives in general can decrease absorption of nutrients and other medications, cause electrolyte imbalances, create dependency and actually worsen constipation by interfering with the colon’s natural contractions.&lt;/li&gt;
+&lt;li&gt;Yellow and greasy suggest not digesting fat well; and that evaluation for celiac disease or another cause of malabsorption is warranted.&lt;/li&gt;
+&lt;li&gt;Green stool could be food passing too quickly and not giving your bile a chance to break down into brown colour;&lt;/li&gt;
+&lt;li&gt;Black could be bleeding in upper tract or black licorice&lt;/li&gt;
+&lt;li&gt;Red could be beets or bleeding in lower tract - often hemorrhoids but sometimes more seriously colon cancer&lt;/li&gt;
+&lt;li&gt;White or clay-coloured / devoid of colour from bile suggests a blockage in a duct that carries bile from liver to gallbladder -&amp;gt; in infants is life threatening if not corrected&lt;/li&gt;
+&lt;li&gt;Constipation can tear the main intestinal lining and cause anal fissures. Intense pressure on the colon can cause diverticulitis (inflamed or infected pouches of gut tissue), hemorrhoids (akin to varicose veins; also can be from prolonged sitting on the pot), to more serious conditions like defecation syncope (fainting on the toilet), or even a stroke.&lt;/li&gt;
+&lt;li&gt;Posture modification on the toilet can reduce strain and encourage a more complete evacuation.&lt;/li&gt;
+&lt;li&gt;When ramping up on fiber, if you didn’t already eat a lot of fiber, you’ll need to ramp up slowly, to avoid stomach cramps (as it’s unlikely you have the right fiber-munching bacteria to begin with). Slow and steady can cultivate the microbiome you seek, and adding fermented foods / yogurt can do wonders too.&lt;/li&gt;
+&lt;li&gt;The bacteria sometimes take time to ramp up the right metabolic pathways or fiber-processing genes. In artificial guts, you see bacteria don’t degrade the fiber as much on the first day compared to the next.&lt;/li&gt;
+&lt;li&gt;Microbiome disruptions like: food poisoning, international travel, and dietary changes are all associated with shifts in gut flora.&lt;/li&gt;
+&lt;li&gt;Sometimes, these changes can introduce totally new species that sometimes wipe out weaker competition. However, it is usually the case that the system as a whole preserves their functionality - like digesting carbohydrates.&lt;/li&gt;
+&lt;li&gt;This is where food sensitivity tests, and microbiome lab tests (stool testing) fall short. It’s an expensive snapshot of your current system that will need to be done again in the near future.&lt;/li&gt;
+&lt;li&gt;Eating a diet rich in fermented foods like: yogurt, kimchi, and kombucha tea for many weeks shows signs of improved gut microbiome diversity and reduced signs of inflammation compared to counterparts on a high-fiber diet.&lt;/li&gt;
+&lt;li&gt;“The bacteria food alone isn’t enough; we need the bacteria that can eat it.”&lt;/li&gt;
+&lt;li&gt;Caution: nothing is guaranteed. What works for others won’t necessarily work for you&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;less-useful-but-noteworthy&#34;&gt;Less useful, but noteworthy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Constipation - colon absorbs too much water. 15 major classes of drugs can cause constipation, according to one tally, even tylenol can stop things up&lt;/li&gt;
+&lt;li&gt;Many drugs cause diarrhea by increasing intestinal muscle movements that push everything onwards. Allergies, infections, contaminated or overly spicy food can trigger an immune response to flush out the system. Can be from IBS, lactose intolerance, diseases, drugs or damage can inflame or tear the intestinal lining, interfering with water absorption that makes matters worse.&lt;/li&gt;
+&lt;li&gt;Some researchers claim timing transit is more important than Bristol stool scale.&lt;/li&gt;
+&lt;li&gt;Median is 29 hours. Range is 4 hours - 10 days&lt;/li&gt;
+&lt;li&gt;Longer transit time associated with greater gut diversity -&amp;gt; not sure how well studied this is&lt;/li&gt;
+&lt;li&gt;And greater diversity isn’t always a good thing -&amp;gt; if that diversity includes an unfavourable mix.&lt;/li&gt;
+&lt;li&gt;C-section + instant formula over vagina birth + breastfeeding alter microbiome in ways that increase the risk of asthma and allergies.&lt;/li&gt;
+&lt;li&gt;Babies exposed to a broader diversity of microbes are more protected and have lower risk of bad lifelong health outcomes&lt;/li&gt;
+&lt;li&gt;Think of your microbiome as your mini ecosystem for which you are the caretaker. * If you eat poorly, don’t prioritise sleep, exercise, and a balanced lifestyle, your microbiome is likely to get out of balance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;not-useful-but-cool&#34;&gt;Not useful, but cool&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;German made: Flachspuler - or flat-flush toilet, helps people examine their stool before being flushed&lt;/li&gt;
+&lt;li&gt;People in the US eat about 30-35% of the fiber that they should - which makes the average deposit in western toilets a fraction of what they should be&lt;/li&gt;
+&lt;li&gt;Lots of applications for measuring specific biomarkers like proteins, carbohydrates, fats, and smaller metabolites that your microbes create. These have been used to predict childhood obesity and even intelligence. However, this research is beyond the scope of Gut Hub - and the research is very new. It’s unclear in which direction the relationship is causal; does measurable intelligence modify your gut biome, or the other way around?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3/5.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;An interesting review of how useful our poop is, the current science of capturing that information, and what is going on on the inside to cause our stool to look the way it does.&lt;/p&gt;
 &lt;p&gt;The main takeaways are:&lt;/p&gt;
@@ -973,14 +1164,14 @@ The main takeaways are:
             <title type="text">naked statistics</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202211nakedstatistics/" />
             <id>https://cartar.github.io./books/202211nakedstatistics/</id>
-            <updated>2022-11-15T11:03:33-05:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-11-14T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A masterpiece in fun-reading education; this book is accessible to everyone who&amp;rsquo;s goal is to learn statistics. And for those with a strong handle on the subject, it is a good reminder of the pitfalls of being too brash with the toolkit.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A masterpiece in fun-reading education; this book is accessible to everyone who&amp;rsquo;s goal is to learn statistics. And for those with a strong handle on the subject, it is a good reminder of the pitfalls of being too brash with the toolkit.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A masterpiece in fun-reading education; this book is accessible to everyone who&amp;rsquo;s goal is to learn statistics. And for those with a strong handle on the subject, it is a good reminder of the pitfalls of being too brash with the toolkit.&lt;/p&gt;
 &lt;p&gt;My key takeaways:&lt;/p&gt;
@@ -1054,14 +1245,14 @@ The main takeaways are:
             <title type="text">Thinking in Bets</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202210thinkinginbets/" />
             <id>https://cartar.github.io./books/202210thinkinginbets/</id>
-            <updated>2022-11-03T08:16:14-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-10-20T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">The first half of this book is very interesting, and includes many fun anecdotes from the life of a professional poker player. The second half is classic psychology material that is found in many other similar books: diversity helps consensus, allowing for dissent within teams helps them move towards the truth, our remembered experience is different from our experience, and learning when you&amp;rsquo;re on &amp;ldquo;tilt&amp;rdquo;.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;The first half of this book is very interesting, and includes many fun anecdotes from the life of a professional poker player. The second half is classic psychology material that is found in many other similar books: diversity helps consensus, allowing for dissent within teams helps them move towards the truth, our remembered experience is different from our experience, and learning when you&amp;rsquo;re on &amp;ldquo;tilt&amp;rdquo;.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;The first half of this book is very interesting, and includes many fun anecdotes from the life of a professional poker player. The second half is classic psychology material that is found in many other similar books: diversity helps consensus, allowing for dissent within teams helps them move towards the truth, our remembered experience is different from our experience, and learning when you&amp;rsquo;re on &amp;ldquo;tilt&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;The novel takeaway from this book is that everyone becomes less biased when they&amp;rsquo;re placing bets. Putting money where our mouth is really does improve our sense of truth seeking. Makes you wonder why this trick isn&amp;rsquo;t used more frequently in the world of business? From the sounds of it, the change is just beginning (with betting markets inside businesses).&lt;/p&gt;
@@ -1110,14 +1301,14 @@ The main takeaways are:
             <title type="text">Slicing Pie</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202209slicingpie/" />
             <id>https://cartar.github.io./books/202209slicingpie/</id>
-            <updated>2022-09-25T15:56:59-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-09-21T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A very quick read. Lots of &amp;ldquo;supporting&amp;rdquo; stories up front. The pain points of issuing equity too early in a project, or too late. So what is the solution? dynamic equity. Everyone tracks their work, either per hour, or per day, depending on what is more appropriate.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A very quick read. Lots of &amp;ldquo;supporting&amp;rdquo; stories up front. The pain points of issuing equity too early in a project, or too late. So what is the solution? dynamic equity. Everyone tracks their work, either per hour, or per day, depending on what is more appropriate. Everyone is given a hypothetical hourly rate. The pie is then split up based on the amount of hypothetical cash they are owed relative to the entire amount of cash owed to all participants.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A very quick read. Lots of &amp;ldquo;supporting&amp;rdquo; stories up front. The pain points of issuing equity too early in a project, or too late. So what is the solution? dynamic equity. Everyone tracks their work, either per hour, or per day, depending on what is more appropriate. Everyone is given a hypothetical hourly rate. The pie is then split up based on the amount of hypothetical cash they are owed relative to the entire amount of cash owed to all participants.&lt;/p&gt;
 &lt;p&gt;This is a fantastic way to grow a project from zero to company, without having to worry too much about over/under-compensating participants who are being compensated in equity. Of course, the story is different if there is a blend of cash &amp;amp; equity conversation.&lt;/p&gt;
@@ -1157,14 +1348,14 @@ The main takeaways are:
             <title type="text">The Psychology of Money</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202209psychologyofmoney/" />
             <id>https://cartar.github.io./books/202209psychologyofmoney/</id>
-            <updated>2022-09-15T10:02:20-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-09-13T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A collection of stories demonstrating that people aren&amp;rsquo;t crazy, but they do sometimes fail to make reasonable decisions with their money. Being rational with money can sometimes be the unreasonable thing to do after you&amp;rsquo;ve factored in human psychology. This book is a fantastic starting point for anyone wanting to improve their relationship with money.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A collection of stories demonstrating that people aren&amp;rsquo;t crazy, but they do sometimes fail to make reasonable decisions with their money. Being rational with money can sometimes be the unreasonable thing to do after you&amp;rsquo;ve factored in human psychology. This book is a fantastic starting point for anyone wanting to improve their relationship with money.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A collection of stories demonstrating that people aren&amp;rsquo;t crazy, but they do sometimes fail to make reasonable decisions with their money. Being rational with money can sometimes be the unreasonable thing to do after you&amp;rsquo;ve factored in human psychology. This book is a fantastic starting point for anyone wanting to improve their relationship with money.&lt;/p&gt;
 &lt;h3 id=&#34;favourite-quotes&#34;&gt;Favourite quotes:&lt;/h3&gt;
@@ -1245,14 +1436,14 @@ The main takeaways are:
             <title type="text">Quantum: Einstein, Bohr, and the Great Debate about the Nature of Reality</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202209quantumgreatdebate/" />
             <id>https://cartar.github.io./books/202209quantumgreatdebate/</id>
-            <updated>2022-09-07T15:05:23-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-09-03T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">For anyone who loves physics, this is a must read. The magnitude of breakthroughs in theoretical physics between the late 1800&amp;rsquo;s and early 1900&amp;rsquo;s is staggering. Kumar takes you through those breakthroughs one at a time, carefully including personal anecdotes of the great scientists as their leaps of understanding changed the world.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;For anyone who loves physics, this is a must read. The magnitude of breakthroughs in theoretical physics between the late 1800&amp;rsquo;s and early 1900&amp;rsquo;s is staggering. Kumar takes you through those breakthroughs one at a time, carefully including personal anecdotes of the great scientists as their leaps of understanding changed the world.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;For anyone who loves physics, this is a must read. The magnitude of breakthroughs in theoretical physics between the late 1800&amp;rsquo;s and early 1900&amp;rsquo;s is staggering. Kumar takes you through those breakthroughs one at a time, carefully including personal anecdotes of the great scientists as their leaps of understanding changed the world.&lt;/p&gt;
 &lt;p&gt;Here is a collection of my favourite moments:&lt;/p&gt;
@@ -1273,7 +1464,7 @@ The main takeaways are:
 &lt;p&gt;&amp;ldquo;Whereas Planck had only quantised the emission and absorption of electromagnetic radiation so that his imaginary oscillators would produce the correct spectral distribution of blackbody radiation, Einstein had quantised light itself. The energy of a quantum of yellow light was just Planck&amp;rsquo;s constant multiplied by the frequency of yellow light.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;evidence-for-atoms-1905&#34;&gt;Evidence for atoms (1905):&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;Einstein realised that Brownian motion was due to water molecules regularly deviating from their &amp;lsquo;normal&amp;rsquo; behaviour as some of them got bunched up and struck the pollen together, sending it in a particular direction.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Einstein realised that Brownian motion was due to water molecules regularly deviating from their &amp;rsquo;normal&amp;rsquo; behaviour as some of them got bunched up and struck the pollen together, sending it in a particular direction.&lt;/p&gt;
 &lt;p&gt;Using this insight, Einstein succeeded in calculating the average horizontal distance a particle would travel as it zigzagged along in a given time. He predicted that in water at 17 degrees C, suspended particles with a diameter of one-thousandth of a millimetre would move on average just six-thousandths of a millimetre in one minute. Einstein had come up with a formula that offered the possibility of working out the size of atoms.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;3 years later, in 1908, his predictions were confirmed, for which he received the Nobel Prize in 1926.&lt;/p&gt;
 &lt;h3 id=&#34;more-timelines&#34;&gt;More timelines:&lt;/h3&gt;
@@ -1336,14 +1527,14 @@ The main takeaways are:
             <title type="text">Outliers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202208outliers/" />
             <id>https://cartar.github.io./books/202208outliers/</id>
-            <updated>2022-08-16T15:52:09-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-08-10T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">For those unfamiliar with how impactful luck is in our lives, this book is an eye opener. Malcolm sheds light on how societal outliers achieved (or failed to achieve) greatness, and the role of luck in their journey. He recounts the luck of entrepreneurs in America born in the 1850’s (?</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;For those unfamiliar with how impactful luck is in our lives, this book is an eye opener. Malcolm sheds light on how societal outliers achieved (or failed to achieve) greatness, and the role of luck in their journey. He recounts the luck of entrepreneurs in America born in the 1850’s (?), Jewish lawyers born in the 1920’s, and software engineers born in the 1950’s. The role of language &amp;amp; culture in airplane crashes, and many more interesting stories that’ll make you appreciate just how random life really is.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;For those unfamiliar with how impactful luck is in our lives, this book is an eye opener. Malcolm sheds light on how societal outliers achieved (or failed to achieve) greatness, and the role of luck in their journey. He recounts the luck of entrepreneurs in America born in the 1850’s (?), Jewish lawyers born in the 1920’s, and software engineers born in the 1950’s. The role of language &amp;amp; culture in airplane crashes, and many more interesting stories that’ll make you appreciate just how random life really is.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -1381,15 +1572,34 @@ The main takeaways are:
             <title type="text">The Ride of a Lifetime</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202208rideofalifetime/" />
             <id>https://cartar.github.io./books/202208rideofalifetime/</id>
-            <updated>2022-08-05T04:37:41-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-08-03T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A captivating recount of how Disney transformed over the past 20+ years. Bob reviews many acquisitions, and some near-misses (Disney almost bought Twitter before Disney +). A good read for anyone curious how big companies grow larger. Lots of lessons learned.
-Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombone oil.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A captivating recount of how Disney transformed over the past 20+ years. Bob reviews many acquisitions, and some near-misses (Disney almost bought Twitter before Disney +). A good read for anyone curious how big companies grow larger. Lots of lessons learned.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Avoid getting into the business of manufacturing trombone oil. You may become the greatest trombone-oil manufacturer in the world, but in the end, the world only consumes a few quarts of trombone oil a year!&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;It&amp;rsquo;s a hard thing to do, especially in the moment, but those instances in which you find yourself hoping that something will work without being able to convincingly explain to yourself how it will work - that&amp;rsquo;s when a little bell should go off, and you should walk yourself through some clarifying questions. What&amp;rsquo;s the problem I need to solve? Does this solution make sense? If I&amp;rsquo;m feeling some doubt, why? Am I doing this for sound reasons or am I motivated by something personal?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;A company&amp;rsquo;s culture is shaped by a lot of things, but this is one of the most important - you have to convey your priorities clearly and repeatedly. In my experience, it&amp;rsquo;s what separates great managers from the rest.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;You can do a lot for the morale of the people around you (and therefore the people around them) just by taking the guesswork out of their day-to-day life&amp;hellip; This is where we want to be. This is how we&amp;rsquo;re going to get there.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;My job was to set our company on a new path, and the first step was to defuse this unnecessary struggle. The easiest and most productive way to do that was to recognize that what Roy needed, ultimately, was to feel respected. That was precious to him, and it cost me and the company so little.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;This is you making a decision about them - not them as a person but the way they have performed in their job - and they need and deserve to know that it&amp;rsquo;s coming from you. You can&amp;rsquo;t make small talk once you bring someone in for that conversation. I normally say something along the lines of: &amp;lsquo;I&amp;rsquo;ve asked you to come in here for a difficult reason.&amp;rsquo; And then I try to be as direct about the issue as possible, explaining clearly and concisely what wasn&amp;rsquo;t working and why I didn&amp;rsquo;t think it was going to change. I emphasize that it was a tough decision to make, and that I understand that it&amp;rsquo;s much harder on them.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;If you respect the person, then you owe them a clear explanation for the decision you&amp;rsquo;re making. There&amp;rsquo;s no way for the conversation not to be painful, but at least it can be honest.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;the hardest but also the most necessary lesson to keep in mind, that wherever you are along the path, you&amp;rsquo;re the same person you&amp;rsquo;ve always been.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Pessimism leads to paranoia, which leads to defensiveness, which leads to risk aversion.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;If something doesn&amp;rsquo;t feel right to you, it won&amp;rsquo;t be right for you.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;4/5&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A captivating recount of how Disney transformed over the past 20+ years. Bob reviews many acquisitions, and some near-misses (Disney almost bought Twitter before Disney +). A good read for anyone curious how big companies grow larger. Lots of lessons learned.&lt;/p&gt;
 &lt;h2 id=&#34;highlights&#34;&gt;Highlights:&lt;/h2&gt;
@@ -1446,14 +1656,14 @@ Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombon
             <title type="text">Six Not-So-Easy Pieces</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sixnoteasypieces/" />
             <id>https://cartar.github.io./books/202207sixnoteasypieces/</id>
-            <updated>2022-07-28T06:00:38-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-07-27T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book introduces the reader to relativity, symmetry and space-time through Feynman&amp;rsquo;s eyes. He discusses features of our universe with engaging analogies, like how to distinguish right from left (which is a tricky business). Or why we have time dilation from gravity. However, I&amp;rsquo;d argue that there are better books introducing audiences to these topics nowadays, like black holes and time warps by Kip S.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book introduces the reader to relativity, symmetry and space-time through Feynman&amp;rsquo;s eyes. He discusses features of our universe with engaging analogies, like how to distinguish right from left (which is a tricky business). Or why we have time dilation from gravity. However, I&amp;rsquo;d argue that there are better books introducing audiences to these topics nowadays, like black holes and time warps by Kip S. Thorne.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;This book introduces the reader to relativity, symmetry and space-time through Feynman&amp;rsquo;s eyes. He discusses features of our universe with engaging analogies, like how to distinguish right from left (which is a tricky business). Or why we have time dilation from gravity. However, I&amp;rsquo;d argue that there are better books introducing audiences to these topics nowadays, like black holes and time warps by Kip S. Thorne.&lt;/p&gt;
 &lt;h2 id=&#34;symmetry-and-conservation-laws&#34;&gt;Symmetry and conservation laws&lt;/h2&gt;
@@ -1506,14 +1716,14 @@ Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombon
             <title type="text">The Lifecycle of Software Objects</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207softwarelifecycle/" />
             <id>https://cartar.github.io./books/202207softwarelifecycle/</id>
-            <updated>2022-07-25T02:30:36-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-07-24T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A short story about what our digital future might hold. We follow an ex-zoo keeper turned digital pet trainer after the zoo she worked at closed down. The world her digi-pet grew up in becomes threatened, and we see the great lengths she&amp;rsquo;ll go, along with a small community of like-minded fanatics, to give these digital humanoids a better future.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A short story about what our digital future might hold. We follow an ex-zoo keeper turned digital pet trainer after the zoo she worked at closed down. The world her digi-pet grew up in becomes threatened, and we see the great lengths she&amp;rsquo;ll go, along with a small community of like-minded fanatics, to give these digital humanoids a better future.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A short story about what our digital future might hold. We follow an ex-zoo keeper turned digital pet trainer after the zoo she worked at closed down. The world her digi-pet grew up in becomes threatened, and we see the great lengths she&amp;rsquo;ll go, along with a small community of like-minded fanatics, to give these digital humanoids a better future.&lt;/p&gt;
 &lt;p&gt;2/5.&lt;/p&gt;
@@ -1551,20 +1761,20 @@ Highlights:  &amp;ldquo;Avoid getting into the business of manufacturing trombon
             <title type="text">The Sovereign Individual</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207sovereignindividual/" />
             <id>https://cartar.github.io./books/202207sovereignindividual/</id>
-            <updated>2022-07-17T06:52:58-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-07-17T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I only skimmed this book, read about 1/3 of the content, but felt I got the gist. The authors outline what they think a future without government power will look like, as power shifts to individuals in the information age.
-Individuals will be able to insulate themselves from governments in ways previously impossible.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;I only skimmed this book, read about 1/3 of the content, but felt I got the gist. The authors outline what they think a future without government power will look like, as power shifts to individuals in the information age.&lt;/p&gt;
+&lt;p&gt;Individuals will be able to insulate themselves from governments in ways previously impossible. Work, communications, assets, and banking systems will be fully digital, allowing life to move wherever the individual desires.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;I only skimmed this book, read about 1/3 of the content, but felt I got the gist. The authors outline what they think a future without government power will look like, as power shifts to individuals in the information age.&lt;/p&gt;
 &lt;p&gt;Individuals will be able to insulate themselves from governments in ways previously impossible. Work, communications, assets, and banking systems will be fully digital, allowing life to move wherever the individual desires.&lt;/p&gt;
 &lt;p&gt;With this newfound autonomy, people will be free to choose their nationality, as it is the author&amp;rsquo;s belief that nations will offer nationality as a service to attract sovereign individuals. Essentially, the book describes a world where governments have fallen out of power, due to tax evasion and social uprisings.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;&amp;hellip;new information technology - the fact that it transcends the tyranny of place. The new technology creates for the first time an infinite, nonterrestrial realm for economic activity. It opens an option to explore the new frontiers of the cybereconomy, to &amp;lsquo;think globally and act globally&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;hellip;new information technology - the fact that it transcends the tyranny of place. The new technology creates for the first time an infinite, nonterrestrial realm for economic activity. It opens an option to explore the new frontiers of the cybereconomy, to &amp;rsquo;think globally and act globally&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Overall, 1/5 - I would not recommend this book.&lt;/p&gt;
 </content>
             
@@ -1600,16 +1810,23 @@ Individuals will be able to insulate themselves from governments in ways previou
             <title type="text">The Bond King</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202207bondking/" />
             <id>https://cartar.github.io./books/202207bondking/</id>
-            <updated>2022-07-07T12:05:12-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-07-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">An interesting book for financial buffs. It reviews the origin story of active bond trading and goes through some of the details Pimco used to &amp;ldquo;generate alpha&amp;rdquo;.
-Some of the nifty tricks include:
- buying future contracts to meet risk requirements and then investing $ in short term bonds before the contract requires, betting on future volatility of the markets (upper and lower bounds), trading securities with itself (in differing accounts) to minimize fees, pricing bonds more aggressively than the market to front-load performance within a fund, and most generally, taking bets that future interest rates would be different from what &amp;ldquo;the market&amp;rdquo; was expecting.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;An interesting book for financial buffs. It reviews the origin story of active bond trading and goes through some of the details Pimco used to &amp;ldquo;generate alpha&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Some of the nifty tricks include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;buying future contracts to meet risk requirements and then investing $ in short term bonds before the contract requires,&lt;/li&gt;
+&lt;li&gt;betting on future volatility of the markets (upper and lower bounds),&lt;/li&gt;
+&lt;li&gt;trading securities with itself (in differing accounts) to minimize fees,&lt;/li&gt;
+&lt;li&gt;pricing bonds more aggressively than the market to front-load performance within a fund,&lt;/li&gt;
+&lt;li&gt;and most generally, taking bets that future interest rates would be different from what &amp;ldquo;the market&amp;rdquo; was expecting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall it was an interesting read, but some parts were a little slow, and of course, you have to have an interest in bonds.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;An interesting book for financial buffs. It reviews the origin story of active bond trading and goes through some of the details Pimco used to &amp;ldquo;generate alpha&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Some of the nifty tricks include:&lt;/p&gt;
@@ -1656,15 +1873,15 @@ Some of the nifty tricks include:
             <title type="text">Homo Deus</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206homodeus/" />
             <id>https://cartar.github.io./books/202206homodeus/</id>
-            <updated>2022-07-22T06:58:30-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-06-28T01:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Tid-bits of history sprinkled throughout a synopsis of where humanity is heading.
-Parts of the story were interesting, as history often is, but the general arc of the book took too long, and many of the ideas have been subject to too many recent podcasts that I tended to lose interest.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Tid-bits of history sprinkled throughout a synopsis of where humanity is heading.&lt;/p&gt;
+&lt;p&gt;Parts of the story were interesting, as history often is, but the general arc of the book took too long, and many of the ideas have been subject to too many recent podcasts that I tended to lose interest. On the flip side, for anyone who&amp;rsquo;s not come across these ideas before (i.e., do we have free will, what do humans value, the &amp;ldquo;story&amp;rdquo; that is currency, the internet of things, etc.), I&amp;rsquo;d suggest giving this book a read. For others, I&amp;rsquo;d recommend passing.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Tid-bits of history sprinkled throughout a synopsis of where humanity is heading.&lt;/p&gt;
 &lt;p&gt;Parts of the story were interesting, as history often is, but the general arc of the book took too long, and many of the ideas have been subject to too many recent podcasts that I tended to lose interest. On the flip side, for anyone who&amp;rsquo;s not come across these ideas before (i.e., do we have free will, what do humans value, the &amp;ldquo;story&amp;rdquo; that is currency, the internet of things, etc.), I&amp;rsquo;d suggest giving this book a read. For others, I&amp;rsquo;d recommend passing.&lt;/p&gt;
@@ -1715,15 +1932,15 @@ Parts of the story were interesting, as history often is, but the general arc of
             <title type="text">The Great Depression</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206greatdepression/" />
             <id>https://cartar.github.io./books/202206greatdepression/</id>
-            <updated>2022-06-27T16:26:39-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-06-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Going through a recession will never be quite the same again after reading this diary. Strange to see how many similarities exist in stock markets in such a different setting in time.
-Humans love to speculate, and are quick to become greedy when the party is pumping.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Going through a recession will never be quite the same again after reading this diary. Strange to see how many similarities exist in stock markets in such a different setting in time.&lt;/p&gt;
+&lt;p&gt;Humans love to speculate, and are quick to become greedy when the party is pumping. Those who like to party a little too hardy, leveraging their gains as collateral to buy more stock on margin, are almost always wiped out sooner or later.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Going through a recession will never be quite the same again after reading this diary. Strange to see how many similarities exist in stock markets in such a different setting in time.&lt;/p&gt;
 &lt;p&gt;Humans love to speculate, and are quick to become greedy when the party is pumping. Those who like to party a little too hardy, leveraging their gains as collateral to buy more stock on margin, are almost always wiped out sooner or later.&lt;/p&gt;
@@ -1763,14 +1980,14 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">The Quick Fix</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202206quickfix/" />
             <id>https://cartar.github.io./books/202206quickfix/</id>
-            <updated>2022-06-29T11:06:08-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-06-18T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A well researched review of the necessary skepticism established Psychology fads need. Chapters focusing on the implicit bias test, grit, the power of self-esteem, power posing, prime world (everything we do is the result of previous priming sensory input), fears over &amp;ldquo;superpredators&amp;rdquo;, and the ability for war veteran&amp;rsquo;s to overcome PTSD with mental training.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A well researched review of the necessary skepticism established Psychology fads need. Chapters focusing on the implicit bias test, grit, the power of self-esteem, power posing, prime world (everything we do is the result of previous priming sensory input), fears over &amp;ldquo;superpredators&amp;rdquo;, and the ability for war veteran&amp;rsquo;s to overcome PTSD with mental training.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A well researched review of the necessary skepticism established Psychology fads need. Chapters focusing on the implicit bias test, grit, the power of self-esteem, power posing, prime world (everything we do is the result of previous priming sensory input), fears over &amp;ldquo;superpredators&amp;rdquo;, and the ability for war veteran&amp;rsquo;s to overcome PTSD with mental training.&lt;/p&gt;
 &lt;p&gt;In all cases, simple solutions (i.e., quick fixes), would enter a cycle of over-claiming, oversimplifying, and on the back of growing momentum, minimal skepticism.&lt;/p&gt;
@@ -1812,14 +2029,14 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">The Glass Castle</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205glasscastle/" />
             <id>https://cartar.github.io./books/202205glasscastle/</id>
-            <updated>2022-05-28T17:48:53-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-05-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A memoir of an extraordinary childhood; one where quotes like &amp;ldquo;I&amp;rsquo;d gotten pretty good at shooting the revolver by the time I was 4&amp;rdquo; is but the tip of the iceberg. Parents who disliked &amp;ldquo;the system&amp;rdquo;, and thought their misfortunes were adventures to be had.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A memoir of an extraordinary childhood; one where quotes like &amp;ldquo;I&amp;rsquo;d gotten pretty good at shooting the revolver by the time I was 4&amp;rdquo; is but the tip of the iceberg. Parents who disliked &amp;ldquo;the system&amp;rdquo;, and thought their misfortunes were adventures to be had. Hard times were simply hard lessons, but not worth fussing over. A true look behind the curtain at some of America&amp;rsquo;s forgotten people.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A memoir of an extraordinary childhood; one where quotes like &amp;ldquo;I&amp;rsquo;d gotten pretty good at shooting the revolver by the time I was 4&amp;rdquo; is but the tip of the iceberg. Parents who disliked &amp;ldquo;the system&amp;rdquo;, and thought their misfortunes were adventures to be had. Hard times were simply hard lessons, but not worth fussing over. A true look behind the curtain at some of America&amp;rsquo;s forgotten people.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -1857,14 +2074,14 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">Papillon</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205papillon/" />
             <id>https://cartar.github.io./books/202205papillon/</id>
-            <updated>2022-05-20T19:43:22-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-05-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A wild ride through the early-mid 20th century Euro-America prison systems. Our autobiographical story is piloted by a Frenchman, who&amp;rsquo;s candour is contagious, often to his benefit, but at crucial moments, to his demise. Super fun to read; it&amp;rsquo;s a fantastical life story to be sure.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A wild ride through the early-mid 20th century Euro-America prison systems. Our autobiographical story is piloted by a Frenchman, who&amp;rsquo;s candour is contagious, often to his benefit, but at crucial moments, to his demise. Super fun to read; it&amp;rsquo;s a fantastical life story to be sure.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A wild ride through the early-mid 20th century Euro-America prison systems. Our autobiographical story is piloted by a Frenchman, who&amp;rsquo;s candour is contagious, often to his benefit, but at crucial moments, to his demise. Super fun to read; it&amp;rsquo;s a fantastical life story to be sure.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -1902,15 +2119,22 @@ Humans love to speculate, and are quick to become greedy when the party is pumpi
             <title type="text">Six Easy Pieces</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202205sixezpieces/" />
             <id>https://cartar.github.io./books/202205sixezpieces/</id>
-            <updated>2022-07-22T06:26:02-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-05-02T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.
-Bookmarked ideas  As molecules evaporate, they are leaving with more energy than the average motion of the liquid they depart.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.&lt;/p&gt;
+&lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;As molecules evaporate, they are leaving with more energy than the average motion of the liquid they depart. Conversely, when vapour from the air joins a liquid, there is a sudden great attraction as the molecule approaches the surface, resulting in energy added. Therefore, evaporation is the loss of heat, and consensation is the the generation of some back. When these are net equal, there is no heat exchange. However, this is a nifty thing to know when cooling hot liquids. i.e., blow on hot soup.&lt;/li&gt;
+&lt;li&gt;Carbon attracts oxygen (C-O) much more than O-O or C-C. So much so, that when they come together, they snap together with such force that excess energy is distributed to their surroundings. This of course is burning, and the sensation of heat. In certain circumstances, the excess energy is given off more than molecular motion of hot gas. The energy is so great, that it &lt;em&gt;generates light&lt;/em&gt;. This is how one gets flames!&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;What keeps electrons from simply falling in[to the nucleus]? This principle: If they were in the nucleus, we would know their position precisely, and the uncertainty principle would then require that they have a very large (but uncertain) momentum (and therefore energy). With this energy, they&amp;rsquo;d break away from the nucleus. They make a compromise: they leave themselves a little room for this uncertainty and then jiggle with a certain amount of minimum motion in accordance with this rule.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cavendishs-experiment-aka-the-weighing-of-the-earth&#34;&gt;Cavendish&amp;rsquo;s experiment (aka, the weighing of the earth)&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;If there is a force between any pair of objects, we ought to be able to measure the force between our own objects&amp;hellip; It was first measured by Cavendish&amp;hellip; demonstrating the direct force between two large, fixed balls of lead and two smaller balls of lead on the ends of an arm supported by a very fine fiber, called a torsion fiber. By measuring how much the fiber gets twisted, once can measure the strength of the force, verify that it is inversely proportional to the square of the distance, and determine how strong it is. Thus, one may accurately determine the coefficient G in our gravitational force equation. By knowing G from this experiement, and by knowing how strongly the earth attracts, we indirectly learned the mass of the earth!&amp;rdquo;&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Parts were good, but overall, a lot has changed in ~60 years to make this book more of a historical piece than a superb physics text.&lt;/p&gt;
 &lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
@@ -1957,15 +2181,15 @@ Bookmarked ideas  As molecules evaporate, they are leaving with more energy than
             <title type="text">Dopamine Nation</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204dopaminenation/" />
             <id>https://cartar.github.io./books/202204dopaminenation/</id>
-            <updated>2022-07-21T16:06:45-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-04-28T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">An insightful perspective on our society today, the author weaves stories of addiction throughout to illustrate how we&amp;rsquo;re easily prone to it, and how we might pull ourselves out.
-The most insightful lesson (for me) was that pain is in fact a pleasurable time-sink, due to the pleasure-pain balance our bodies strive for.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;An insightful perspective on our society today, the author weaves stories of addiction throughout to illustrate how we&amp;rsquo;re easily prone to it, and how we might pull ourselves out.&lt;/p&gt;
+&lt;p&gt;The most insightful lesson (for me) was that pain is in fact a pleasurable time-sink, due to the pleasure-pain balance our bodies strive for. Post pain, we are often flooded with euphoric hormones to compensate. Beware of becoming addicted to pain, but, when used correctly, it is a low risk powerful stimulant.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;An insightful perspective on our society today, the author weaves stories of addiction throughout to illustrate how we&amp;rsquo;re easily prone to it, and how we might pull ourselves out.&lt;/p&gt;
 &lt;p&gt;The most insightful lesson (for me) was that pain is in fact a pleasurable time-sink, due to the pleasure-pain balance our bodies strive for. Post pain, we are often flooded with euphoric hormones to compensate. Beware of becoming addicted to pain, but, when used correctly, it is a low risk powerful stimulant.&lt;/p&gt;
@@ -2026,15 +2250,15 @@ The most insightful lesson (for me) was that pain is in fact a pleasurable time-
             <title type="text">Stolen Focus</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204stolenfocus/" />
             <id>https://cartar.github.io./books/202204stolenfocus/</id>
-            <updated>2022-07-22T08:45:06-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-04-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A must read for those itching to learn why they have a love hate relationship with technology. All ideas are presented alongside their empirical findings, including where the scientific community has a consensus, and where it does not.
-Many of these ideas are present in other self help books, like: sleep more, eat well, work less, and make time for slowness (yoga, meditation, nature walks without audio) and play.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A must read for those itching to learn why they have a love hate relationship with technology. All ideas are presented alongside their empirical findings, including where the scientific community has a consensus, and where it does not.&lt;/p&gt;
+&lt;p&gt;Many of these ideas are present in other self help books, like: sleep more, eat well, work less, and make time for slowness (yoga, meditation, nature walks without audio) and play. But the studies and storytelling in this book make it worthwhile nonetheless for those who are already familiar with this list.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A must read for those itching to learn why they have a love hate relationship with technology. All ideas are presented alongside their empirical findings, including where the scientific community has a consensus, and where it does not.&lt;/p&gt;
 &lt;p&gt;Many of these ideas are present in other self help books, like: sleep more, eat well, work less, and make time for slowness (yoga, meditation, nature walks without audio) and play. But the studies and storytelling in this book make it worthwhile nonetheless for those who are already familiar with this list.&lt;/p&gt;
@@ -2108,14 +2332,14 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">The Bomber Mafia</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204bombermafia/" />
             <id>https://cartar.github.io./books/202204bombermafia/</id>
-            <updated>2022-05-08T23:31:16-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-04-17T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A masterclass in storytelling. I found it hard to put this book down from start to finish. As the title says, this book follows the evolution of America&amp;rsquo;s bomber mafia, a group of pilots who helped create the Air Force. We learn about their military decisions, shortcomings, success, and the ending of WW2.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A masterclass in storytelling. I found it hard to put this book down from start to finish. As the title says, this book follows the evolution of America&amp;rsquo;s bomber mafia, a group of pilots who helped create the Air Force. We learn about their military decisions, shortcomings, success, and the ending of WW2. An interesting story told by one of the greatest storytellers of our time.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A masterclass in storytelling. I found it hard to put this book down from start to finish. As the title says, this book follows the evolution of America&amp;rsquo;s bomber mafia, a group of pilots who helped create the Air Force. We learn about their military decisions, shortcomings, success, and the ending of WW2. An interesting story told by one of the greatest storytellers of our time.&lt;/p&gt;
 &lt;p&gt;5/5.&lt;/p&gt;
@@ -2153,15 +2377,15 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
             <title type="text">There There</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202204therethere/" />
             <id>https://cartar.github.io./books/202204therethere/</id>
-            <updated>2022-05-08T23:26:57-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-04-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Some beautifully written passages that were thought provoking in the way good poetry often is; however the book overall wasn&amp;rsquo;t as captivating of a story as I&amp;rsquo;d hoped.
-Unique storytelling in how the chapters were constructed, but I found it hard to build up empathy for any one character, and found myself loosing steam in the middle.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Some beautifully written passages that were thought provoking in the way good poetry often is; however the book overall wasn&amp;rsquo;t as captivating of a story as I&amp;rsquo;d hoped.&lt;/p&gt;
+&lt;p&gt;Unique storytelling in how the chapters were constructed, but I found it hard to build up empathy for any one character, and found myself loosing steam in the middle.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Some beautifully written passages that were thought provoking in the way good poetry often is; however the book overall wasn&amp;rsquo;t as captivating of a story as I&amp;rsquo;d hoped.&lt;/p&gt;
 &lt;p&gt;Unique storytelling in how the chapters were constructed, but I found it hard to build up empathy for any one character, and found myself loosing steam in the middle.&lt;/p&gt;
@@ -2201,14 +2425,14 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">The Power of Now</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202203powerofnow/" />
             <id>https://cartar.github.io./books/202203powerofnow/</id>
-            <updated>2022-05-08T23:25:35-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-03-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A book about spirituality accessed by focusing your attention on the present. Written in the late 90&amp;rsquo;s, this book seems ahead of its time regarding the power of mindfulness. However, the author extends the benefits of mindfulness into the mystical realm of God, which might resonate with some folks, but harder for an atheist (like me) to digest.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A book about spirituality accessed by focusing your attention on the present. Written in the late 90&amp;rsquo;s, this book seems ahead of its time regarding the power of mindfulness. However, the author extends the benefits of mindfulness into the mystical realm of God, which might resonate with some folks, but harder for an atheist (like me) to digest.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A book about spirituality accessed by focusing your attention on the present. Written in the late 90&amp;rsquo;s, this book seems ahead of its time regarding the power of mindfulness. However, the author extends the benefits of mindfulness into the mystical realm of God, which might resonate with some folks, but harder for an atheist (like me) to digest.&lt;/p&gt;
 &lt;p&gt;3/5.&lt;/p&gt;
@@ -2246,15 +2470,15 @@ Unique storytelling in how the chapters were constructed, but I found it hard to
             <title type="text">Less Is More</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202lessismore/" />
             <id>https://cartar.github.io./books/202202lessismore/</id>
-            <updated>2022-05-08T23:24:53-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-02-24T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&amp;ldquo;How degrowth will save the world&amp;rdquo;. This book describes how we might move away from a constantly growing economy, to one that is decelerating, without harming the people who live in it, and in fact, improving their lives along the way.
-To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&amp;rsquo;t be able to consume at the current multiplier they enjoy.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;&amp;ldquo;How degrowth will save the world&amp;rdquo;. This book describes how we might move away from a constantly growing economy, to one that is decelerating, without harming the people who live in it, and in fact, improving their lives along the way.&lt;/p&gt;
+&lt;p&gt;To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&amp;rsquo;t be able to consume at the current multiplier they enjoy. But they too will benefit from a healthier way of life, and a society that is more inclusive.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;&amp;ldquo;How degrowth will save the world&amp;rdquo;. This book describes how we might move away from a constantly growing economy, to one that is decelerating, without harming the people who live in it, and in fact, improving their lives along the way.&lt;/p&gt;
 &lt;p&gt;To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&amp;rsquo;t be able to consume at the current multiplier they enjoy. But they too will benefit from a healthier way of life, and a society that is more inclusive.&lt;/p&gt;
@@ -2303,15 +2527,15 @@ To get us there, the &amp;ldquo;upper class 1%&amp;rdquo; will suffer; they won&
             <title type="text">Educated</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202202educated/" />
             <id>https://cartar.github.io./books/202202educated/</id>
-            <updated>2022-05-08T23:24:27-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2022-02-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A gripping story of being raised without traditional education, and the impact that had on Tara as she discovers a world beyond her childhood.
-I found this book hard to put down. I highly recommend it to anyone looking for a non-fiction story that&amp;rsquo;ll transport you to another world.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A gripping story of being raised without traditional education, and the impact that had on Tara as she discovers a world beyond her childhood.&lt;/p&gt;
+&lt;p&gt;I found this book hard to put down. I highly recommend it to anyone looking for a non-fiction story that&amp;rsquo;ll transport you to another world.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A gripping story of being raised without traditional education, and the impact that had on Tara as she discovers a world beyond her childhood.&lt;/p&gt;
 &lt;p&gt;I found this book hard to put down. I highly recommend it to anyone looking for a non-fiction story that&amp;rsquo;ll transport you to another world.&lt;/p&gt;
@@ -2350,14 +2574,14 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Noise: A flaw in Human Judgment</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202110noise/" />
             <id>https://cartar.github.io./books/202110noise/</id>
-            <updated>2022-05-01T18:58:05-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2021-10-07T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book opened my eyes to the differences between bias and noise, and how they are equally proportional to disrupting our desired outcome. That is to say, imagine missing a target by some random &amp;ldquo;noisy&amp;rdquo; amount, which widens the bell curve of outcomes.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book opened my eyes to the differences between bias and noise, and how they are equally proportional to disrupting our desired outcome. That is to say, imagine missing a target by some random &amp;ldquo;noisy&amp;rdquo; amount, which widens the bell curve of outcomes. The distance, on average, away from the target result would be just as bad as an equal error magnitude in bias. The only difference being that the bias is easier to see, because it is clustering away from the target. Thus, bias is often the focus in reducing error for our desired outcomes, when really, it should be considered equally with noise, if our goal is error reduction.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;This book opened my eyes to the differences between bias and noise, and how they are equally proportional to disrupting our desired outcome. That is to say, imagine missing a target by some random &amp;ldquo;noisy&amp;rdquo; amount, which widens the bell curve of outcomes. The distance, on average, away from the target result would be just as bad as an equal error magnitude in bias. The only difference being that the bias is easier to see, because it is clustering away from the target. Thus, bias is often the focus in reducing error for our desired outcomes, when really, it should be considered equally with noise, if our goal is error reduction.&lt;/p&gt;
 &lt;p&gt;Simple techniques for reducing error through noise include:&lt;/p&gt;
@@ -2408,14 +2632,14 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Braiding Sweetgrass</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202107braidingsweetgrass/" />
             <id>https://cartar.github.io./books/202107braidingsweetgrass/</id>
-            <updated>2022-05-01T18:42:44-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2021-07-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Note: I only read ~50% of this book. I wasn&amp;rsquo;t captivated by the content my first time through, which might be why I only rated this a 3/5. I should like to try again one day, as I know many people who say this is one of their favourite books.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Note: I only read ~50% of this book. I wasn&amp;rsquo;t captivated by the content my first time through, which might be why I only rated this a 3/5. I should like to try again one day, as I know many people who say this is one of their favourite books.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Note: I only read ~50% of this book. I wasn&amp;rsquo;t captivated by the content my first time through, which might be why I only rated this a 3/5. I should like to try again one day, as I know many people who say this is one of their favourite books.&lt;/p&gt;
 &lt;p&gt;Stories of indigenous wisdom, woven with scientific thinking, told in a North American setting. Many beautiful lessons to be had here, like how our language shapes our relationship with the environment. For example, the personification of nature in indigenous tongues, and the naturefication of human actions is indicative of their relationship.&lt;/p&gt;
@@ -2455,14 +2679,14 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Physics of the Impossible</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202106physicsimpossible/" />
             <id>https://cartar.github.io./books/202106physicsimpossible/</id>
-            <updated>2022-04-29T19:36:30-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2021-05-19T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A physics book unlike any other I&amp;rsquo;ve read. Reality is distorted by the mind-bending possibilities of physics that are beyond our reach. Sometimes, the physics has been proven, but we&amp;rsquo;re missing technological advances necessary to bring it to life, other times, it&amp;rsquo;s physics that might truly be impossible.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A physics book unlike any other I&amp;rsquo;ve read. Reality is distorted by the mind-bending possibilities of physics that are beyond our reach. Sometimes, the physics has been proven, but we&amp;rsquo;re missing technological advances necessary to bring it to life, other times, it&amp;rsquo;s physics that might truly be impossible. In either case, the idea&amp;rsquo;s themselves are delightful to consume. Some minds are truly special.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A physics book unlike any other I&amp;rsquo;ve read. Reality is distorted by the mind-bending possibilities of physics that are beyond our reach. Sometimes, the physics has been proven, but we&amp;rsquo;re missing technological advances necessary to bring it to life, other times, it&amp;rsquo;s physics that might truly be impossible. In either case, the idea&amp;rsquo;s themselves are delightful to consume. Some minds are truly special.&lt;/p&gt;
 &lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
@@ -2515,14 +2739,14 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Delivering Happiness</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202105deliveringhappiness/" />
             <id>https://cartar.github.io./books/202105deliveringhappiness/</id>
-            <updated>2022-04-29T18:22:06-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2021-05-03T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A dot-com winner, then loser, then back to the top story. Lots of building-a-business advice from a very unique person. A lot of his focus is on the customer, and internal culture. Sorta changed my perception of what a &amp;ldquo;head of culture&amp;rdquo; can even do at a company.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A dot-com winner, then loser, then back to the top story. Lots of building-a-business advice from a very unique person. A lot of his focus is on the customer, and internal culture. Sorta changed my perception of what a &amp;ldquo;head of culture&amp;rdquo; can even do at a company. Namely, they can facilitate an environment to help people connect, but that could be very different for each person, and at the end of the day, culture is what is &lt;em&gt;felt&lt;/em&gt; by each person. The collective average being that which is its core, but truly, it&amp;rsquo;s just a feeling.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A dot-com winner, then loser, then back to the top story. Lots of building-a-business advice from a very unique person. A lot of his focus is on the customer, and internal culture. Sorta changed my perception of what a &amp;ldquo;head of culture&amp;rdquo; can even do at a company. Namely, they can facilitate an environment to help people connect, but that could be very different for each person, and at the end of the day, culture is what is &lt;em&gt;felt&lt;/em&gt; by each person. The collective average being that which is its core, but truly, it&amp;rsquo;s just a feeling.&lt;/p&gt;
 &lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
@@ -2568,14 +2792,14 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Shoe Dog</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202103shoedog/" />
             <id>https://cartar.github.io./books/202103shoedog/</id>
-            <updated>2022-04-29T18:22:26-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2021-03-16T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A novel that&amp;rsquo;ll transport you back to a decade quite unlike today. Not only was there no Nike, there wasn&amp;rsquo;t &amp;ldquo;athleisure&amp;rdquo; or jogging for fun. The story on it&amp;rsquo;s own is hard to put down, but the way it&amp;rsquo;s told makes this a truly joyful read.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A novel that&amp;rsquo;ll transport you back to a decade quite unlike today. Not only was there no Nike, there wasn&amp;rsquo;t &amp;ldquo;athleisure&amp;rdquo; or jogging for fun. The story on it&amp;rsquo;s own is hard to put down, but the way it&amp;rsquo;s told makes this a truly joyful read.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A novel that&amp;rsquo;ll transport you back to a decade quite unlike today. Not only was there no Nike, there wasn&amp;rsquo;t &amp;ldquo;athleisure&amp;rdquo; or jogging for fun. The story on it&amp;rsquo;s own is hard to put down, but the way it&amp;rsquo;s told makes this a truly joyful read.&lt;/p&gt;
 &lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
@@ -2618,14 +2842,14 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">Atomic Habits</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202101atomichabits/" />
             <id>https://cartar.github.io./books/202101atomichabits/</id>
-            <updated>2022-04-29T17:49:53-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2021-01-04T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Very engaging book. In addition to learning about the power of habits, you&amp;rsquo;ll also learn to recognize what parts of your life are good/bad habits and how to build/break them. It&amp;rsquo;s a solid framework for everyone to understand, regardless of your goals. Best of all, this book keeps you engaged from chapter 1 with well told anecdotes and analogies.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Very engaging book. In addition to learning about the power of habits, you&amp;rsquo;ll also learn to recognize what parts of your life are good/bad habits and how to build/break them. It&amp;rsquo;s a solid framework for everyone to understand, regardless of your goals. Best of all, this book keeps you engaged from chapter 1 with well told anecdotes and analogies.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Very engaging book. In addition to learning about the power of habits, you&amp;rsquo;ll also learn to recognize what parts of your life are good/bad habits and how to build/break them. It&amp;rsquo;s a solid framework for everyone to understand, regardless of your goals. Best of all, this book keeps you engaged from chapter 1 with well told anecdotes and analogies.&lt;/p&gt;
 &lt;h2 id=&#34;my-takeaways&#34;&gt;My takeaways:&lt;/h2&gt;
@@ -2678,14 +2902,14 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">How I Invest My Money</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012investmoney/" />
             <id>https://cartar.github.io./books/202012investmoney/</id>
-            <updated>2022-04-29T18:22:43-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-12-27T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A collection of financial industry darlings speak openly about how they invest their money. Often aligning with the products they&amp;rsquo;ve worked on, but not always. It&amp;rsquo;d be nice to have more books openly discuss this topic to showcase the complexities of investing.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A collection of financial industry darlings speak openly about how they invest their money. Often aligning with the products they&amp;rsquo;ve worked on, but not always. It&amp;rsquo;d be nice to have more books openly discuss this topic to showcase the complexities of investing.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A collection of financial industry darlings speak openly about how they invest their money. Often aligning with the products they&amp;rsquo;ve worked on, but not always. It&amp;rsquo;d be nice to have more books openly discuss this topic to showcase the complexities of investing.&lt;/p&gt;
 &lt;h1 id=&#34;bookmarked-ideas&#34;&gt;Bookmarked ideas&lt;/h1&gt;
@@ -2728,16 +2952,18 @@ I found this book hard to put down. I highly recommend it to anyone looking for 
             <title type="text">The Almanack of Naval Ravikant</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012almanack/" />
             <id>https://cartar.github.io./books/202012almanack/</id>
-            <updated>2022-04-29T17:50:46-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-12-22T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A collection of Naval Ravikant&amp;rsquo;s tweetstorms, discussions, and ideas woven into a digestible ebook. The ideas focus on wealth on happiness.
-Some of my favourite ideas:
-Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. Wealth is having assets that earn while you sleep.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A collection of Naval Ravikant&amp;rsquo;s tweetstorms, discussions, and ideas woven into a digestible &lt;a href=&#34;https://www.navalmanack.com/&#34;&gt;ebook&lt;/a&gt;. The ideas focus on wealth on happiness.&lt;/p&gt;
+&lt;p&gt;Some of my favourite ideas:&lt;/p&gt;
+&lt;h2 id=&#34;tweetstorm-about-wealth-creation&#34;&gt;Tweetstorm about wealth creation:&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy&amp;hellip;&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A collection of Naval Ravikant&amp;rsquo;s tweetstorms, discussions, and ideas woven into a digestible &lt;a href=&#34;https://www.navalmanack.com/&#34;&gt;ebook&lt;/a&gt;. The ideas focus on wealth on happiness.&lt;/p&gt;
 &lt;p&gt;Some of my favourite ideas:&lt;/p&gt;
@@ -2869,15 +3095,15 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Hard thing about Hard Things</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202012hardthings/" />
             <id>https://cartar.github.io./books/202012hardthings/</id>
-            <updated>2022-04-29T17:50:51-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-11-12T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A brutally honest take on the challenges faced when trying to build a company. A fantastic story of the compromises a CEO might face, and why being an entrepreneur is so hard.
-4/5.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A brutally honest take on the challenges faced when trying to build a company. A fantastic story of the compromises a CEO might face, and why being an entrepreneur is so hard.&lt;/p&gt;
+&lt;p&gt;4/5.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A brutally honest take on the challenges faced when trying to build a company. A fantastic story of the compromises a CEO might face, and why being an entrepreneur is so hard.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -2915,15 +3141,16 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Alchemist</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202010thealchemist/" />
             <id>https://cartar.github.io./books/202010thealchemist/</id>
-            <updated>2022-04-29T17:50:42-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-10-26T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A bit dated, this book remains a captivating story of the human condition. Seeking an outcome for fulfillment:
- &amp;ldquo;It&amp;rsquo;s the possibility of having a dream come true that makes life interesting, he thought, as he looked again at the position of the sun, and hurried his pace.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;A bit dated, this book remains a captivating story of the human condition. Seeking an outcome for fulfillment:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s the possibility of having a dream come true that makes life interesting, he thought, as he looked again at the position of the sun, and hurried his pace.&amp;rdquo;&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A bit dated, this book remains a captivating story of the human condition. Seeking an outcome for fulfillment:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2965,14 +3192,14 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Stamped From The Beginning</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202009stampedfromthebeginning/" />
             <id>https://cartar.github.io./books/202009stampedfromthebeginning/</id>
-            <updated>2022-04-29T17:50:37-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-09-30T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I agree with the book&amp;rsquo;s subtitle, this is definitely a mammoth overview of racist ideas in America. Starting with the racists ideas of colonial Europe that seeded the founding father, or white-religous-upperclassmen, as is more appropriate, up to Barack Obama, and some of the racist ideas he pondered aloud.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;I agree with the book&amp;rsquo;s subtitle, this is definitely a mammoth overview of racist ideas in America. Starting with the racists ideas of colonial Europe that seeded the founding father, or white-religous-upperclassmen, as is more appropriate, up to Barack Obama, and some of the racist ideas he pondered aloud.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;I agree with the book&amp;rsquo;s subtitle, this is definitely a mammoth overview of racist ideas in America. Starting with the racists ideas of colonial Europe that seeded the founding father, or white-religous-upperclassmen, as is more appropriate, up to Barack Obama, and some of the racist ideas he pondered aloud.&lt;/p&gt;
 &lt;p&gt;If you want to educate yourself on how poorly Black Americans have been treated by their peers and the policies in their society, look no further. It is a little long, but comes together quite nicely in the end. And it&amp;rsquo;s on Spotify as an audio book!&lt;/p&gt;
@@ -2998,7 +3225,7 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
 &lt;li&gt;Compromise a solution that neither fixes the problem, nor lose too much favor with the public such that they keep power (for now)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;This is the balancing act we ask of politicians, who rose to power off the piggy banks of individuals whose influence is yet another factor for the person in charge.&lt;/p&gt;
-&lt;p&gt;What we need most of all is a new incentive system for our politicians. We need to remove donations from politicians&#39; bank roles. We need to incentivize quality decisions that positively affect those who are losing the most, as measured by third parties.&lt;/p&gt;
+&lt;p&gt;What we need most of all is a new incentive system for our politicians. We need to remove donations from politicians&amp;rsquo; bank roles. We need to incentivize quality decisions that positively affect those who are losing the most, as measured by third parties.&lt;/p&gt;
 &lt;p&gt;We need reform of those who do the reforming.&lt;/p&gt;
 &lt;p&gt;I believe education does work, we just need the right incentives.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -3036,16 +3263,16 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">The Silk Roads</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202006silkroads/" />
             <id>https://cartar.github.io./books/202006silkroads/</id>
-            <updated>2022-04-29T17:49:36-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-06-14T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book is an epic undertaking, showcasing world history up to the early 2010&amp;rsquo;s, through the lense of the silk road. History has many authors, and this book does well to capture their ideas in a cohesive framework. The thesis presented here outlines how resource transportation routes shaped our world history.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book is an epic undertaking, showcasing world history up to the early 2010&amp;rsquo;s, through the lense of the silk road. History has many authors, and this book does well to capture their ideas in a cohesive framework. The thesis presented here outlines how resource transportation routes shaped our world history. Equally important to the goods flowing through commerce were new ideas, including religions, and a massive game of political chess. Short term policies crafted to maintain power at the expense of those without it, often led to self destruction through overreach (and over spending). Worse still was the long term instability created by dying powers&amp;rsquo; abrupt departure from battleground regions. The most shocking lesson I took away is how cyclical our world history is. The fight for power, and abhorrent disregard for others by those trying to maintain it, is the saddest trait we share.&lt;/p&gt;</summary>
             
-                <content type="html">&lt;p&gt;This book is an epic undertaking, showcasing world history up to the early 2010&amp;rsquo;s, through the lense of the silk road. History has many authors, and this book does well to capture their ideas in a cohesive framework. The thesis presented here outlines how resource transportation routes shaped our world history. Equally important to the goods flowing through commerce were new ideas, including religions, and a massive game of political chess. Short term policies crafted to maintain power at the expense of those without it, often led to self destruction through overreach (and over spending). Worse still was the long term instability created by dying powers&#39; abrupt departure from battleground regions. The most shocking lesson I took away is how cyclical our world history is. The fight for power, and abhorrent disregard for others by those trying to maintain it, is the saddest trait we share.&lt;/p&gt;
+                <content type="html">&lt;p&gt;This book is an epic undertaking, showcasing world history up to the early 2010&amp;rsquo;s, through the lense of the silk road. History has many authors, and this book does well to capture their ideas in a cohesive framework. The thesis presented here outlines how resource transportation routes shaped our world history. Equally important to the goods flowing through commerce were new ideas, including religions, and a massive game of political chess. Short term policies crafted to maintain power at the expense of those without it, often led to self destruction through overreach (and over spending). Worse still was the long term instability created by dying powers&amp;rsquo; abrupt departure from battleground regions. The most shocking lesson I took away is how cyclical our world history is. The fight for power, and abhorrent disregard for others by those trying to maintain it, is the saddest trait we share.&lt;/p&gt;
 &lt;p&gt;The book starts off slow, but is worth persevering through. It started about 2000 years ago, with the empire of Persia, and the creation of the silk roads. From there, the rise and fall of new and old players, in a dance of power politics and war is spectacular. I hope one day we&amp;rsquo;ll learn from our history, and end the senseless killing of those who are simply trying their best to get by.&lt;/p&gt;
 &lt;h1 id=&#34;my-key-takeaways&#34;&gt;My key takeaways&lt;/h1&gt;
 &lt;ul&gt;
@@ -3105,18 +3332,20 @@ Tweetstorm about wealth creation:  &amp;ldquo;Seek wealth, not money or status. 
             <title type="text">Alex’s Adventures in Numberland</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202004alexadventurenumberland/" />
             <id>https://cartar.github.io./books/202004alexadventurenumberland/</id>
-            <updated>2022-04-29T17:49:33-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-04-25T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This book was truly a wonderful read! If you want to learn about math&amp;rsquo;s history, you will love this book 💕
-You do not need to have a strong background in math to get the full punch from this story.
-My favourite takeaways Regression to the mean Regression to the mean is the concept that, over time, event likelihood converges on the average result.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;This book was truly a wonderful read! If you want to learn about math&amp;rsquo;s history, you will love this book &amp;#x1f495;&lt;/p&gt;
+&lt;p&gt;You do not need to have a strong background in math to get the full punch from this story.&lt;/p&gt;
+&lt;h1 id=&#34;my-favourite-takeaways&#34;&gt;My favourite takeaways&lt;/h1&gt;
+&lt;h3 id=&#34;regression-to-the-mean&#34;&gt;Regression to the mean&lt;/h3&gt;
+&lt;p&gt;Regression to the mean is the concept that, over time, event likelihood converges on the average result. Said another way, whenever an outlier occurs, there&amp;rsquo;s a good chance that the next event will be closer to the main outcome.&lt;/p&gt;</summary>
             
-                <content type="html">&lt;p&gt;This book was truly a wonderful read! If you want to learn about math&amp;rsquo;s history, you will love this book 💕&lt;/p&gt;
+                <content type="html">&lt;p&gt;This book was truly a wonderful read! If you want to learn about math&amp;rsquo;s history, you will love this book &amp;#x1f495;&lt;/p&gt;
 &lt;p&gt;You do not need to have a strong background in math to get the full punch from this story.&lt;/p&gt;
 &lt;h1 id=&#34;my-favourite-takeaways&#34;&gt;My favourite takeaways&lt;/h1&gt;
 &lt;h3 id=&#34;regression-to-the-mean&#34;&gt;Regression to the mean&lt;/h3&gt;
@@ -3163,15 +3392,25 @@ My favourite takeaways Regression to the mean Regression to the mean is the conc
             <title type="text">Talking to Strangers</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202003talking2strangers/" />
             <id>https://cartar.github.io./books/202003talking2strangers/</id>
-            <updated>2022-04-29T17:49:25-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-03-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Using a mix of data and in-depth investigations around high profile human interactions, where human behaviour is interpreted terribly, we learn some very important lessons. As usual, Malcolm Gladwell delivers these stories in a wonderful read.
-My favourite takeaways  Defaulting to the truth is OK.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Using a mix of data and in-depth investigations around high profile human interactions, where human behaviour is interpreted terribly, we learn some very important lessons. As usual, Malcolm Gladwell delivers these stories in a wonderful read.&lt;/p&gt;
+&lt;h1 id=&#34;my-favourite-takeaways&#34;&gt;My favourite takeaways&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Defaulting to the truth is OK. It is what created our society and it would be stupid to override this companionship generating trait.&lt;/li&gt;
+&lt;li&gt;The coupling of environment and action is so strong that it should always be taken into account when interacting with strangers.
+&lt;ul&gt;
+&lt;li&gt;Don&amp;rsquo;t judge a stranger, judge their environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We are bad lie detectors. We expect a liar to act one way, and a truth teller another. Our snap decision lie detection is never to be trusted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;5/5.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Using a mix of data and in-depth investigations around high profile human interactions, where human behaviour is interpreted terribly, we learn some very important lessons. As usual, Malcolm Gladwell delivers these stories in a wonderful read.&lt;/p&gt;
 &lt;h1 id=&#34;my-favourite-takeaways&#34;&gt;My favourite takeaways&lt;/h1&gt;
@@ -3219,15 +3458,17 @@ My favourite takeaways  Defaulting to the truth is OK.</summary>
             <title type="text">The Personal MBA</title>
             <link rel="alternate" type="text/html" href="https://cartar.github.io./books/202002mypersonalmba/" />
             <id>https://cartar.github.io./books/202002mypersonalmba/</id>
-            <updated>2022-04-29T17:50:28-04:00</updated>
+            <updated>2024-03-30T11:03:20-04:00</updated>
             <published>2020-02-20T11:40:14-04:00</published>
             <author>
                     <name>Will Cartar</name>
                     <uri>https://cartar.github.io./</uri>
                     <email>william.cartar@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I enjoyed this book, but am hesitant to recommend it to others. The writing is only OK, and so much of the content felt somewhat common sense. However, I did find multiple nuggets worth keeping!
-My favourite takeaways Prototyping When developing a business, iteration and feedback are key.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;I enjoyed this book, but am hesitant to recommend it to others. The writing is only OK, and so much of the content felt somewhat common sense. However, I did find multiple nuggets worth keeping!&lt;/p&gt;
+&lt;h1 id=&#34;my-favourite-takeaways&#34;&gt;My favourite takeaways&lt;/h1&gt;
+&lt;h3 id=&#34;prototyping&#34;&gt;Prototyping&lt;/h3&gt;
+&lt;p&gt;When developing a business, iteration and feedback are key. Offering a pre-order with full access to the witten Prototype (description of what is being offered) is ideal.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;I enjoyed this book, but am hesitant to recommend it to others. The writing is only OK, and so much of the content felt somewhat common sense. However, I did find multiple nuggets worth keeping!&lt;/p&gt;
 &lt;h1 id=&#34;my-favourite-takeaways&#34;&gt;My favourite takeaways&lt;/h1&gt;

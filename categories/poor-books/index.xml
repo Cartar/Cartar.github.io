@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poor Books on Will Cartar&#39;s Blog</title>
+    <link>https://cartar.github.io./categories/poor-books/</link>
+    <description>Recent content in Poor Books on Will Cartar&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>william.cartar@gmail.com (Will Cartar)</managingEditor>
+    <webMaster>william.cartar@gmail.com (Will Cartar)</webMaster>
+    <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+    <lastBuildDate>Sat, 30 Mar 2024 11:03:20 -0400</lastBuildDate>
+    <atom:link href="https://cartar.github.io./categories/poor-books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lifecycle of Software Objects</title>
+      <link>https://cartar.github.io./books/202207softwarelifecycle/</link>
+      <pubDate>Sun, 24 Jul 2022 01:40:14 -0400</pubDate><author>william.cartar@gmail.com (Will Cartar)</author>
+      <guid>https://cartar.github.io./books/202207softwarelifecycle/</guid>
+      <description>&lt;p&gt;A short story about what our digital future might hold. We follow an ex-zoo keeper turned digital pet trainer after the zoo she worked at closed down. The world her digi-pet grew up in becomes threatened, and we see the great lengths she&amp;rsquo;ll go, along with a small community of like-minded fanatics, to give these digital humanoids a better future.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

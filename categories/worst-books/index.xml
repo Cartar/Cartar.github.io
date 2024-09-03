@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Worst Books on Will Cartar&#39;s Blog</title>
+    <link>https://cartar.github.io./categories/worst-books/</link>
+    <description>Recent content in Worst Books on Will Cartar&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>william.cartar@gmail.com (Will Cartar)</managingEditor>
+    <webMaster>william.cartar@gmail.com (Will Cartar)</webMaster>
+    <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+    <lastBuildDate>Sat, 30 Mar 2024 11:03:20 -0400</lastBuildDate>
+    <atom:link href="https://cartar.github.io./categories/worst-books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of AI</title>
+      <link>https://cartar.github.io./books/202307futureofai/</link>
+      <pubDate>Sat, 15 Jul 2023 01:40:14 -0400</pubDate><author>william.cartar@gmail.com (Will Cartar)</author>
+      <guid>https://cartar.github.io./books/202307futureofai/</guid>
+      <description>&lt;p&gt;This book has maybe two interesting parts to it. The description of how a new antibiotic was discovered by AI, and the modelling of protein folding by AI. Other than that, the book doesn&amp;rsquo;t go into much detail about AI, and instead focuses on ideas like the cyber threat of AI, and how it is that that cyber threat is different from say nuclear threat. I suppose those would be interesting topics to folks more politically inclined than me. I just wanted to explore cutting edge AI and its novel impacts, which I didn&amp;rsquo;t get from this book.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Sovereign Individual</title>
+      <link>https://cartar.github.io./books/202207sovereignindividual/</link>
+      <pubDate>Sun, 17 Jul 2022 01:40:14 -0400</pubDate><author>william.cartar@gmail.com (Will Cartar)</author>
+      <guid>https://cartar.github.io./books/202207sovereignindividual/</guid>
+      <description>&lt;p&gt;I only skimmed this book, read about 1/3 of the content, but felt I got the gist. The authors outline what they think a future without government power will look like, as power shifts to individuals in the information age.&lt;/p&gt;&#xA;&lt;p&gt;Individuals will be able to insulate themselves from governments in ways previously impossible. Work, communications, assets, and banking systems will be fully digital, allowing life to move wherever the individual desires.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

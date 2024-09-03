@@ -10,7 +10,7 @@
         <title>Will Cartar&#39;s Blog</title>
         <link>https://cartar.github.io./</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.92.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.134.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,25 +23,80 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 17 Feb 2024 16:32:00 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 15:25:18 -0400</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://cartar.github.io./rss.xml" />
         
         
             <item>
-                <title>Ultra-Processed People</title>
-                <link>https://cartar.github.io./books/202402ultraprocessedpeople/</link>
-                <guid isPermaLink="true">https://cartar.github.io./books/202402ultraprocessedpeople/</guid>
-                <pubDate>Sat, 10 Feb 2024 01:40:14 -0400</pubDate>
+                <title>Outlive</title>
+                <link>https://cartar.github.io./books/202407outlived/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/202407outlived/</guid>
+                <pubDate>Fri, 12 Jul 2024 01:40:14 -0400</pubDate>
                 
                     <author>william.cartar@gmail.com (Will Cartar)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;Oh boy, this book wasn&amp;rsquo;t so much anything new, as it was a compelling reminder to eat whole foods, or at the very least, purchase food who&amp;rsquo;s full list of ingredients you&amp;rsquo;d have at home. There is a slow, but steady, understanding of these so-called Ultra-Processed Foods (UPFs), and their negative health implications.&lt;/p&gt;
-&lt;p&gt;I had an inkling about it beforehand, but I had thought the problem stemmed from a low fiber, high in fats, sugar, and salt diet that often goes hand-in-hand with UPFs. However, that isn&amp;rsquo;t it. When controlling for these variables, recent studies have still found negative health outcomes of ~25% increase risks for a whole host of diseases and cancers - including alzheimers! Clearly, there is something unnatural about these ingredients that interact negatively with our bodies.&lt;/p&gt;
-&lt;p&gt;The catch is, these UPFs are cheap, and pervasive. They&amp;rsquo;ve done well to deflect blame to poor eating habits, and align themselves with present day nutritional guidelines published by various governments. So although the packaging of these prepared snacks or meals might look healthy on the outside (think of cereal labels claiming high fiber, low salt / fat, high vitamins, etc.), they&amp;rsquo;re actually made with the help of UPFs. So eating a diet free of UPFs is quite challenging, and expensive.&lt;/p&gt;
-&lt;p&gt;Everything in moderation is probably true, but best to try and avoid these foods.&lt;/p&gt;
+                    <description>&lt;p&gt;Like successful aging, this book is a fascinating read that compiles the latest understandings about our bodies into a compendium of knowledge with many recommendations. Much of this book is summarizing studies about which molecules - proteins, hormones, types of cholesterol, and cellular processes are benefited by eating well, not too much (or too little), exercise, and sleep. However, unlike successful aging, the recommendations can be too specialized at times, and require too many resources (time and money) to execute properly. For example, the discussion about exercise requires a personal trainer, and many hours a week to carry out. Or, to hit the recommended protein levels, one needs to be having a good amount of meat twice per day, every day, on top of a protein shake, and high protein snack. This just doesn&amp;rsquo;t seem wise for the average person, or doable for the average household income. Having said all of this, the overall book was interesting nonetheless, and stacking this book with successful aging was enjoyable.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll start at the end, with my favourite quote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;&amp;lsquo;I think people get old when they stop thinking about the future,&amp;rsquo; Ric told me. &amp;lsquo;If you want to find someone&amp;rsquo;s true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they&amp;rsquo;ve gotten old. If they think about their dreams, their aspiration, what they&amp;rsquo;re still looking forward to - they&amp;rsquo;re young.&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hoping into other points from the book:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I liked the part about rucking, as a great way to improve the benefit of simply going for a walk in your neighbourhood or in the forest -&amp;gt; a good goal is to be able to carry a quarter to a third of your body weight, once you develop enough strength and stamina.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stability training is all about the &amp;ldquo;safe and powerful transmission of force through muscles and bones, and not joints or spinal hinge points&amp;rdquo;. A great way to determine if you&amp;rsquo;re doing a particular exercise well is to film yourself doing it!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;odds are overwhelming that you will die as a result of one of the chronic diseases of aging that I call the Four Horsemen: heart disease, cancer neurodegenerative disease, or type 2 diabetes and related metabolic dysfunction.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;when we are slightly deprived of nutrients, or when we are exercising, FOXO3 (a gene) tends to be more activated, which is what we want (it is correlated with longevity)&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Why do we care about mTOR? Because this mechanism turns out to be one of the most important mediators of longevity at the cellular level. Not only that, but it is highly &amp;lsquo;conserved&amp;rsquo; meaning it is found in virtually all forms of life, ranging from yeast to flies, to worms and right up to us humans&amp;hellip; this exotic molecule, found only on an isolated scrap of land in the middle of the ocean, acts almost like a switch that inhibits a very specific cellular mechanism that exists in nearly everything that lives. It was a perfect fit, and this fact still blows my mind every time I think about it. The job of mTOR is basically to balance an organism&amp;rsquo;s need to grow and reproduce against the availability of nutrients. When food is plentiful, mTOR is activated and the cell (or organism) goes into growth mode&amp;hellip;when nutrients are scarce, mTOR is suppressed and cells go into a kind of &amp;lsquo;recycling&amp;rsquo; mode, breaking down cellular components and generally cleaning house.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Reducing the amount of nutrients available to a cell seems to trigger a group of innate pathways that enhance the cell&amp;rsquo;s stress resistance and metabolic efficiency - all of them related, in some to mTOR.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;While AMPK (an AMP-activated protein kinase) is activated when it low levels of nutrients are detected it is also activated when we exercise.&amp;rdquo; -&amp;gt; Its activation leads to a cascade of helpful cellular responses. -&amp;gt; like, &amp;ldquo;instead of creating new proteins and undergoing cell division, the cell goes into a more fuel-efficient and stress-resistance mode, activating an important cellular recycling process called autophagy, which is basically self-eating&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Impaired autophagy is thought to be an important driver of numerous aging-related phenotypes and ailments, such as neurodegeneration and osteoarthritis.&amp;rdquo; I thus find it fascinating that this very important cellular mechanism can be triggered by certain interventions (exercising and caloric restriction) - and the drug rapamycin. Rapamycin seems to reduce systemic inflammation, perhaps by tamping down the activity of so-called senescent cells, which are &amp;lsquo;older&amp;rsquo; cells that have stopped dividing but have not died&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The various treatment guidelines specify target ranges for LDL-C, typically 100 mg / dL for patients at normal risk, or 70 mg / dL for high-risk individuals. In my view, this is still far too high&amp;hellip; [which is] 10 - 20 mg / dL.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Some scientists believe there may be something about menopause, and the abrupt decline in hormonal signaling, that sharply increases the risk of neurodegeneration in older women. In particular, it appears that a rapid drop in estradiol in women with an e4 allele is a driver of risk; that, in turn, suggests a possible role for perimenopausal hormone replacement therapy in these women. Menopause is not the only issue here. Other reproductive history factors, such as the number of children the women has had, age of first menstruation, and exposure to oral contraceptives, may also have a significant impact on Alzheimer&amp;rsquo;s risk and later life cognition. And new research suggests that women are more prone to accumulate tau, the neurotoxic protein.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Brain cells metabolize glucose in a different way from the rest of the body; they do not depend on insulin, instead absorbing circulating glucose directly&amp;hellip; enabling the brain to take priority when blood glucose levels are low. If we lack new sources of glucose, the brain&amp;rsquo;s preferred fuel, the liver converts our fat into ketone bodies, as an alternative energy source that can sustain us for a very long time, depending on the extent of our fat stores (Unlike muscle or liver, the brain itself does not store energy). When our fat runs out, we begin to consume our own muscle tissue, then our other organs, and even bone, all in order to keep the brain running at all costs. The brain is the last thing to shut off.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s easy to overlook, but alcohol should be considered as its own category of macronutrients because it is so widely consumed, it has such potent effects on our metabolism, and it is so calorically dense at 7 kcal / g (closer to the 9 kcal / g of fat than the 4 kcal / g of both protein and carbohydrate)&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FOR GLUCOSE MONITORING&lt;/strong&gt; - &amp;ldquo;I like to keep average glucose at or below 100 mg / dL, with a STD of less than 15 mg / dL. These are aggressive goals: 100 mg / dL corresponds to an HbA1c of 5.1%, which is quite low.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FOR PROTEIN&lt;/strong&gt; - &amp;ldquo;the first thing you should know about protein is that the standard recommendations for daily consumption are a joke. The US recommended dietary allowance (RDA) for protein is 0.8 g/kg of body weight. This may reflect how much protein we need to stay alive, but a far cry from what we need to thrive. There is ample evidence showing that we require more than this - and that consuming less leads to worse outcomes. More than one study has found that elderly people consuming that RDA of protein end up losing muscle mass, even in as short a period as two weeks&amp;hellip;. I typically set 1.6 g/kg/day as the minimum, and 2.2 as a good place to start for active people&amp;rdquo;. -&amp;gt; split up over 4 heavy-protein intakes: 2 protein rich meals, and 2 protein rich snacks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Trauma generally falls into five categories: abuse, neglect, abandonment, enmeshment (the blurring of boundaries between adults and children) and witnessing tragic events. Most things that wound children fit into these five categories&amp;hellip; dysfunction is represented by the four branches of the trauma tree: addition (not only vices such as drugs, alcohol and gambling, but also socially acceptable things such as work, exercise and perfectionism); codependency, or excessive psychological reliance on another person; habituated survival strategies, such as a propensity to anger and rage; attachment disorders, difficulty forming and maintaining connections or meaningful relationships with others.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;children don&amp;rsquo;t respond to a parent&amp;rsquo;s anger in a logical way. If they see me screaming at a driver who just cut me off, they internalize that rage as though it were directed to them.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;changing the behaviour can change the mood. You don&amp;rsquo;t need to wait for your mood to improve to make a behavioural change. This is why cognitive therapies alone sometimes come up short; simply thinking about problems might not help if our thinking itself is disordered.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
 </description>
                 
@@ -56,6 +111,132 @@
                                 
                                 
                                     <category domain="https://cartar.github.io./categories/good-books/">Good Books</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Ultra-Processed People</title>
+                <link>https://cartar.github.io./books/202403ultraprocessedpeople/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/202403ultraprocessedpeople/</guid>
+                <pubDate>Sat, 30 Mar 2024 01:40:14 -0400</pubDate>
+                
+                    <author>william.cartar@gmail.com (Will Cartar)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Oh boy, this book wasn&amp;rsquo;t so much anything new, as it was a compelling reminder to eat whole foods, or at the very least, purchase food who&amp;rsquo;s full list of ingredients you&amp;rsquo;d have at home. There is a slow, but steady, understanding of these so-called Ultra-Processed Foods (UPFs), and their negative health implications.&lt;/p&gt;
+&lt;p&gt;I had an inkling about it beforehand, but I had thought the problem stemmed from a low fiber, high in fats, sugar, and salt diet that often goes hand-in-hand with UPFs. However, that isn&amp;rsquo;t it. When controlling for these variables, recent studies have still found negative health outcomes of ~25% increase risks for a whole host of diseases and cancers - including alzheimers! Clearly, there is something unnatural about these ingredients that interact negatively with our bodies.&lt;/p&gt;
+&lt;p&gt;The catch is, these UPFs are cheap, and pervasive. They&amp;rsquo;ve done well to deflect blame to poor eating habits, and align themselves with present day nutritional guidelines published by various governments. So although the packaging of these prepared snacks or meals might look healthy on the outside (think of cereal labels claiming high fiber, low salt / fat, high vitamins, etc.), they&amp;rsquo;re actually made with the help of UPFs. So eating a diet free of UPFs is quite challenging, and expensive.&lt;/p&gt;
+&lt;p&gt;Everything in moderation is probably true, but best to try and avoid these foods. Here are a collection of my favourite quotes and moments from this book:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;You might recognize the names of some of these: guar gum, locust bean gum, alginate, carrageenan, and the near ubiquitous xanthan gum. The last of these is, revoltingly, a bacterial exudate: slime that bacteria produce to allow them to cling to surfaces. Think of xanthan gum when you next scrape the accumulated gunk from the filter on your dishwasher.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The classification system is now called the NOVA system, and it divides food into four groups. The first is &amp;lsquo;unprocessed or minimally processed foods&amp;rsquo; - foods found in nature like meat, fruit and vegetables, but also things like flour and pasta. Group 2 is &amp;lsquo;processed culinary ingredients&amp;rsquo; including oils, lard, butter, sugar, salt, vinegar, honey, starches - traditional foods that might well be prepared using industrial technologies. They&amp;rsquo;re not things we can survive on, because they tend to be nutrient-poor and energy-dense. But mix them with stuff from the first group and you&amp;rsquo;ve got the basis of some delicious food. Group 3 is &amp;lsquo;processed food&amp;rsquo;, ready-made mixtures of groups 1 and 2, processed mainly for preservation: tins of beans, salted nuts, smoked meat, canned fish, chunks of fruit in syrup and proper freshly made bread. And then we come to group 4, &amp;lsquo;ultra-processed foods&amp;rsquo; (UPF). It&amp;rsquo;s long, perhaps the longest definition I&amp;rsquo;d ever read of a scientific category: &amp;lsquo;Formulations of ingredients, mostly of exclusive industrial use, made by a series of industrial processes, many requiring sophisticated equipment and technology.&amp;rsquo; That&amp;rsquo;s just the first bit. It continues: &amp;lsquo;Processes used to make UPF include the fractionation of whole foods into substances, chemical modifications of these substances&amp;hellip;&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Processes and ingredients used to manufacture ultra-processed foods are designed to create highly profitable (low-cost ingredients, long shelf life, emphatic branding) convenient (ready-to-consume) hyperpalatable products liable to displace freshly prepared dishes and meals made from all other NOVA food groups.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It is the ultra-processing, not the nutritional content, that&amp;rsquo;s the problem&amp;hellip; there is evidence that increased UPF intake is strongly associated with an increased risk of: all-cause mortality (i.e., death), cardiovascular disease, cancers, type 2 diabetes, high blood pressure, fatty liver disease, inflammatory bowel disease, depression, worse blood fat profile, frailty (measured by grip strength), irritable bowel syndrome, dyspepsia (indigestion), and dementia&amp;rdquo; [references in the book]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In 2022, a study published in the journal Neurology looked at data from over 72,000 people. Increasing intake of UPF by 10% was associated with a 25% increase in the risk of dementia and a 14% increase in the risk of Alzheimer&amp;rsquo;s disease.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;the majority of visits to paediatricians during the 1920&amp;rsquo;s were about fussy eating. The profession responded sensibly&amp;hellip;by advising parents to let children go hungry and to treat them &amp;lsquo;firmly&amp;rsquo;. Alan Brown&amp;rsquo;s 1926 book, &lt;em&gt;The Normal Child, Its Care and Feeding&lt;/em&gt;, provides a good example: &amp;lsquo;Force is necessary for children who spit out their food or those who vomit at will. Give such a child a small amount of the food, if he vomits give him more; continue until he keeps the food down.&amp;rsquo;&amp;rdquo; -&amp;gt; this led one doctor to test children&amp;rsquo;s abilities to self govern their food intake, as young as 1 years old. The moment the children were done breastfeeding, they were fed all their meals by nurses who put 12 bowls of ingredients in front of the kids. Whatever the child pointed to, or tried to eat, was given to them. Amazingly, and somewhat expectedly, they&amp;rsquo;d identify the foods they were nutrient deficient in, to the point where one kid consumed straight fish-oil until they had their vitamine D back in check.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Nearly a century later, in 1959, an English physiologist called G. R. Hervey began a series of experiments using the parabiotic pair technique to understand weight control. The study is tough reading. Ninety-three pairs of rats were sewn together, only thirty-two of which survived long enough to be used in the experiment. These rats then had a small electric probe inserted into their skulls, which was used to specifically damage a part of the brain called the hypothalamus, which maintains homeostasis in the body, controlling temperature, water intake, how much you sweat and so on. Hervey found that the rats with a damaged hypothalamus lost control of their eating and often developed obesity. So, he started damaging the hypothalamus of just one rat in each parabiotic pair, and if anything , the results got even more horrifying. The rats with the damaged hypothalamus ate so much so quickly that they sometimes died by choking on their food: they were no longer able to detect the &amp;lsquo;stop eating&amp;rsquo; signals coming from their bodies. Meanwhile the other rat - entirely normal apart from being attached to the rat with the hypothalamus lesion - started wasting away. It was getting a signal through the shared circulatory system telling it to stop eating.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;If, like me, you&amp;rsquo;re surprised by the idea that doing more won&amp;rsquo;t allow you to eat more calories, it may be because the opposite idea, that you can burn off excess calories, has been promoted by companies like Coke all the way from the scientific papers through to policy initiatives like Exercise is Medicine. It took me some time to accept that, despite having a medical degree, part of the way that I have understood my body and its energy requirements has come from the Coca-Cola Company.&amp;rdquo; -&amp;gt; Interesting take on a few studies showing that energy use is roughly constant regardless how physically active we are. When we do more, we simply use less energy for other things later on, i.e., rest more thereafter.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Apple juice, which is typically around 15% sugar, behaves much like any soft drink. But so does the apple purée, even though it contains all the constituents of the apple, including the fibre, and was made moments before consumption. Fiber is important, but the matrix, the structure of the apple, is key.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Schatzger&amp;rsquo;s proposal is that just like Doc Holliday&amp;rsquo;s cows, we may be eating more food to compensate for becoming increasingly deficient in micronutrients. Ultra-processing reduces micronutrients to the point that modern diets lead to malnutrition even as they cause obesity.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;These four tastes - sweet, salt, sour, and umami - are probably handled by basically four receptors. But bitterness is a different story. Bitter signals &amp;lsquo;potentially toxic&amp;rsquo;, and a huge number of different chemical structures taste bitterness. We need twenty-five different genes to detect bitterness, which gives us a great ability to detect toxins. But we can learn to love bitterness too. Bitter coffee will make a child gag and retch, but you can learn to associate the bitter taste with the exhilaration of the caffeine such that it becomes essential for making adult life bearable.&amp;rdquo; -&amp;gt; Some other interesting things here were that although we don&amp;rsquo;t smell as well dogs, for example, our taste receptors are more complex.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;When Cola was invented, the aim was to make a drink to perk people up, and the original formula contained extract of coca leaves and caffeine. Cocaine and caffeine are both extremely bitter, so the company added lots of sugar to mask this. But that initial bitterness was actually an advantage. It was the extreme bitterness that allowed the addition of more sugar to the drink than would otherwise have been possible&amp;hellip; But why does Coca-Cola want us to drink all this sugar? Remember those rat studies who learned to like flavours paired with calories? Well the same is true in humans&amp;hellip; This may explain a bizarre pricing phenomenon first noticed in Central America but common in low-income countries around the world. Sweet fizzy beverages are nearly as cheap or cheaper than bottled water. Obviously, it&amp;rsquo;s more expensive to make cola, but once people buy one, they will buy more. Water is cheaper to produce, but it&amp;rsquo;s hard to get people to drink lots of it.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;So, by using additives that affect taste and combining sensory experiences, UPF sneaks more rewards (such as sugar) past our tongues than we would otherwise tolerate. It makes us crave UPF more than we could ever crave home cooking. And, by creating mismatches between the sensations in the mouth and the nutrition in the gut, the companies have (if only accidentally) arrived at a method for driving increased consumption.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;4/5.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./categories/good-books/">Good Books</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Age of the City</title>
+                <link>https://cartar.github.io./books/202402ageofthecity/</link>
+                <guid isPermaLink="true">https://cartar.github.io./books/202402ageofthecity/</guid>
+                <pubDate>Mon, 19 Feb 2024 01:40:14 -0400</pubDate>
+                
+                    <author>william.cartar@gmail.com (Will Cartar)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Even as someone who isn&amp;rsquo;t a city planner, I found many of the chapters somewhat obvious. The challenge of climate change in cities, or increased risk of novel viruses for example. However, I did enjoy the book; not dissimilar to a good economist article, the ideas were well written, and the story easy to follow. Just not enough &amp;ldquo;Aha&amp;rdquo; moments I suppose.&lt;/p&gt;
+&lt;p&gt;3/5.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://cartar.github.io./categories/okay-books/">Okay Books</category>
                                 
                             
                         
@@ -98,48 +279,6 @@
                                 
                                 
                                     <category domain="https://cartar.github.io./categories/good-books/">Good Books</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://cartar.github.io./tags/books/">Books</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Age of the City</title>
-                <link>https://cartar.github.io./books/202402ageofthecity/</link>
-                <guid isPermaLink="true">https://cartar.github.io./books/202402ageofthecity/</guid>
-                <pubDate>Tue, 19 Dec 2023 01:40:14 -0400</pubDate>
-                
-                    <author>william.cartar@gmail.com (Will Cartar)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description>&lt;p&gt;Even as someone who isn&amp;rsquo;t a city planner, I found many of the chapters somewhat obvious. The challenge of climate change in cities, or increased risk of novel viruses for example. However, I did enjoy the book; not dissimilar to a good economist article, the ideas were well written, and the story easy to follow. Just not enough &amp;ldquo;Aha&amp;rdquo; moments I suppose.&lt;/p&gt;
-&lt;p&gt;3/5.&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://cartar.github.io./categories/okay-books/">Okay Books</category>
                                 
                             
                         
@@ -273,9 +412,9 @@
 &lt;li&gt;Bacopa - water hyssop, might improve higher-order cognitive processes.&lt;/li&gt;
 &lt;li&gt;Meditation - helps with our ability to maintain attention, reducing activity within the default mode network and increases connectivity between regions of the brain that are implicated in cognitive control.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging2.jpg&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;Well Being Score&lt;/h4&gt;
-        &lt;/figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging2.jpg&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Well Being Score&lt;/h4&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&amp;ldquo;Daniel Pink has to say this about the middle-aged dip: &amp;lsquo;One possibility is the disappointment of unrealized expectations. In our naive twenties and thirties, our hopes are high, our scenarios rosy. Then reality trickled in like a slow leak in the room. Only one person gets to be CEO - and it&amp;rsquo;s not going to be you. Some marriages crumble - and yours, sadly, is one of them&amp;hellip; Yet we don&amp;rsquo;t remain in the emotional basement for long, because over time we adjust our aspirations and later realize that life is pretty good. In short, we dip in the middle because we&amp;rsquo;re lousy forecasters. In youth, our expectations are too high.&amp;rdquo;&lt;/p&gt;
@@ -324,9 +463,9 @@
 &lt;li&gt;&amp;ldquo;Practice gratitude for what you have.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging1.jpg&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;Risk / Protective Factors&lt;/h4&gt;
-        &lt;/figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://cartar.github.io./images/SuccessfulAging1.jpg&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Risk / Protective Factors&lt;/h4&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;appendix-rejuvenating-your-brain&#34;&gt;Appendix: Rejuvenating your brain:&lt;/h3&gt;
@@ -438,7 +577,7 @@
 &lt;p&gt;&amp;ldquo;&amp;lsquo;Having hope&amp;rsquo;, writes Daniel Goleman in his study of emotional intelligence, &amp;lsquo;means that one will not give in to overwhelming anxiety, a defeatist attitude, or depression in the face of difficult challenges or setbacks.&amp;rsquo; Hope is &amp;lsquo;more than the sunny view that everything will turn out all right&amp;rsquo;; it is &amp;lsquo;believing you have the will and the way to accomplish your goals.&amp;rsquo; More clearly than his colleagues, Lincoln understood that numerous setbacks were inevitable before the war could be brought to a close.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Washing was a typical American. Napoleon was a typical Frenchman, but Lincoln was a humanitarian as broad as the world. He was bigger than his country - bigger than all the Presidents together.&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Washing was a typical American. Napoleon was a typical Frenchman, but Lincoln was a humanitarian as broad as the world. He was bigger than his country - bigger than all the Presidents together.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
 </description>
@@ -1219,7 +1358,7 @@
 &lt;p&gt;&amp;ldquo;Whereas Planck had only quantised the emission and absorption of electromagnetic radiation so that his imaginary oscillators would produce the correct spectral distribution of blackbody radiation, Einstein had quantised light itself. The energy of a quantum of yellow light was just Planck&amp;rsquo;s constant multiplied by the frequency of yellow light.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;evidence-for-atoms-1905&#34;&gt;Evidence for atoms (1905):&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;Einstein realised that Brownian motion was due to water molecules regularly deviating from their &amp;lsquo;normal&amp;rsquo; behaviour as some of them got bunched up and struck the pollen together, sending it in a particular direction.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Einstein realised that Brownian motion was due to water molecules regularly deviating from their &amp;rsquo;normal&amp;rsquo; behaviour as some of them got bunched up and struck the pollen together, sending it in a particular direction.&lt;/p&gt;
 &lt;p&gt;Using this insight, Einstein succeeded in calculating the average horizontal distance a particle would travel as it zigzagged along in a given time. He predicted that in water at 17 degrees C, suspended particles with a diameter of one-thousandth of a millimetre would move on average just six-thousandths of a millimetre in one minute. Einstein had come up with a formula that offered the possibility of working out the size of atoms.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;3 years later, in 1908, his predictions were confirmed, for which he received the Nobel Prize in 1926.&lt;/p&gt;
 &lt;h3 id=&#34;more-timelines&#34;&gt;More timelines:&lt;/h3&gt;
@@ -1493,7 +1632,7 @@
                     <description>&lt;p&gt;I only skimmed this book, read about 1/3 of the content, but felt I got the gist. The authors outline what they think a future without government power will look like, as power shifts to individuals in the information age.&lt;/p&gt;
 &lt;p&gt;Individuals will be able to insulate themselves from governments in ways previously impossible. Work, communications, assets, and banking systems will be fully digital, allowing life to move wherever the individual desires.&lt;/p&gt;
 &lt;p&gt;With this newfound autonomy, people will be free to choose their nationality, as it is the author&amp;rsquo;s belief that nations will offer nationality as a service to attract sovereign individuals. Essentially, the book describes a world where governments have fallen out of power, due to tax evasion and social uprisings.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;&amp;hellip;new information technology - the fact that it transcends the tyranny of place. The new technology creates for the first time an infinite, nonterrestrial realm for economic activity. It opens an option to explore the new frontiers of the cybereconomy, to &amp;lsquo;think globally and act globally&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;hellip;new information technology - the fact that it transcends the tyranny of place. The new technology creates for the first time an infinite, nonterrestrial realm for economic activity. It opens an option to explore the new frontiers of the cybereconomy, to &amp;rsquo;think globally and act globally&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Overall, 1/5 - I would not recommend this book.&lt;/p&gt;
 </description>
                 
@@ -2838,7 +2977,7 @@
 &lt;li&gt;Compromise a solution that neither fixes the problem, nor lose too much favor with the public such that they keep power (for now)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;This is the balancing act we ask of politicians, who rose to power off the piggy banks of individuals whose influence is yet another factor for the person in charge.&lt;/p&gt;
-&lt;p&gt;What we need most of all is a new incentive system for our politicians. We need to remove donations from politicians&#39; bank roles. We need to incentivize quality decisions that positively affect those who are losing the most, as measured by third parties.&lt;/p&gt;
+&lt;p&gt;What we need most of all is a new incentive system for our politicians. We need to remove donations from politicians&amp;rsquo; bank roles. We need to incentivize quality decisions that positively affect those who are losing the most, as measured by third parties.&lt;/p&gt;
 &lt;p&gt;We need reform of those who do the reforming.&lt;/p&gt;
 &lt;p&gt;I believe education does work, we just need the right incentives.&lt;/p&gt;
 &lt;p&gt;4/5.&lt;/p&gt;
@@ -2882,7 +3021,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;This book is an epic undertaking, showcasing world history up to the early 2010&amp;rsquo;s, through the lense of the silk road. History has many authors, and this book does well to capture their ideas in a cohesive framework. The thesis presented here outlines how resource transportation routes shaped our world history. Equally important to the goods flowing through commerce were new ideas, including religions, and a massive game of political chess. Short term policies crafted to maintain power at the expense of those without it, often led to self destruction through overreach (and over spending). Worse still was the long term instability created by dying powers&#39; abrupt departure from battleground regions. The most shocking lesson I took away is how cyclical our world history is. The fight for power, and abhorrent disregard for others by those trying to maintain it, is the saddest trait we share.&lt;/p&gt;
+                    <description>&lt;p&gt;This book is an epic undertaking, showcasing world history up to the early 2010&amp;rsquo;s, through the lense of the silk road. History has many authors, and this book does well to capture their ideas in a cohesive framework. The thesis presented here outlines how resource transportation routes shaped our world history. Equally important to the goods flowing through commerce were new ideas, including religions, and a massive game of political chess. Short term policies crafted to maintain power at the expense of those without it, often led to self destruction through overreach (and over spending). Worse still was the long term instability created by dying powers&amp;rsquo; abrupt departure from battleground regions. The most shocking lesson I took away is how cyclical our world history is. The fight for power, and abhorrent disregard for others by those trying to maintain it, is the saddest trait we share.&lt;/p&gt;
 &lt;p&gt;The book starts off slow, but is worth persevering through. It started about 2000 years ago, with the empire of Persia, and the creation of the silk roads. From there, the rise and fall of new and old players, in a dance of power politics and war is spectacular. I hope one day we&amp;rsquo;ll learn from our history, and end the senseless killing of those who are simply trying their best to get by.&lt;/p&gt;
 &lt;h1 id=&#34;my-key-takeaways&#34;&gt;My key takeaways&lt;/h1&gt;
 &lt;ul&gt;
@@ -2948,7 +3087,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;This book was truly a wonderful read! If you want to learn about math&amp;rsquo;s history, you will love this book 💕&lt;/p&gt;
+                    <description>&lt;p&gt;This book was truly a wonderful read! If you want to learn about math&amp;rsquo;s history, you will love this book &amp;#x1f495;&lt;/p&gt;
 &lt;p&gt;You do not need to have a strong background in math to get the full punch from this story.&lt;/p&gt;
 &lt;h1 id=&#34;my-favourite-takeaways&#34;&gt;My favourite takeaways&lt;/h1&gt;
 &lt;h3 id=&#34;regression-to-the-mean&#34;&gt;Regression to the mean&lt;/h3&gt;
